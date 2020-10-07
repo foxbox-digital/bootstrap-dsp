@@ -6,7 +6,8 @@ This will allow to demo the power of the Adobe XD VSCode Extension
 
 ## DSP Setup
 
-- Unzip `resources/xd-0.1.5.vsix.zip` file
+- Change directory to `resources`
+- Unzip `xd-0.1.5.vsix.zip` file
 - Install the extension from the `.vsix` file
 - Hit `Cmd+Opt+X` to load the Adobe XD Extension UI
 - Load the `bootstrap-dsp` folder
@@ -19,10 +20,14 @@ With that a new build will be triggered and the `dist` folder will be updated
 
 ### HTML Webpage
 
+- Change directory to `plainHTML-project`
 - Open the `index.html` file in a browser
+
+**Note:** refresh manually everytime you update the `index.html`
 
 ### Next/React Application
 
+- Change directory to `next-project`
 - Run `npm i` to install the dependencies
 - Run `npm run dev`
 - Open [http://localhost:3000](http://localhost:3000) on the browser
