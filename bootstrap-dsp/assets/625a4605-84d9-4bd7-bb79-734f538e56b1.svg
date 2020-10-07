@@ -1,0 +1,7 @@
+<svg id="Table_Body_Cell_Success" data-name="Table/Body Cell/Success" xmlns="http://www.w3.org/2000/svg" width="136" height="50" viewBox="0 0 136 50">
+  <rect id="base" width="136" height="49" fill="#e9ecef"/>
+  <g id="Table___Borders_Head_Dark_Default" data-name="Table/_/Borders/Head/Dark/Default" transform="translate(0 49.5)">
+    <line id="Line_2" data-name="Line 2" x2="136" fill="none" stroke="#343a40" stroke-width="1"/>
+  </g>
+  <text id="_" data-name="#" transform="translate(10 31)" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">#</tspan></text>
+</svg>

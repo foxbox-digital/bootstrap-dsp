@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="401" height="51" viewBox="0 0 401 51">
+  <g id="List_Group_Ω_Position_Standard_Top" data-name="List Group/Ω/Position Standard/Top" transform="translate(0.5 0.5)">
+    <path id="State" d="M4,0H396a4,4,0,0,1,4,4V50a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" fill="#fff" stroke="#ced4da" stroke-width="1"/>
+    <text id="Label" transform="translate(21 31)" fill="#343a40" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">List Item</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg id="Collapse_Expand" data-name="Collapse/Expand" xmlns="http://www.w3.org/2000/svg" width="599" height="377" viewBox="0 0 599 377">
+  <g id="Collapse_Accordian" data-name="Collapse/Accordian" transform="translate(0 329)">
+    <g id="base" fill="#f7f7f7" stroke="#dfdfdf" stroke-width="1">
+      <path d="M4,0H595a4,4,0,0,1,4,4V48a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" stroke="none"/>
+      <path d="M4,.5H595A3.5,3.5,0,0,1,598.5,4V47a.5.5,0,0,1-.5.5H1A.5.5,0,0,1,.5,47V4A3.5,3.5,0,0,1,4,.5Z" fill="none"/>
+    </g>
+    <text id="Collapsible_Group_Item_1" data-name="Collapsible Group Item #1" transform="translate(21 30)" fill="#007aff" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Collapsible Group Item #1</tspan></text>
+  </g>
+  <g id="Collapse_Accordian_Expand_Content" data-name="Collapse/Accordian/Expand Content" transform="translate(0 96)">
+    <g id="base-2" data-name="base" fill="#fff" stroke="#dfdfdf" stroke-width="1">
+      <rect width="599" height="233" stroke="none"/>
+      <rect x="0.5" y="0.5" width="598" height="232" fill="none"/>
+    </g>
+    <text id="Lorem_ipsum_dolor_sit_amet_consectetuer_adipiscing_elit._Aenean_commodo_ligula_eget_dolor._Aenean_massa._Cum_sociis_natoque_penatibus_et_magnis_dis_parturient_montes_nascetur_ridiculus_mus._Donec_quam_felis_ultricies_nec_pellentesque_eu_pretium_quis_" data-name="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, " transform="translate(22 18)" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="15">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo </tspan><tspan x="0" y="39">ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis </tspan><tspan x="0" y="63">parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, </tspan><tspan x="0" y="87">pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec </tspan><tspan x="0" y="111">pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, </tspan><tspan x="0" y="135">rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede </tspan><tspan x="0" y="159">mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper </tspan><tspan x="0" y="183">nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu.</tspan></text>
+  </g>
+  <g id="Collapse_Accordian-2" data-name="Collapse/Accordian" transform="translate(0 48)">
+    <g id="base-3" data-name="base" fill="#f7f7f7" stroke="#dfdfdf" stroke-width="1">
+      <rect width="599" height="48" stroke="none"/>
+      <rect x="0.5" y="0.5" width="598" height="47" fill="none"/>
+    </g>
+    <text id="Collapsible_Group_Item_1-2" data-name="Collapsible Group Item #1" transform="translate(21 30)" fill="#007aff" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Collapsible Group Item #1</tspan></text>
+  </g>
+  <g id="Collapse_Accordian-3" data-name="Collapse/Accordian">
+    <g id="base-4" data-name="base" fill="#f7f7f7" stroke="#dfdfdf" stroke-width="1">
+      <path d="M4,0H595a4,4,0,0,1,4,4V48a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" stroke="none"/>
+      <path d="M4,.5H595A3.5,3.5,0,0,1,598.5,4V47a.5.5,0,0,1-.5.5H1A.5.5,0,0,1,.5,47V4A3.5,3.5,0,0,1,4,.5Z" fill="none"/>
+    </g>
+    <text id="Collapsible_Group_Item_1-3" data-name="Collapsible Group Item #1" transform="translate(21 30)" fill="#007aff" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Collapsible Group Item #1</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg id="InputGroup_Base_Outline_Right_Medium" data-name="InputGroup/Base/Outline/Right/Medium" xmlns="http://www.w3.org/2000/svg" width="156" height="48" viewBox="0 0 156 48">
+  <g id="base" fill="#fff">
+    <path d="M 151 47.5 L 0.5 47.5 L 0.5 0.5 L 151 0.5 C 153.4812927246094 0.5 155.5 2.518699884414673 155.5 5 L 155.5 43 C 155.5 45.48130035400391 153.4812927246094 47.5 151 47.5 Z" stroke="none"/>
+    <path d="M 1 1 L 1 47 L 151 47 C 153.2055969238281 47 155 45.20560073852539 155 43 L 155 5 C 155 2.794399261474609 153.2055969238281 1 151 1 L 1 1 M 0 0 L 151 0 C 153.7614135742188 0 156 2.238578796386719 156 5 L 156 43 C 156 45.76142120361328 153.7614135742188 48 151 48 L 0 48 L 0 0 Z" stroke="none" fill="#6c757d"/>
+  </g>
+  <text id="Large_Button" data-name="Large Button" transform="translate(20 31)" fill="#6c757d" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Large Button</tspan></text>
+</svg>

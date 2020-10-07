@@ -1,0 +1,9 @@
+<svg id="InputGroup_Base_Text_Right_Large" data-name="InputGroup/Base/Text/Right/Large" xmlns="http://www.w3.org/2000/svg" width="156" height="48" viewBox="0 0 156 48">
+  <g id="InputGroup_Right_Placeholder_Large" data-name="InputGroup/Right/Placeholder/Large">
+    <g id="InputGroup_Right_Placeholder_Large-2" data-name="InputGroup/Right/Placeholder/Large" fill="#fff" stroke="#ced4da" stroke-width="1">
+      <path d="M0,0H152a4,4,0,0,1,4,4V44a4,4,0,0,1-4,4H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M1,.5H152A3.5,3.5,0,0,1,155.5,4V44a3.5,3.5,0,0,1-3.5,3.5H1A.5.5,0,0,1,.5,47V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+    </g>
+  </g>
+  <text id="Large_Button" data-name="Large Button" transform="translate(20 31)" fill="#868e96" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Large Button</tspan></text>
+</svg>

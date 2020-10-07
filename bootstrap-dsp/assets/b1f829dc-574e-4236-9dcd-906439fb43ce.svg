@@ -1,0 +1,27 @@
+<svg id="Dropdown_Menu_dividers" data-name="Dropdown/Menu dividers" xmlns="http://www.w3.org/2000/svg" width="204" height="210" viewBox="0 0 204 210">
+  <g id="Card_Background" data-name="Card/Background">
+    <g id="card_background_simple" data-name="card background/simple" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+      <rect width="204" height="210" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="203" height="209" rx="4.5" fill="none"/>
+    </g>
+  </g>
+  <g id="Divider" transform="translate(0.5 97.5)">
+    <rect id="Rectangle" width="203" height="1" fill="#e9ecef"/>
+  </g>
+  <g id="Dropdown_item" data-name="Dropdown/item" transform="translate(1 9)">
+    <rect id="Rectangle-2" data-name="Rectangle" width="200" height="32" fill="none"/>
+    <text id="Label" transform="translate(24 22)" fill="#212529" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Action</tspan></text>
+  </g>
+  <g id="Dropdown_item-2" data-name="Dropdown/item" transform="translate(1 106)">
+    <rect id="Rectangle-3" data-name="Rectangle" width="200" height="32" fill="none"/>
+    <text id="Label-2" data-name="Label" transform="translate(24 22)" fill="#212529" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Action</tspan></text>
+  </g>
+  <g id="Dropdown_item-3" data-name="Dropdown/item" transform="translate(1 58)">
+    <rect id="Rectangle-4" data-name="Rectangle" width="200" height="32" fill="none"/>
+    <text id="Label-3" data-name="Label" transform="translate(24 22)" fill="#212529" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Another action</tspan></text>
+  </g>
+  <g id="Dropdown_item-4" data-name="Dropdown/item" transform="translate(1 155)">
+    <rect id="Rectangle-5" data-name="Rectangle" width="200" height="32" fill="none"/>
+    <text id="Label-4" data-name="Label" transform="translate(24 22)" fill="#212529" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Another action</tspan></text>
+  </g>
+</svg>

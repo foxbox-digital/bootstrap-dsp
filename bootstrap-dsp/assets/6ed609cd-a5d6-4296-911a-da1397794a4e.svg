@@ -1,0 +1,56 @@
+<svg id="Dropdown_Menu_forms_with_footer" data-name="Dropdown/Menu forms/with footer" xmlns="http://www.w3.org/2000/svg" width="248" height="393" viewBox="0 0 248 393">
+  <g id="Card_Background" data-name="Card/Background">
+    <g id="card_background_simple" data-name="card background/simple" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+      <rect width="248" height="393" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="247" height="392" rx="4.5" fill="none"/>
+    </g>
+  </g>
+  <g id="Dropdown_item" data-name="Dropdown/item" transform="translate(1 313)">
+    <rect id="Rectangle" width="230" height="32" fill="none"/>
+    <text id="Label" transform="translate(24 22)" fill="#212529" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">New around here? Sign up</tspan></text>
+  </g>
+  <g id="Dropdown_item-2" data-name="Dropdown/item" transform="translate(1 345)">
+    <rect id="Rectangle-2" data-name="Rectangle" width="247" height="32" fill="none"/>
+    <text id="Label-2" data-name="Label" transform="translate(24 22)" fill="#212529" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Forgot password?</tspan></text>
+  </g>
+  <g id="Form_Input_Checkbox_Group_Default" data-name="Form/Input/Checkbox Group/Default" transform="translate(24 200)">
+    <text id="Label-3" data-name="Label" transform="translate(19 15)" fill="#212529" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Remember me</tspan></text>
+    <g id="Checkbox" transform="translate(0 2.5)">
+      <g id="Rectangle-3" data-name="Rectangle" fill="#fff" stroke="#b7b7b7" stroke-miterlimit="10" stroke-width="1">
+        <rect width="14" height="14" rx="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="13" height="13" rx="2.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+  <g id="Divider" transform="translate(1 304)">
+    <rect id="Rectangle-4" data-name="Rectangle" width="247" height="1" fill="#e9ecef"/>
+  </g>
+  <g id="Form_Form_Group_Basic_Default" data-name="Form/Form Group/Basic/Default" transform="translate(24 26)">
+    <text id="Group_Label" data-name="Group Label" transform="translate(0 15)" fill="#212529" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Email address</tspan></text>
+    <g id="Form_Input_Text_Default" data-name="Form/Input/Text/Default" transform="translate(0 29)">
+      <g id="Input_Base" data-name="Input/Base">
+        <g id="Input_Base-2" data-name="Input/Base" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+          <rect width="202" height="38" rx="5" stroke="none"/>
+          <rect x="-0.5" y="-0.5" width="203" height="39" rx="5.5" fill="none"/>
+        </g>
+      </g>
+      <text id="Text_State" data-name="Text State" transform="translate(12.5 23.5)" fill="#868d96" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Default input</tspan></text>
+    </g>
+  </g>
+  <g id="Form_Form_Group_Basic_Default-2" data-name="Form/Form Group/Basic/Default" transform="translate(24 113)">
+    <text id="Group_Label-2" data-name="Group Label" transform="translate(0 15)" fill="#212529" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Password</tspan></text>
+    <g id="Form_Input_Text_Default-2" data-name="Form/Input/Text/Default" transform="translate(0 29)">
+      <g id="Input_Base-3" data-name="Input/Base">
+        <g id="Input_Base-4" data-name="Input/Base" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+          <rect width="202" height="38" rx="5" stroke="none"/>
+          <rect x="-0.5" y="-0.5" width="203" height="39" rx="5.5" fill="none"/>
+        </g>
+      </g>
+      <text id="Text_State-2" data-name="Text State" transform="translate(12.5 23.5)" fill="#868d96" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Default input</tspan></text>
+    </g>
+  </g>
+  <g id="Button_Default_Primary" data-name="Button/Default/Primary" transform="translate(24 242)">
+    <rect id="Primary_007BFF" data-name="Primary / #007BFF" width="87" height="38" rx="5" fill="#007bff"/>
+    <text id="Primary" transform="translate(16 24)" fill="#fff" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Primary</tspan></text>
+  </g>
+</svg>

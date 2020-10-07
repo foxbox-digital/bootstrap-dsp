@@ -1,0 +1,12 @@
+<svg id="InputGroup_Radio" data-name="InputGroup/Radio" xmlns="http://www.w3.org/2000/svg" width="44" height="38" viewBox="0 0 44 38">
+  <g id="InputGroup_Base" data-name="InputGroup/Base" fill="#e9ecef" stroke="#ced4da" stroke-width="1">
+    <path d="M4,0H44a0,0,0,0,1,0,0V38a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" stroke="none"/>
+    <path d="M4,.5H43a.5.5,0,0,1,.5.5V37a.5.5,0,0,1-.5.5H4A3.5,3.5,0,0,1,.5,34V4A3.5,3.5,0,0,1,4,.5Z" fill="none"/>
+  </g>
+  <g id="Radio" transform="translate(14 11)">
+    <g id="Oval" fill="#fff" stroke="#b6b6b6" stroke-miterlimit="10" stroke-width="1">
+      <circle cx="8" cy="8" r="8" stroke="none"/>
+      <circle cx="8" cy="8" r="7.5" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg id="Dropdown_Button_Split_Button_Danger" data-name="Dropdown/Button/Split Button/Danger" xmlns="http://www.w3.org/2000/svg" width="108" height="38" viewBox="0 0 108 38">
+  <g id="Dropdown_Selector" data-name="Dropdown Selector" transform="translate(78.453)">
+    <path id="Style" d="M0,0H26a4,4,0,0,1,4,4V34a4,4,0,0,1-4,4H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(-0.453)" fill="#dc3545"/>
+    <path id="Mask" d="M0,0H12L6,6Z" transform="translate(9 16)" fill="#fff"/>
+  </g>
+  <g id="Button">
+    <path id="Style-2" data-name="Style" d="M4,0H78a0,0,0,0,1,0,0V38a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" fill="#dc3545"/>
+    <text id="Label" transform="translate(13 24)" fill="#fff" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Danger</tspan></text>
+  </g>
+</svg>

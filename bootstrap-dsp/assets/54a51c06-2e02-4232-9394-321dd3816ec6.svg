@@ -1,0 +1,8 @@
+<svg id="Dropdown_Button_Success_Small" data-name="Dropdown/Button/Success/Small" xmlns="http://www.w3.org/2000/svg" width="131" height="31" viewBox="0 0 131 31">
+  <rect id="Primary_007BFF" data-name="Primary / #007BFF" width="131" height="31" rx="5" fill="#28a745"/>
+  <g id="icon_dropdown_arrow_small" data-name="icon/dropdown arrow/small" transform="translate(105 11)">
+    <rect id="Dropdown_Button_Ω_Carot_Down_background" data-name="Dropdown/Button/Ω/Carot/Down background" width="10" height="10" fill="none"/>
+    <path id="Mask" d="M0,0H10L5,5Z" transform="translate(0 2.5)" fill="#fff"/>
+  </g>
+  <text id="Small_Button" data-name="Small Button" transform="translate(16 20)" fill="#fff" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Small Button</tspan></text>
+</svg>

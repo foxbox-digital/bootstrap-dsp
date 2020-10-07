@@ -1,0 +1,7 @@
+<svg id="ButtonGroup_Outlined_Left" data-name="ButtonGroup/Outlined/Left" xmlns="http://www.w3.org/2000/svg" width="60" height="38" viewBox="0 0 60 38">
+  <g id="Secondary_6C757D" data-name="Secondary / #6C757D" fill="none" stroke="#6c757d" stroke-width="1">
+    <path d="M5,0H60a0,0,0,0,1,0,0V38a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" stroke="none"/>
+    <path d="M5,.5H59a.5.5,0,0,1,.5.5V37a.5.5,0,0,1-.5.5H5A4.5,4.5,0,0,1,.5,33V5A4.5,4.5,0,0,1,5,.5Z" fill="none"/>
+  </g>
+  <text id="Left" transform="translate(30 24)" fill="#6c757d" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-13.632" y="0">Left</tspan></text>
+</svg>

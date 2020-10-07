@@ -1,0 +1,21 @@
+<svg id="Card_Titles_text_and_links" data-name="Card/Titles, text, and links" xmlns="http://www.w3.org/2000/svg" width="288" height="212" viewBox="0 0 288 212">
+  <g id="Card_Background" data-name="Card/Background">
+    <g id="card_background_simple" data-name="card background/simple" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+      <rect width="288" height="212" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="287" height="211" rx="4.5" fill="none"/>
+    </g>
+  </g>
+  <text id="Card_title" data-name="Card title" transform="translate(22 40)" font-size="20" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">Card title</tspan></text>
+  <text id="Some_quick_example_text_to_build_on_the_card_title_and_make_up_the_bulk_of_the_card_s_content." data-name="Some quick example text to build 
+on the card title and make up the 
+bulk of the card’s content." transform="translate(22 82)" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="15">Some quick example text to build </tspan><tspan x="0" y="39">on the card title and make up the </tspan><tspan x="0" y="63">bulk of the card’s content.</tspan></text>
+  <g id="Button_Default_Link" data-name="Button/Default/Link" transform="translate(6 158)">
+    <rect id="transparent" width="95" height="38" rx="4" fill="none"/>
+    <text id="Card_link" data-name="Card link" transform="translate(16 24)" fill="#007aff" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Card link</tspan></text>
+  </g>
+  <g id="Button_Default_Link-2" data-name="Button/Default/Link" transform="translate(101 158)">
+    <rect id="transparent-2" data-name="transparent" width="117" height="38" rx="4" fill="none"/>
+    <text id="Another_link" data-name="Another link" transform="translate(16 24)" fill="#007aff" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Another link</tspan></text>
+  </g>
+  <text id="Card_subtitle" data-name="Card subtitle" transform="translate(22 67)" fill="#6c757d" font-size="16" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">Card subtitle</tspan></text>
+</svg>

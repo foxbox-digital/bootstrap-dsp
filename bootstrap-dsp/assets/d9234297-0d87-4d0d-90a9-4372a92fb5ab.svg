@@ -1,0 +1,7 @@
+<svg id="Spinner_Button_text" data-name="Spinner/Button text" xmlns="http://www.w3.org/2000/svg" width="130" height="38" viewBox="0 0 130 38">
+  <rect id="Primary_007BFF" data-name="Primary / #007BFF" width="130" height="38" rx="5" fill="#58aaff"/>
+  <text id="Loading_" data-name="Loading…" transform="translate(40 24)" fill="#fff" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Loading…</tspan></text>
+  <g id="Spinner_Border" data-name="Spinner/Border" transform="translate(16 10.999)">
+    <path id="Spinner_Border-2" data-name="Spinner/Border" d="M8,16A8,8,0,0,1,4.887.628,7.948,7.948,0,0,1,8,0V2.4H8A5.6,5.6,0,1,0,13.6,8H16a7.991,7.991,0,0,1-8,8Z" fill="#f8f9fa"/>
+  </g>
+</svg>

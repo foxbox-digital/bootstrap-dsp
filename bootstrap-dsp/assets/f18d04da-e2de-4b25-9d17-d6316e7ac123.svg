@@ -1,0 +1,15 @@
+<svg id="Progress_Container_Bar_Partial" data-name="Progress/Container/Bar Partial" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="16" viewBox="0 0 400 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="mask" width="400" height="16" rx="4" transform="translate(0 0.5)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Progress_Container" data-name="Progress/Container">
+    <rect id="Rectangle" width="400" height="16" rx="4" fill="#e9ecef"/>
+  </g>
+  <g id="Progress_Bar_Partial_Default" data-name="Progress/Bar Partial/Default" transform="translate(0 -0.5)" clip-path="url(#clip-path)">
+    <g id="Progress_Bar_Partial_Base" data-name="Progress/Bar Partial/Base" transform="translate(0 0.5)">
+      <rect id="Rectangle-2" data-name="Rectangle" width="100" height="16" fill="#007bff"/>
+    </g>
+  </g>
+</svg>

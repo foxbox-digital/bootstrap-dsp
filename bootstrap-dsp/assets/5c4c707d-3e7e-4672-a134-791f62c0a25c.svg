@@ -1,0 +1,17 @@
+<svg id="Navs_tab_active" data-name="Navs/tab/active" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="77" height="42.001" viewBox="0 0 77 42.001">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M77,42H76V41H1v1H0V0H77V42Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Tab">
+    <path id="Mask-2" data-name="Mask" d="M77,42H76V41H1v1H0V0H77V42Z" fill="none"/>
+    <g id="Tab-2" data-name="Tab" clip-path="url(#clip-path)">
+      <g id="Rectangle" transform="translate(0 0)" fill="#fff" stroke="#dfe3e6" stroke-miterlimit="10" stroke-width="1">
+        <path d="M4,0H73a4,4,0,0,1,4,4V42a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" stroke="none"/>
+        <path d="M4,.5H73A3.5,3.5,0,0,1,76.5,4V41a.5.5,0,0,1-.5.5H1A.5.5,0,0,1,.5,41V4A3.5,3.5,0,0,1,4,.5Z" fill="none"/>
+      </g>
+    </g>
+  </g>
+  <text id="Active" transform="translate(17 27)" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Active</tspan></text>
+</svg>

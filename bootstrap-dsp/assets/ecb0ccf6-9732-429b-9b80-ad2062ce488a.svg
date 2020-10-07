@@ -1,0 +1,26 @@
+<svg id="Card_with_images" data-name="Card/with images" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="288" height="290" viewBox="0 0 288 290">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="image_mask" data-name="image mask" d="M4,0H283a4,4,0,0,1,4,4V182a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(-0.244 -1.694)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Card_Background" data-name="Card/Background">
+    <g id="card_background_simple" data-name="card background/simple" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+      <rect width="288" height="290" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="287" height="289" rx="4.5" fill="none"/>
+    </g>
+  </g>
+  <text id="Some_quick_example_text_to_build_on_the_card_title_and_make_up_the_bulk_of_the_card_s_content." data-name="Some quick example text to build 
+on the card title and make up the 
+bulk of the card’s content." transform="translate(22 202)" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="15">Some quick example text to build </tspan><tspan x="0" y="39">on the card title and make up the </tspan><tspan x="0" y="63">bulk of the card’s content.</tspan></text>
+  <g id="Image" transform="translate(1.244 2.694)" clip-path="url(#clip-path)">
+    <g id="Image_placeholder_small" data-name="Image placeholder / small" transform="translate(-0.244 -1.694)">
+      <rect id="shape" width="286" height="182" fill="#777"/>
+      <g id="icon_image" data-name="icon/image" transform="translate(116.758 68)">
+        <path id="Path_580" data-name="Path 580" d="M46.377,4.357H6.627A3.335,3.335,0,0,0,3.314,7.714V41.286a3.335,3.335,0,0,0,3.312,3.357h39.75a3.335,3.335,0,0,0,3.313-3.357V7.714A3.335,3.335,0,0,0,46.377,4.357ZM6.627,1A6.67,6.67,0,0,0,0,7.714V41.286A6.67,6.67,0,0,0,6.627,48h39.75A6.67,6.67,0,0,0,53,41.286V7.714A6.67,6.67,0,0,0,46.377,1H6.627Z" transform="translate(-0.002 -1)" fill="#f8f9fa" fill-rule="evenodd"/>
+        <path id="Path_581" data-name="Path 581" d="M35.313,8.026a1.761,1.761,0,0,1,2.052-.335L50.8,14.71V30.932H1v-7.21l9.412-8.486a1.761,1.761,0,0,1,2.241-.224L22.116,21.4,35.313,8.03Z" transform="translate(0.599 13.516)" fill="#f8f9fa"/>
+        <path id="Path_582" data-name="Path 582" d="M7.971,14.071A5.036,5.036,0,1,0,3,9.036a5,5,0,0,0,4.969,5.036Z" transform="translate(6.935 6.071)" fill="#f8f9fa" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="419" height="126" viewBox="0 0 419 126">
+  <g id="List_Group_Item_heading_Center" data-name="List Group/Item heading/Center" transform="translate(0.5 0.5)">
+    <rect id="State" width="418" height="125" fill="#fff" stroke="#ced4da" stroke-width="1"/>
+    <g id="content" transform="translate(-3 -10)">
+      <text id="Donec_id_elit_non_mi_porta." data-name="Donec id elit non mi porta." transform="translate(19 122)" fill="#6c757d" font-size="13" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Donec id elit non mi porta.</tspan></text>
+      <text id="This_is_a_wider_card_with_supporting_text_below_as_a_natural_lead-in_to_additional_content.ádadsasdasdsadas" data-name="This is a wider card with supporting text below as a natural lead-in to additional content.ádadsasdasdsadas" transform="translate(19 55)" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="15">This is a wider card with supporting text below as a </tspan><tspan x="0" y="39">natural lead-in to additional </tspan></text>
+      <g id="header">
+        <text id="List_group_item_heading" data-name="List group item heading" transform="translate(19 40)" font-size="20" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">List group item heading</tspan></text>
+        <text id="_3_days_ago" data-name="3 days ago" transform="translate(397 37)" fill="#6c757d" font-size="13" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-64.051" y="0">3 days ago</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

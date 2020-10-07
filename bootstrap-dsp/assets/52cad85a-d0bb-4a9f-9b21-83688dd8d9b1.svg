@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="401" height="151" viewBox="0 0 401 151">
+  <g id="List_Group_With_Checkboxes" data-name="List Group/With Checkboxes" transform="translate(0.5 0.5)">
+    <g id="List_Group_Position_Standard_Checkbox_Top" data-name="List Group/Position Standard/Checkbox/Top" transform="translate(0 100)">
+      <rect id="State" width="400" height="50" fill="#fff" stroke="#ced4da" stroke-width="1"/>
+      <text id="Label" transform="translate(44 31)" fill="#343a40" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">List Item</tspan></text>
+      <g id="Checkbox" transform="translate(20 18)">
+        <g id="Rectangle" fill="#fff" stroke="#b7b7b7" stroke-miterlimit="10" stroke-width="1">
+          <rect width="14" height="14" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="13" height="13" rx="2.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="List_Group_Position_Standard_Checkbox_Top-2" data-name="List Group/Position Standard/Checkbox/Top" transform="translate(0 50)">
+      <rect id="State-2" data-name="State" width="400" height="50" fill="#fff" stroke="#ced4da" stroke-width="1"/>
+      <text id="Label-2" data-name="Label" transform="translate(44 31)" fill="#343a40" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">List Item</tspan></text>
+      <g id="Checkbox-2" data-name="Checkbox" transform="translate(20 18)">
+        <g id="Rectangle-2" data-name="Rectangle" fill="#fff" stroke="#b7b7b7" stroke-miterlimit="10" stroke-width="1">
+          <rect width="14" height="14" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="13" height="13" rx="2.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="List_Group_Position_Standard_Checkbox_Top-3" data-name="List Group/Position Standard/Checkbox/Top">
+      <path id="State-3" data-name="State" d="M4,0H396a4,4,0,0,1,4,4V50a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" fill="#fff" stroke="#ced4da" stroke-width="1"/>
+      <text id="Label-3" data-name="Label" transform="translate(44 31)" fill="#343a40" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">List Item</tspan></text>
+      <g id="Checkbox-3" data-name="Checkbox" transform="translate(20 18)">
+        <g id="Rectangle-3" data-name="Rectangle" fill="#fff" stroke="#b7b7b7" stroke-miterlimit="10" stroke-width="1">
+          <rect width="14" height="14" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="13" height="13" rx="2.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

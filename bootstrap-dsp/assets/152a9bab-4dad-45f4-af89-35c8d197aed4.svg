@@ -1,0 +1,10 @@
+<svg id="Table_Head_Cell_Dark_Contextual" data-name="Table/Head Cell/Dark Contextual" xmlns="http://www.w3.org/2000/svg" width="136" height="50.5" viewBox="0 0 136 50.5">
+  <rect id="base" width="136" height="49.5" fill="#007bff"/>
+  <g id="Table_Borders_Body_Dark_Default" data-name="Table/Borders/Body/Dark/Default" transform="translate(0 50)">
+    <line id="Table_Borders_Body_White_Default" data-name="Table/Borders/Body/White/Default" x2="136" fill="none" stroke="#31373e" stroke-width="1"/>
+  </g>
+  <g id="Table_Borders" data-name="Table/Borders" transform="translate(0 1)">
+    <line id="Line_2" data-name="Line 2" x2="136" transform="translate(0 49)" fill="none" stroke="#343a40" stroke-width="1"/>
+  </g>
+  <text id="Head" transform="translate(10 31.246)" fill="#fff" font-size="16" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">Head</tspan></text>
+</svg>

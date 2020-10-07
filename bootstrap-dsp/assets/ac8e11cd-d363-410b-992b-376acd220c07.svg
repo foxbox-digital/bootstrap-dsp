@@ -1,0 +1,8 @@
+<svg id="Dropdown_Button_Warning" data-name="Dropdown/Button/Warning" xmlns="http://www.w3.org/2000/svg" width="113" height="38" viewBox="0 0 113 38">
+  <rect id="Shape" width="113" height="38" rx="5" fill="#ffc107"/>
+  <g id="icon_dropdown_arrow_default" data-name="icon/dropdown arrow/default" transform="translate(83 12)">
+    <rect id="Dropdown_Button_Ω_Carot_Down_background" data-name="Dropdown/Button/Ω/Carot/Down background" width="14" height="14" fill="none"/>
+    <path id="icon_dropdown_arrow" data-name="icon/dropdown arrow" d="M.023-6h12L6,0Z" transform="translate(0.977 10)" fill="#fff"/>
+  </g>
+  <text id="Warning" transform="translate(16 24)" fill="#343a40" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Warning</tspan></text>
+</svg>

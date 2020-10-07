@@ -1,0 +1,228 @@
+{
+  "font": {
+    "H6/White/Helvetica Neue/16pt": {
+      "family": {
+        "value": "HelveticaNeue-Medium"
+      },
+      "style": {
+        "value": "Medium"
+      }
+    },
+    "H5/White/Helvetica Neue/20pt": {
+      "family": {
+        "value": "HelveticaNeue-Medium"
+      },
+      "style": {
+        "value": "Medium"
+      }
+    },
+    "H4/White/Helvetica Neue/24pt": {
+      "family": {
+        "value": "HelveticaNeue-Medium"
+      },
+      "style": {
+        "value": "Medium"
+      }
+    },
+    "H3/White/Helvetica Neue/28pt": {
+      "family": {
+        "value": "HelveticaNeue-Medium"
+      },
+      "style": {
+        "value": "Medium"
+      }
+    },
+    "H1/White/Helvetica Neue/40pt": {
+      "family": {
+        "value": "HelveticaNeue-Medium"
+      },
+      "style": {
+        "value": "Medium"
+      }
+    },
+    "Display4/White/Helvetica Neue/56pt": {
+      "family": {
+        "value": "HelveticaNeue-Light"
+      },
+      "style": {
+        "value": "Light"
+      }
+    },
+    "H2/White/Helvetica Neue/32pt": {
+      "family": {
+        "value": "HelveticaNeue-Medium"
+      },
+      "style": {
+        "value": "Medium"
+      }
+    },
+    "Display2/White/Helvetica Neue/88pt": {
+      "family": {
+        "value": "HelveticaNeue-Light"
+      },
+      "style": {
+        "value": "Light"
+      }
+    },
+    "Display3/White/Helvetica Neue/72pt": {
+      "family": {
+        "value": "HelveticaNeue-Light"
+      },
+      "style": {
+        "value": "Light"
+      }
+    },
+    "H6/Helvetica Neue/16pt": {
+      "family": {
+        "value": "HelveticaNeue-Medium"
+      },
+      "style": {
+        "value": ""
+      }
+    },
+    "Display1/White/Helvetica Neue/96pt": {
+      "family": {
+        "value": "HelveticaNeue-Light"
+      },
+      "style": {
+        "value": "Light"
+      }
+    },
+    "H5/Helvetica Neue/20pt": {
+      "family": {
+        "value": "HelveticaNeue-Medium"
+      },
+      "style": {
+        "value": ""
+      }
+    },
+    "H4/Helvetica Neue/24pt": {
+      "family": {
+        "value": "HelveticaNeue-Medium"
+      },
+      "style": {
+        "value": ""
+      }
+    },
+    "H1/Helvetica Neue/40pt": {
+      "family": {
+        "value": "HelveticaNeue-Medium"
+      },
+      "style": {
+        "value": ""
+      }
+    },
+    "H3/Helvetica Neue/28pt": {
+      "family": {
+        "value": "HelveticaNeue-Medium"
+      },
+      "style": {
+        "value": ""
+      }
+    },
+    "H2/Helvetica Neue/32pt": {
+      "family": {
+        "value": "HelveticaNeue-Medium"
+      },
+      "style": {
+        "value": ""
+      }
+    },
+    "Display3/Helvetica Neue/72pt": {
+      "family": {
+        "value": "HelveticaNeue-Light"
+      },
+      "style": {
+        "value": ""
+      }
+    },
+    "Display4/Helvetica Neue/56pt": {
+      "family": {
+        "value": "HelveticaNeue-Light"
+      },
+      "style": {
+        "value": ""
+      }
+    },
+    "Display1/Helvetica Neue/96pt": {
+      "family": {
+        "value": "HelveticaNeue-Light"
+      },
+      "style": {
+        "value": ""
+      }
+    },
+    "Display2/Helvetica Neue/88pt": {
+      "family": {
+        "value": "HelveticaNeue-Light"
+      },
+      "style": {
+        "value": ""
+      }
+    }
+  },
+  "size": {
+    "font": {
+      "H6/White/Helvetica Neue/16pt": {
+        "value": "16"
+      },
+      "H5/White/Helvetica Neue/20pt": {
+        "value": "20"
+      },
+      "H4/White/Helvetica Neue/24pt": {
+        "value": "24"
+      },
+      "H3/White/Helvetica Neue/28pt": {
+        "value": "28"
+      },
+      "H1/White/Helvetica Neue/40pt": {
+        "value": "40"
+      },
+      "Display4/White/Helvetica Neue/56pt": {
+        "value": "56"
+      },
+      "H2/White/Helvetica Neue/32pt": {
+        "value": "32"
+      },
+      "Display2/White/Helvetica Neue/88pt": {
+        "value": "88"
+      },
+      "Display3/White/Helvetica Neue/72pt": {
+        "value": "72"
+      },
+      "H6/Helvetica Neue/16pt": {
+        "value": "16"
+      },
+      "Display1/White/Helvetica Neue/96pt": {
+        "value": "96"
+      },
+      "H5/Helvetica Neue/20pt": {
+        "value": "20"
+      },
+      "H4/Helvetica Neue/24pt": {
+        "value": "24"
+      },
+      "H1/Helvetica Neue/40pt": {
+        "value": "40"
+      },
+      "H3/Helvetica Neue/28pt": {
+        "value": "28"
+      },
+      "H2/Helvetica Neue/32pt": {
+        "value": "32"
+      },
+      "Display3/Helvetica Neue/72pt": {
+        "value": "72"
+      },
+      "Display4/Helvetica Neue/56pt": {
+        "value": "56"
+      },
+      "Display1/Helvetica Neue/96pt": {
+        "value": "96"
+      },
+      "Display2/Helvetica Neue/88pt": {
+        "value": "88"
+      }
+    }
+  }
+}

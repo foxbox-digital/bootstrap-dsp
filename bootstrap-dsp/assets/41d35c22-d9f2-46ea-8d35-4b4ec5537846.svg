@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="289" height="209" viewBox="0 0 289 209">
+  <g id="Content_Figure" data-name="Content/Figure" transform="translate(1)">
+    <g id="Image_placeholder_small" data-name="Image placeholder / small">
+      <rect id="shape" width="288" height="182" fill="#777"/>
+      <g id="icon_image" data-name="icon/image" transform="translate(117.76 68)">
+        <path id="Path_580" data-name="Path 580" d="M46.377,4.357H6.627A3.335,3.335,0,0,0,3.314,7.714V41.286a3.335,3.335,0,0,0,3.312,3.357h39.75a3.335,3.335,0,0,0,3.313-3.357V7.714A3.335,3.335,0,0,0,46.377,4.357ZM6.627,1A6.67,6.67,0,0,0,0,7.714V41.286A6.67,6.67,0,0,0,6.627,48h39.75A6.67,6.67,0,0,0,53,41.286V7.714A6.67,6.67,0,0,0,46.377,1H6.627Z" transform="translate(-0.002 -1)" fill="#f8f9fa" fill-rule="evenodd"/>
+        <path id="Path_581" data-name="Path 581" d="M35.313,8.026a1.761,1.761,0,0,1,2.052-.335L50.8,14.71V30.932H1v-7.21l9.412-8.486a1.761,1.761,0,0,1,2.241-.224L22.116,21.4,35.313,8.03Z" transform="translate(0.599 13.516)" fill="#f8f9fa"/>
+        <path id="Path_582" data-name="Path 582" d="M7.971,14.071A5.036,5.036,0,1,0,3,9.036a5,5,0,0,0,4.969,5.036Z" transform="translate(6.935 6.071)" fill="#f8f9fa" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <text id="A_caption_for_the_above_image." data-name="A caption for the above image." transform="translate(0 206)" fill="#6c757d" font-size="14" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">A caption for the above image.</tspan></text>
+  </g>
+</svg>

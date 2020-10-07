@@ -1,0 +1,7 @@
+<svg id="Pagination_Left_Small" data-name="Pagination/Left/Small" xmlns="http://www.w3.org/2000/svg" width="86" height="31" viewBox="0 0 86 31">
+  <g id="base" fill="#fff" stroke="#dee2e6" stroke-width="1">
+    <path d="M4,0H86a0,0,0,0,1,0,0V31a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" stroke="none"/>
+    <path d="M4,.5H85a.5.5,0,0,1,.5.5V30a.5.5,0,0,1-.5.5H4A3.5,3.5,0,0,1,.5,27V4A3.5,3.5,0,0,1,4,.5Z" fill="none"/>
+  </g>
+  <text id="Previous" transform="translate(16 20)" fill="#007bff" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Previous</tspan></text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="401" height="51" viewBox="0 0 401 51">
+  <g id="List_Group_With_badge" data-name="List Group/With badge" transform="translate(0.5 0.5)">
+    <g id="List_Group_Ω_Position_Standard_Top" data-name="List Group/Ω/Position Standard/Top">
+      <path id="State" d="M4,0H396a4,4,0,0,1,4,4V50a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" fill="#fff" stroke="#ced4da" stroke-width="1"/>
+      <text id="Label" transform="translate(21 31)" fill="#343a40" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">List Item</tspan></text>
+    </g>
+    <g id="Badge_Pill_h6_Extra_Small" data-name="Badge/Pill/h6 Extra Small" transform="translate(325 15)">
+      <rect id="Color" width="60" height="20" rx="10" fill="#007bff"/>
+      <text id="Label-2" data-name="Label" transform="translate(30 14)" fill="#fff" font-size="12" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="-22.212" y="0">Primary</tspan></text>
+    </g>
+  </g>
+</svg>

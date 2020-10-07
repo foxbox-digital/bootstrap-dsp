@@ -1,0 +1,52 @@
+<svg id="Card_Kitchen_sink" data-name="Card/Kitchen sink" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="288" height="548" viewBox="0 0 288 548">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Rectangle_55" data-name="Rectangle 55" d="M4,0H282a4,4,0,0,1,4,4V180a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(1 2)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Card_Background" data-name="Card/Background">
+    <g id="card_background_simple" data-name="card background/simple" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+      <rect width="288" height="548" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="287" height="547" rx="4.5" fill="none"/>
+    </g>
+  </g>
+  <g id="List_item" data-name="List item" transform="translate(-725 -319)">
+    <g id="List_Item_1" data-name="List Item 1">
+      <path id="Path_575" data-name="Path 575" d="M351-2779H637v50H351Z" transform="translate(375 3426)" fill="#fff"/>
+      <path id="Path_576" data-name="Path 576" d="M356-2724H642v-1H356Z" transform="translate(370 3421)" fill="#e0e0e0"/>
+      <text id="List_Item-2" data-name="List Item" transform="translate(747 678)" fill="#212428" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">List Item</tspan></text>
+    </g>
+    <g id="List_Item_2" data-name="List Item 2" transform="translate(0 50)">
+      <path id="Path_575-2" data-name="Path 575" d="M351-2779H637v50H351Z" transform="translate(375 3426)" fill="#fff"/>
+      <path id="Path_576-2" data-name="Path 576" d="M356-2724H642v-1H356Z" transform="translate(370 3421)" fill="#e0e0e0"/>
+      <text id="List_Item-3" data-name="List Item" transform="translate(747 678)" fill="#212428" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">List Item</tspan></text>
+    </g>
+    <g id="List_Item_3" data-name="List Item 3" transform="translate(0 100)">
+      <path id="Path_575-3" data-name="Path 575" d="M351-2779H637v50H351Z" transform="translate(375 3426)" fill="#fff"/>
+      <path id="Path_576-3" data-name="Path 576" d="M356-2724H642v-1H356Z" transform="translate(370 3421)" fill="#e0e0e0"/>
+      <text id="List_Item-4" data-name="List Item" transform="translate(747 678)" fill="#212428" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">List Item</tspan></text>
+    </g>
+  </g>
+  <text id="Card_title" data-name="Card title" transform="translate(22 221)" font-size="20" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">Card title</tspan></text>
+  <text id="Some_quick_example_text_to_build_on_the_card_title_and_make_up_the_bulk_of_the_card_s_content." data-name="Some quick example text to build 
+on the card title and make up the 
+bulk of the card’s content." transform="translate(22 235)" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="15">Some quick example text to build </tspan><tspan x="0" y="39">on the card title and make up the </tspan><tspan x="0" y="63">bulk of the card’s content.</tspan></text>
+  <g id="Button_Default_Link" data-name="Button/Default/Link" transform="translate(6 494)">
+    <rect id="transparent" width="95" height="38" rx="4" fill="none"/>
+    <text id="Card_link" data-name="Card link" transform="translate(16 24)" fill="#007aff" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Card link</tspan></text>
+  </g>
+  <g id="Button_Default_Link-2" data-name="Button/Default/Link" transform="translate(101 494)">
+    <rect id="transparent-2" data-name="transparent" width="117" height="38" rx="4" fill="none"/>
+    <text id="Another_link" data-name="Another link" transform="translate(16 24)" fill="#007aff" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Another link</tspan></text>
+  </g>
+  <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(0 -1)" clip-path="url(#clip-path)">
+    <g id="Image_placeholder_small" data-name="Image placeholder / small">
+      <rect id="shape" width="288" height="182" fill="#777"/>
+      <g id="icon_image" data-name="icon/image" transform="translate(117.76 68)">
+        <path id="Path_580" data-name="Path 580" d="M46.377,4.357H6.627A3.335,3.335,0,0,0,3.314,7.714V41.286a3.335,3.335,0,0,0,3.312,3.357h39.75a3.335,3.335,0,0,0,3.313-3.357V7.714A3.335,3.335,0,0,0,46.377,4.357ZM6.627,1A6.67,6.67,0,0,0,0,7.714V41.286A6.67,6.67,0,0,0,6.627,48h39.75A6.67,6.67,0,0,0,53,41.286V7.714A6.67,6.67,0,0,0,46.377,1H6.627Z" transform="translate(-0.002 -1)" fill="#f8f9fa" fill-rule="evenodd"/>
+        <path id="Path_581" data-name="Path 581" d="M35.313,8.026a1.761,1.761,0,0,1,2.052-.335L50.8,14.71V30.932H1v-7.21l9.412-8.486a1.761,1.761,0,0,1,2.241-.224L22.116,21.4,35.313,8.03Z" transform="translate(0.599 13.516)" fill="#f8f9fa"/>
+        <path id="Path_582" data-name="Path 582" d="M7.971,14.071A5.036,5.036,0,1,0,3,9.036a5,5,0,0,0,4.969,5.036Z" transform="translate(6.935 6.071)" fill="#f8f9fa" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

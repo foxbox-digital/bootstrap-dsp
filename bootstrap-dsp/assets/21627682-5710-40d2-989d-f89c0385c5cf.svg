@@ -1,0 +1,27 @@
+<svg id="InputGroup_Left_Spited_dropdown_button" data-name="InputGroup/Left/Spited dropdown button" xmlns="http://www.w3.org/2000/svg" width="430" height="38" viewBox="0 0 430 38">
+  <g id="InputGroup_Base_Outline_Left_Medium" data-name="InputGroup/Base/Outline/Left/Medium">
+    <g id="InputGroup_Base_Outline_Left" data-name="InputGroup/Base/Outline/Left" fill="#fff" stroke="#6c757d" stroke-width="1">
+      <path d="M4,0H74a0,0,0,0,1,0,0V38a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" stroke="none"/>
+      <path d="M4,.5H73a.5.5,0,0,1,.5.5V37a.5.5,0,0,1-.5.5H4A3.5,3.5,0,0,1,.5,34V4A3.5,3.5,0,0,1,4,.5Z" fill="none"/>
+    </g>
+    <text id="Action" transform="translate(14 25)" fill="#6c757d" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Action</tspan></text>
+  </g>
+  <g id="Dropdown_Split_Middle" data-name="Dropdown/Split/Middle" transform="translate(73)">
+    <g id="Style" fill="none" stroke="#6c757d" stroke-width="1">
+      <rect width="30" height="38" stroke="none"/>
+      <rect x="0.5" y="0.5" width="29" height="37" fill="none"/>
+    </g>
+    <g id="icon_dropdown_arrow_default" data-name="icon/dropdown arrow/default" transform="translate(8 12)">
+      <rect id="Dropdown_Button_Ω_Carot_Down_background" data-name="Dropdown/Button/Ω/Carot/Down background" width="14" height="14" fill="none"/>
+      <path id="icon_dropdown_arrow" data-name="icon/dropdown arrow" d="M.023-6h12L6,0Z" transform="translate(0.977 10)" fill="#6c757d"/>
+    </g>
+  </g>
+  <g id="InputGroup_Base_Text_Right_Medium" data-name="InputGroup/Base/Text/Right/Medium" transform="translate(103)">
+    <g id="InputGroup_Right_Placeholder" data-name="InputGroup/Right/Placeholder">
+      <g id="InputGroup_Right_Placeholder-2" data-name="InputGroup/Right/Placeholder" fill="#fff" stroke="#ced4da" stroke-width="1">
+        <path d="M0,0H323a4,4,0,0,1,4,4V34a4,4,0,0,1-4,4H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+        <path d="M1,.5H323A3.5,3.5,0,0,1,326.5,4V34a3.5,3.5,0,0,1-3.5,3.5H1A.5.5,0,0,1,.5,37V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

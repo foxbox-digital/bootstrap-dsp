@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="372" height="69" viewBox="0 0 372 69">
+  <g id="Form_Form_Group_Basic_Default" data-name="Form/Form Group/Basic/Default" transform="translate(1)">
+    <text id="Group_Label" data-name="Group Label" transform="translate(0.5 15)" fill="#212529" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Example select</tspan></text>
+    <g id="Form_Select_Default" data-name="Form/Select/Default" transform="translate(0 30)">
+      <g id="Input_Base" data-name="Input/Base">
+        <g id="Input_Base-2" data-name="Input/Base" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+          <rect width="370" height="38" rx="5" stroke="none"/>
+          <rect x="-0.5" y="-0.5" width="371" height="39" rx="5.5" fill="none"/>
+        </g>
+      </g>
+      <g id="icon_double_caret" data-name="icon/double caret" transform="translate(345 12)">
+        <rect id="base" width="15" height="15" fill="none"/>
+        <path id="select" d="M3886.877,524.493l4.389,4.371,4.223-4.371" transform="translate(-3883.877 -519.493)" fill="none" stroke="#343a40" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <text id="Label" transform="translate(14 24)" fill="#868e96" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Default Select</tspan></text>
+    </g>
+  </g>
+</svg>

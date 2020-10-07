@@ -1,0 +1,13 @@
+<svg id="Dropdown_Button_Right_Default" data-name="Dropdown/Button/Right/Default" xmlns="http://www.w3.org/2000/svg" width="125" height="38" viewBox="0 0 125 38">
+  <g id="InputGroup_Base_Outline_Left" data-name="InputGroup/Base/Outline/Left" fill="#fff" stroke="#6c757d" stroke-width="1">
+    <path d="M0,0H121a4,4,0,0,1,4,4V34a4,4,0,0,1-4,4H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+    <path d="M1,.5H121A3.5,3.5,0,0,1,124.5,4V34a3.5,3.5,0,0,1-3.5,3.5H1A.5.5,0,0,1,.5,37V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+  </g>
+  <g id="dropdown" transform="translate(-738 -791)">
+    <g id="icon_dropdown_arrow_default" data-name="icon/dropdown arrow/default" transform="translate(835 803)">
+      <rect id="Dropdown_Button_Ω_Carot_Down_background" data-name="Dropdown/Button/Ω/Carot/Down background" width="14" height="14" fill="none"/>
+      <path id="icon_dropdown_arrow" data-name="icon/dropdown arrow" d="M.023-6h12L6,0Z" transform="translate(0.977 10)" fill="#343a40"/>
+    </g>
+    <text id="Dropdown-2" data-name="Dropdown" transform="translate(752 816)" fill="#6c757d" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Dropdown</tspan></text>
+  </g>
+</svg>

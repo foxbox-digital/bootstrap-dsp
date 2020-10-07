@@ -1,0 +1,8 @@
+<svg id="Dropdown_Button_Info_Large" data-name="Dropdown/Button/Info/Large" xmlns="http://www.w3.org/2000/svg" width="174" height="48" viewBox="0 0 174 48">
+  <rect id="Primary_007BFF" data-name="Primary / #007BFF" width="174" height="48" rx="5" fill="#17a2b8"/>
+  <g id="icon_dropdown_arrow_large" data-name="icon/dropdown arrow/large" transform="translate(142 17)">
+    <rect id="Dropdown_Button_Ω_Carot_Down_background" data-name="Dropdown/Button/Ω/Carot/Down background" width="16" height="16" fill="none"/>
+    <path id="Mask" d="M0,0H16L8,8Z" transform="translate(0 4)" fill="#fff"/>
+  </g>
+  <text id="Large_Button" data-name="Large Button" transform="translate(16 31)" fill="#fff" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Large Button</tspan></text>
+</svg>

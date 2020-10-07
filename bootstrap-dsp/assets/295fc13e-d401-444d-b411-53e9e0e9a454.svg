@@ -1,0 +1,29 @@
+<svg id="Card_Image_Caps" data-name="Card/Image Caps" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="417" height="367" viewBox="0 0 417 367">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Rectangle_57" data-name="Rectangle 57" d="M4,0H411a4,4,0,0,1,4,4V180a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(1 1)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Card_Background" data-name="Card/Background">
+    <g id="card_background_simple" data-name="card background/simple" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+      <rect width="417" height="365" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="416" height="364" rx="4.5" fill="none"/>
+    </g>
+  </g>
+  <g id="content">
+    <path id="background" d="M0,0H415a0,0,0,0,1,0,0V181a5,5,0,0,1-5,5H5a5,5,0,0,1-5-5V0A0,0,0,0,1,0,0Z" transform="translate(1 181)" fill="#fff"/>
+    <text id="Last_updated_3_mins_ago" data-name="Last updated 3 mins ago" transform="translate(19 345)" fill="#6c757d" font-size="13" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Last updated 3 mins ago</tspan></text>
+    <text id="This_is_a_wider_card_with_supporting_text_below_as_a_natural_lead-in_to_additional_content._This_content_is_a_little_bit_longer._This_is_a_wider_card_with_supporting_text_below_as_a_natural_lead-in_to_additional_content._This_content_is_a_little_bit_longer" data-name="This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer" transform="translate(19 236)" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="15">This is a wider card with supporting text below as a </tspan><tspan x="0" y="39">natural lead-in to additional content. This content is </tspan><tspan x="0" y="63">a little bit longer. This is a wider card with supporting </tspan></text>
+    <text id="Card_title" data-name="Card title" transform="translate(19 221)" font-size="20" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">Card title</tspan></text>
+  </g>
+  <g id="image" clip-path="url(#clip-path)">
+    <g id="Image_placeholder_small" data-name="Image placeholder / small">
+      <rect id="shape" width="416" height="181" fill="#777"/>
+      <g id="icon_image" data-name="icon/image" transform="translate(181.902 67.496)">
+        <path id="Path_580" data-name="Path 580" d="M46.377,4.357H6.627A3.335,3.335,0,0,0,3.314,7.714V41.286a3.335,3.335,0,0,0,3.312,3.357h39.75a3.335,3.335,0,0,0,3.313-3.357V7.714A3.335,3.335,0,0,0,46.377,4.357ZM6.627,1A6.67,6.67,0,0,0,0,7.714V41.286A6.67,6.67,0,0,0,6.627,48h39.75A6.67,6.67,0,0,0,53,41.286V7.714A6.67,6.67,0,0,0,46.377,1H6.627Z" transform="translate(-0.002 -1)" fill="#f8f9fa" fill-rule="evenodd"/>
+        <path id="Path_581" data-name="Path 581" d="M35.313,8.026a1.761,1.761,0,0,1,2.052-.335L50.8,14.71V30.932H1v-7.21l9.412-8.486a1.761,1.761,0,0,1,2.241-.224L22.116,21.4,35.313,8.03Z" transform="translate(0.599 13.516)" fill="#f8f9fa"/>
+        <path id="Path_582" data-name="Path 582" d="M7.971,14.071A5.036,5.036,0,1,0,3,9.036a5,5,0,0,0,4.969,5.036Z" transform="translate(6.935 6.071)" fill="#f8f9fa" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

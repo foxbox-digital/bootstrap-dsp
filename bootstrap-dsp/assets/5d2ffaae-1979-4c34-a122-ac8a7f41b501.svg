@@ -1,0 +1,9 @@
+<svg id="InputGroup_Base_Helper_Right_Small" data-name="InputGroup/Base/Helper/Right/Small" xmlns="http://www.w3.org/2000/svg" width="113" height="31" viewBox="0 0 113 31">
+  <g id="InputGroup_Right_Placeholder_Small" data-name="InputGroup/Right/Placeholder/Small">
+    <g id="InputGroup_Right_Placeholder_Small-2" data-name="InputGroup/Right/Placeholder/Small" fill="#e9ecef" stroke="#ced4da" stroke-width="1">
+      <path d="M0,0H109a4,4,0,0,1,4,4V27a4,4,0,0,1-4,4H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M1,.5H109A3.5,3.5,0,0,1,112.5,4V27a3.5,3.5,0,0,1-3.5,3.5H1A.5.5,0,0,1,.5,30V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+    </g>
+  </g>
+  <text id="Small_Button" data-name="Small Button" transform="translate(97 20)" fill="#343a40" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-80.654" y="0">Small Button</tspan></text>
+</svg>

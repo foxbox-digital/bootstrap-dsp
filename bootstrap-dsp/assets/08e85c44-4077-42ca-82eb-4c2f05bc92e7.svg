@@ -1,0 +1,7 @@
+<svg id="List_Group_Contextual_Primary" data-name="List Group/Contextual/Primary" xmlns="http://www.w3.org/2000/svg" width="400" height="50" viewBox="0 0 400 50">
+  <g id="State" fill="#c8c9cb" stroke="#b0b1b2" stroke-width="1">
+    <path d="M0,0H400a0,0,0,0,1,0,0V46a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" stroke="none"/>
+    <path d="M1,.5H399a.5.5,0,0,1,.5.5V46a3.5,3.5,0,0,1-3.5,3.5H4A3.5,3.5,0,0,1,.5,46V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+  </g>
+  <text id="Label" transform="translate(21 31)" fill="#1b1e21" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">List Item</tspan></text>
+</svg>

@@ -1,0 +1,8 @@
+<svg id="Alerts_Large_primary" data-name="Alerts/Large/primary" xmlns="http://www.w3.org/2000/svg" width="573" height="203" viewBox="0 0 573 203">
+  <g id="Background" fill="#cce5ff" stroke="#b8daff" stroke-miterlimit="10" stroke-width="1">
+    <rect width="573" height="203" rx="4" stroke="none"/>
+    <rect x="0.5" y="0.5" width="572" height="202" rx="3.5" fill="none"/>
+  </g>
+  <text id="Text" transform="translate(21 52)" fill="#004085" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="15">Aww yeah, you successfully read this important alert message. This </tspan><tspan x="0" y="39">example text is going to run a bit longer so that you can see how spacing </tspan><tspan x="0" y="63">within an alert works with this kind of content.</tspan><tspan x="0" y="103">Whenever you need to, be sure to use margin utilities to keep things nice </tspan><tspan x="0" y="127">and tidy.</tspan></text>
+  <text id="Header" transform="translate(21 36)" fill="#004085" font-size="24" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">Primary Alert</tspan></text>
+</svg>

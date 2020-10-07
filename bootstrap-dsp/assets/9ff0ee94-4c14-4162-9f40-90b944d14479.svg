@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="322" height="33" viewBox="0 0 322 33">
+  <g id="Form_Input_Text_Small" data-name="Form/Input/Text/Small" transform="translate(1 1)">
+    <g id="Input_Base" data-name="Input/Base">
+      <g id="Input_Base-2" data-name="Input/Base" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+        <rect width="320" height="31" rx="5" stroke="none"/>
+        <rect x="-0.5" y="-0.5" width="321" height="32" rx="5.5" fill="none"/>
+      </g>
+    </g>
+    <text id="Text_State" data-name="Text State" transform="translate(13 20.5)" fill="#868e96" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">.form-control-sm</tspan></text>
+  </g>
+</svg>

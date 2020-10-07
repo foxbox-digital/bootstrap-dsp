@@ -1,0 +1,759 @@
+<svg id="Progress_Bar_Partial_Stripped" data-name="Progress/Bar Partial/Stripped" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="16" viewBox="0 0 400 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="mask" width="400" height="16" rx="4" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle" width="173" height="16" fill="#007bff"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Path_649" data-name="Path 649" d="M20,0H36V-16H20Z" transform="translate(-20 16)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_92" data-name="Rectangle 92" width="56" height="16" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path id="Path_642" data-name="Path 642" d="M16-16h8L40,0H32Z" transform="translate(-16 16)" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <path id="Path_645" data-name="Path 645" d="M32-16h8L56,0H48Z" transform="translate(-32 16)" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <path id="Path_648" data-name="Path 648" d="M0-16H8L24,0H16Z" transform="translate(0 16)" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+  </defs>
+  <g id="Progress_Container" data-name="Progress/Container">
+    <rect id="Rectangle-2" data-name="Rectangle" width="400" height="16" rx="4" fill="#e9ecef"/>
+  </g>
+  <g id="Mask_Group_1313" data-name="Mask Group 1313" clip-path="url(#clip-path)">
+    <g id="Progress_Bar_Partial_Stripped-2" data-name="Progress/Bar Partial/Stripped">
+      <g id="Group_1309" data-name="Group 1309">
+        <rect id="mask-2" data-name="mask" width="173" height="16" fill="#007bff"/>
+        <g id="pattern" clip-path="url(#clip-path-2)">
+          <g id="pattern-2" data-name="pattern" transform="translate(-138.888)">
+            <g id="Group_793" data-name="Group 793">
+              <g id="Group_791" data-name="Group 791">
+                <g id="Group_790" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_792" data-name="Group 792" transform="translate(16)">
+                <g id="Group_790-2" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-2" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-2" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-2" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-2" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-2" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-2" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-2" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-2" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-2" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-2" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-2" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_794" data-name="Group 794" transform="translate(32)">
+              <g id="Group_791-2" data-name="Group 791">
+                <g id="Group_790-3" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-3" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-3" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-3" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-3" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-3" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-3" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-3" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-3" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-3" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-3" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-3" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_792-2" data-name="Group 792" transform="translate(16)">
+                <g id="Group_790-4" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-4" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-4" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-4" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-4" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-4" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-4" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-4" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-4" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-4" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-4" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-4" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_795" data-name="Group 795" transform="translate(64)">
+              <g id="Group_791-3" data-name="Group 791">
+                <g id="Group_790-5" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-5" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-5" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-5" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-5" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-5" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-5" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-5" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-5" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-5" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-5" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-5" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_792-3" data-name="Group 792" transform="translate(16)">
+                <g id="Group_790-6" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-6" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-6" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-6" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-6" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-6" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-6" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-6" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-6" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-6" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-6" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-6" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_796" data-name="Group 796" transform="translate(96)">
+              <g id="Group_791-4" data-name="Group 791">
+                <g id="Group_790-7" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-7" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-7" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-7" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-7" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-7" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-7" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-7" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-7" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-7" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-7" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-7" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_792-4" data-name="Group 792" transform="translate(16)">
+                <g id="Group_790-8" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-8" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-8" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-8" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-8" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-8" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-8" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-8" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-8" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-8" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-8" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-8" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_797" data-name="Group 797" transform="translate(128)">
+              <g id="Group_791-5" data-name="Group 791">
+                <g id="Group_790-9" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-9" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-9" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-9" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-9" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-9" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-9" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-9" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-9" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-9" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-9" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-9" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_792-5" data-name="Group 792" transform="translate(16)">
+                <g id="Group_790-10" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-10" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-10" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-10" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-10" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-10" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-10" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-10" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-10" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-10" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-10" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-10" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_798" data-name="Group 798" transform="translate(160)">
+              <g id="Group_791-6" data-name="Group 791">
+                <g id="Group_790-11" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-11" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-11" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-11" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-11" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-11" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-11" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-11" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-11" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-11" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-11" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-11" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_792-6" data-name="Group 792" transform="translate(16)">
+                <g id="Group_790-12" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-12" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-12" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-12" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-12" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-12" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-12" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-12" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-12" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-12" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-12" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-12" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_799" data-name="Group 799" transform="translate(192)">
+              <g id="Group_791-7" data-name="Group 791">
+                <g id="Group_790-13" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-13" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-13" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-13" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-13" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-13" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-13" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-13" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-13" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-13" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-13" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-13" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_792-7" data-name="Group 792" transform="translate(16)">
+                <g id="Group_790-14" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-14" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-14" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-14" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-14" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-14" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-14" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-14" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-14" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-14" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-14" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-14" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_800" data-name="Group 800" transform="translate(224)">
+              <g id="Group_791-8" data-name="Group 791">
+                <g id="Group_790-15" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-15" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-15" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-15" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-15" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-15" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-15" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-15" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-15" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-15" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-15" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-15" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_792-8" data-name="Group 792" transform="translate(16)">
+                <g id="Group_790-16" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-16" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-16" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-16" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-16" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-16" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-16" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-16" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-16" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-16" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-16" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-16" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_801" data-name="Group 801" transform="translate(256)">
+              <g id="Group_791-9" data-name="Group 791">
+                <g id="Group_790-17" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-17" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-17" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-17" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-17" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-17" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-17" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-17" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-17" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-17" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-17" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-17" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_792-9" data-name="Group 792" transform="translate(16)">
+                <g id="Group_790-18" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-18" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-18" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-18" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-18" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-18" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-18" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-18" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-18" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-18" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-18" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-18" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_802" data-name="Group 802" transform="translate(288)">
+              <g id="Group_791-10" data-name="Group 791">
+                <g id="Group_790-19" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-19" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-19" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-19" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-19" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-19" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-19" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-19" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-19" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-19" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-19" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-19" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_792-10" data-name="Group 792" transform="translate(16)">
+                <g id="Group_790-20" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-20" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-20" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-20" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-20" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-20" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-20" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-20" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-20" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-20" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-20" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-20" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_803" data-name="Group 803" transform="translate(320)">
+              <g id="Group_791-11" data-name="Group 791">
+                <g id="Group_790-21" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-21" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-21" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-21" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-21" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-21" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-21" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-21" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-21" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-21" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-21" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-21" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_792-11" data-name="Group 792" transform="translate(16)">
+                <g id="Group_790-22" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-22" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-22" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-22" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-22" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-22" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-22" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-22" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-22" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-22" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-22" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-22" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_804" data-name="Group 804" transform="translate(352)">
+              <g id="Group_791-12" data-name="Group 791">
+                <g id="Group_790-23" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-23" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-23" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-23" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-23" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-23" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-23" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-23" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-23" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-23" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-23" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-23" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_792-12" data-name="Group 792" transform="translate(16)">
+                <g id="Group_790-24" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-24" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-24" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-24" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-24" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-24" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-24" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-24" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-24" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-24" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-24" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-24" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_805" data-name="Group 805" transform="translate(384)">
+              <g id="Group_791-13" data-name="Group 791">
+                <g id="Group_790-25" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-25" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-25" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-25" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-25" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-25" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-25" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-25" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-25" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-25" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-25" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-25" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_792-13" data-name="Group 792" transform="translate(16)">
+                <g id="Group_790-26" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-26" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-26" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-26" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-26" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-26" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-26" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-26" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-26" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-26" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-26" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-26" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_1313" data-name="Group 1313" transform="translate(416)">
+              <g id="Group_791-14" data-name="Group 791">
+                <g id="Group_790-27" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-27" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-27" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-27" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-27" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-27" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-27" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-27" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-27" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-27" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-27" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-27" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_792-14" data-name="Group 792" transform="translate(16)">
+                <g id="Group_790-28" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-28" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-28" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-28" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-28" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-28" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-28" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-28" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-28" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-28" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-28" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-28" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_1314" data-name="Group 1314" transform="translate(448)">
+              <g id="Group_791-15" data-name="Group 791">
+                <g id="Group_790-29" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-29" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-29" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-29" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-29" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-29" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-29" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-29" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-29" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-29" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-29" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-29" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_792-15" data-name="Group 792" transform="translate(16)">
+                <g id="Group_790-30" data-name="Group 790" clip-path="url(#clip-path-3)">
+                  <g id="Group_789-30" data-name="Group 789" transform="translate(-19.228)" style="isolation: isolate">
+                    <g id="Group_788-30" data-name="Group 788" clip-path="url(#clip-path-4)">
+                      <g id="Group_783-30" data-name="Group 783" transform="translate(15.228)" clip-path="url(#clip-path-5)">
+                        <g id="Group_782-30" data-name="Group 782" transform="translate(4)" clip-path="url(#clip-path-3)">
+                          <path id="Path_640-30" data-name="Path 640" d="M11-21H45V5H11Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_785-30" data-name="Group 785" transform="translate(31.228)" clip-path="url(#clip-path-7)">
+                        <g id="Group_784-30" data-name="Group 784" transform="translate(-12)" clip-path="url(#clip-path-3)">
+                          <path id="Path_643-30" data-name="Path 643" d="M27-21H61V5H27Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                      <g id="Group_787-30" data-name="Group 787" transform="translate(-0.772)" clip-path="url(#clip-path-9)">
+                        <g id="Group_786-30" data-name="Group 786" transform="translate(20)" clip-path="url(#clip-path-3)">
+                          <path id="Path_646-30" data-name="Path 646" d="M-5-21H29V5H-5Z" transform="translate(-20 16)" fill="rgba(255,255,255,0.25)"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

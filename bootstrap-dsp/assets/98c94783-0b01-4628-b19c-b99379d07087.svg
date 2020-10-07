@@ -1,0 +1,10 @@
+<svg id="Dropdown_Split_Left" data-name="Dropdown/Split/Left" xmlns="http://www.w3.org/2000/svg" width="30" height="38" viewBox="0 0 30 38">
+  <g id="Style" fill="none" stroke="#6c757d" stroke-width="1">
+    <path d="M5,0H30a0,0,0,0,1,0,0V38a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" stroke="none"/>
+    <path d="M5,.5H29a.5.5,0,0,1,.5.5V37a.5.5,0,0,1-.5.5H5A4.5,4.5,0,0,1,.5,33V5A4.5,4.5,0,0,1,5,.5Z" fill="none"/>
+  </g>
+  <g id="icon_dropdown_arrow_default" data-name="icon/dropdown arrow/default" transform="translate(8 12)">
+    <rect id="Dropdown_Button_Ω_Carot_Down_background" data-name="Dropdown/Button/Ω/Carot/Down background" width="14" height="14" fill="none"/>
+    <path id="icon_dropdown_arrow" data-name="icon/dropdown arrow" d="M.023-6h12L6,0Z" transform="translate(0.977 10)" fill="#6c757d"/>
+  </g>
+</svg>

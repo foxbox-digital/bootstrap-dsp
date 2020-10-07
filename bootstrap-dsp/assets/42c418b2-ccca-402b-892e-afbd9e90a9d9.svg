@@ -1,0 +1,6 @@
+<svg id="Card_Background" data-name="Card/Background" xmlns="http://www.w3.org/2000/svg" width="288" height="388" viewBox="0 0 288 388">
+  <g id="card_background_simple" data-name="card background/simple" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+    <rect width="288" height="388" rx="5" stroke="none"/>
+    <rect x="0.5" y="0.5" width="287" height="387" rx="4.5" fill="none"/>
+  </g>
+</svg>

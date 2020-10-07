@@ -1,0 +1,8 @@
+<svg id="Navs_Horizontal_Dropdown_Link" data-name="Navs/Horizontal/Dropdown/Link" xmlns="http://www.w3.org/2000/svg" width="113" height="38" viewBox="0 0 113 38">
+  <rect id="transparent" width="113" height="38" rx="4" fill="none"/>
+  <text id="Label" transform="translate(47 25)" fill="#007aff" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-37.336" y="0">Dropdown</tspan></text>
+  <g id="icon_dropdown_arrow_default" data-name="icon/dropdown arrow/default" transform="translate(90 12)">
+    <rect id="Dropdown_Button_Ω_Carot_Down_background" data-name="Dropdown/Button/Ω/Carot/Down background" width="14" height="14" fill="none"/>
+    <path id="icon_dropdown_arrow" data-name="icon/dropdown arrow" d="M.023-6h12L6,0Z" transform="translate(0.977 10)" fill="#fff"/>
+  </g>
+</svg>

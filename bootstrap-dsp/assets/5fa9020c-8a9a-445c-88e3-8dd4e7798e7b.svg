@@ -1,0 +1,7 @@
+<svg id="Alerts_Small_primary" data-name="Alerts/Small/primary" xmlns="http://www.w3.org/2000/svg" width="303" height="50" viewBox="0 0 303 50">
+  <g id="Background" fill="#cce5ff" stroke="#b8daff" stroke-miterlimit="10" stroke-width="1">
+    <rect width="303" height="50" rx="4" stroke="none"/>
+    <rect x="0.5" y="0.5" width="302" height="49" rx="3.5" fill="none"/>
+  </g>
+  <text id="Text" transform="translate(21 30)" fill="#004085" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">This is a primary alert—check it out! </tspan></text>
+</svg>

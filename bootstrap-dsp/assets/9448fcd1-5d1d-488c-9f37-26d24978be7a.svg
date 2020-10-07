@@ -1,0 +1,35 @@
+<svg id="Card_Simple" data-name="Card/Simple" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="310" height="388" viewBox="0 0 310 388">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Rectangle_53" data-name="Rectangle 53" d="M4,0H304a4,4,0,0,1,4,4V181a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(1 1)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Card_Background" data-name="Card/Background">
+    <g id="card_background_simple" data-name="card background/simple" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+      <rect width="310" height="388" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="309" height="387" rx="4.5" fill="none"/>
+    </g>
+  </g>
+  <text id="Card_title" data-name="Card title" transform="translate(22 222)" font-size="20" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">Card title</tspan></text>
+  <text id="Some_quick_example_text_to_build_on_the_card_title_and_make_up_the_bulk_of_the_card_s_content." data-name="Some quick example text to build 
+on the card title and make up the 
+bulk of the card’s content." transform="translate(22 236)" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="15">Some quick example text to build </tspan><tspan x="0" y="39">on the card title and make up the </tspan><tspan x="0" y="63">bulk of the card’s content.</tspan></text>
+  <g id="Button_Default_Primary" data-name="Button/Default/Primary" transform="translate(22 320)">
+    <rect id="Primary_007BFF" data-name="Primary / #007BFF" width="80" height="38" rx="5" fill="#007bff"/>
+    <text id="Button" transform="translate(16 24)" fill="#fff" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Button</tspan></text>
+  </g>
+  <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+    <g id="Image_placeholder_small" data-name="Image placeholder / small">
+      <rect id="shape" width="310" height="182" fill="#777"/>
+      <g id="icon_image" data-name="icon/image" transform="translate(128 68)">
+        <path id="Path_580" data-name="Path 580" d="M46.377,4.357H6.627A3.335,3.335,0,0,0,3.314,7.714V41.286a3.335,3.335,0,0,0,3.312,3.357h39.75a3.335,3.335,0,0,0,3.313-3.357V7.714A3.335,3.335,0,0,0,46.377,4.357ZM6.627,1A6.67,6.67,0,0,0,0,7.714V41.286A6.67,6.67,0,0,0,6.627,48h39.75A6.67,6.67,0,0,0,53,41.286V7.714A6.67,6.67,0,0,0,46.377,1H6.627Z" transform="translate(-0.002 -1)" fill="#f8f9fa" fill-rule="evenodd"/>
+        <path id="Path_581" data-name="Path 581" d="M35.313,8.026a1.761,1.761,0,0,1,2.052-.335L50.8,14.71V30.932H1v-7.21l9.412-8.486a1.761,1.761,0,0,1,2.241-.224L22.116,21.4,35.313,8.03Z" transform="translate(0.599 13.516)" fill="#f8f9fa"/>
+        <path id="Path_582" data-name="Path 582" d="M7.971,14.071A5.036,5.036,0,1,0,3,9.036a5,5,0,0,0,4.969,5.036Z" transform="translate(6.935 6.071)" fill="#f8f9fa" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+  <g id="Button_Default_Primary-2" data-name="Button/Default/Primary" transform="translate(22 320)">
+    <rect id="Primary_007BFF-2" data-name="Primary / #007BFF" width="87" height="38" rx="5" fill="#007bff"/>
+    <text id="Primary" transform="translate(16 24)" fill="#fff" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Primary</tspan></text>
+  </g>
+</svg>

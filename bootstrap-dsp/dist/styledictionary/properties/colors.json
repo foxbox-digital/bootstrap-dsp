@@ -1,0 +1,82 @@
+{
+  "color": {
+    "Info / Disable / #67C3D0": {
+      "value": "#67C3D0ff"
+    },
+    "Light / Disable / #FAFCFC": {
+      "value": "#FAFCFCff"
+    },
+    "Dark/ Disable / #7A7E83": {
+      "value": "#7A7E83ff"
+    },
+    "Warning / Disable / #FFD75E": {
+      "value": "#FFD75Eff"
+    },
+    "Secondary / Disable / #B0B6BA": {
+      "value": "#B0B6BAff"
+    },
+    "Success / Disable / #74C686": {
+      "value": "#74C686ff"
+    },
+    "Danger / Disable / #E97B86": {
+      "value": "#E97B86ff"
+    },
+    "Dark / Hover / #23272B": {
+      "value": "#23272Bff"
+    },
+    "Primary / Disable / #58AAFF": {
+      "value": "#58AAFFff"
+    },
+    "Light / Hover / #E2E6EA": {
+      "value": "#E2E6EAff"
+    },
+    "Info / Hover / #138496": {
+      "value": "#138496ff"
+    },
+    "Success / Hover / #218838": {
+      "value": "#218838ff"
+    },
+    "Danger / Hover / #C82333": {
+      "value": "#C82333ff"
+    },
+    "Warning / Hover / #E0A800": {
+      "value": "#E0A800ff"
+    },
+    "Universal / Black / #000000": {
+      "value": "#000000ff"
+    },
+    "Primary / Hover / #0069D9": {
+      "value": "#0069D9ff"
+    },
+    "Secondary / Hover / #5A6268": {
+      "value": "#5A6268ff"
+    },
+    "Light / #F8F9FA": {
+      "value": "#F8F9FAff"
+    },
+    "Dark / #343A40": {
+      "value": "#343A40ff"
+    },
+    "Universal / White / #FFFFFF": {
+      "value": "#FFFFFFff"
+    },
+    "Warning / #FFC107": {
+      "value": "#FFC107ff"
+    },
+    "Info / #17A2B8": {
+      "value": "#17A2B8ff"
+    },
+    "Success / #28A745": {
+      "value": "#28A745ff"
+    },
+    "Danger / #DC3545": {
+      "value": "#DC3545ff"
+    },
+    "Primary / #007BFF": {
+      "value": "#007BFFff"
+    },
+    "Secondary / #6C757D": {
+      "value": "#6C757Dff"
+    }
+  }
+}

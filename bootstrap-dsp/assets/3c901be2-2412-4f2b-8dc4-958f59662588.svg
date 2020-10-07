@@ -1,0 +1,21 @@
+<svg id="Card_Card_Styles_Outline" data-name="Card/Card Styles/Outline" xmlns="http://www.w3.org/2000/svg" width="288" height="204" viewBox="0 0 288 204">
+  <g id="stack">
+    <g id="card_background_simple" data-name="card background/simple" fill="#f8f9fa" stroke="#007bff" stroke-width="1">
+      <rect width="288" height="204" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="287" height="203" rx="4.5" fill="none"/>
+    </g>
+    <g id="content">
+      <text id="Card_title" data-name="Card title" transform="translate(22 88)" fill="#007bff" font-size="20" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">Card title</tspan></text>
+      <text id="Some_quick_example_text_to_build_on_the_card_title_and_make_up_the_bulk_of_the_card_s_content._Some_quick_example_text_to_build_on_the_card_title_and_make_up_the_bulk_of_the_card_s_content." data-name="Some quick example text to build 
+on the card title and make up the 
+bulk of the card’s content. Some quick example text to build 
+on the card title and make up the 
+bulk of the card’s content." transform="translate(22 109)" fill="#007bff" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="15">Some quick example text to build </tspan><tspan x="0" y="39">on the card title and make up the </tspan><tspan x="0" y="63">bulk of the card’s content. Some </tspan></text>
+    </g>
+  </g>
+  <g id="header">
+    <path id="Rectangle_50" data-name="Rectangle 50" d="M5,0H283a5,5,0,0,1,5,5V48a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" fill="rgba(0,0,0,0.03)"/>
+    <path id="line" d="M5410,6364.916h285.784" transform="translate(-5408.784 -6316.916)" fill="none" stroke="#d9d9d9" stroke-width="1"/>
+    <text id="Header-2" data-name="Header" transform="translate(22 30)" fill="#343a40" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Header</tspan></text>
+  </g>
+</svg>

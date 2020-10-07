@@ -1,0 +1,20 @@
+<svg id="InputGroup_Input_Prepend" data-name="InputGroup/Input Prepend" xmlns="http://www.w3.org/2000/svg" width="361" height="38" viewBox="0 0 361 38">
+  <g id="InputGroup_Base_Helper_Right_Medium" data-name="InputGroup/Base/Helper/Right/Medium" transform="translate(222)">
+    <g id="InputGroup_Right_Placeholder" data-name="InputGroup/Right/Placeholder">
+      <g id="InputGroup_Right_Placeholder-2" data-name="InputGroup/Right/Placeholder" fill="#e9ecef" stroke="#ced4da" stroke-width="1">
+        <path d="M0,0H72a4,4,0,0,1,4,4V34a4,4,0,0,1-4,4H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+        <path d="M1,.5H72A3.5,3.5,0,0,1,75.5,4V34A3.5,3.5,0,0,1,72,37.5H1A.5.5,0,0,1,.5,37V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+      </g>
+    </g>
+    <text id="_example.com" data-name="@example.com" transform="translate(14 25)" fill="#343a40" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">@example.com</tspan></text>
+  </g>
+  <g id="InputGroup_Base_Text_Left_Medium" data-name="InputGroup/Base/Text/Left/Medium">
+    <g id="InputGroup_Left_Placeholder" data-name="InputGroup/Left/Placeholder">
+      <g id="InputGroup_Left_Placeholder-2" data-name="InputGroup/Left/Placeholder" fill="#fff" stroke="#ced4da" stroke-width="1">
+        <path d="M4,0H223a0,0,0,0,1,0,0V38a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" stroke="none"/>
+        <path d="M4,.5H222a.5.5,0,0,1,.5.5V37a.5.5,0,0,1-.5.5H4A3.5,3.5,0,0,1,.5,34V4A3.5,3.5,0,0,1,4,.5Z" fill="none"/>
+      </g>
+    </g>
+    <text id="Reipient_s_username" data-name="Reipient’s username" transform="translate(13 25)" fill="#868e96" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Reipient’s username</tspan></text>
+  </g>
+</svg>

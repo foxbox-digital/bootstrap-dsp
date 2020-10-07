@@ -1,0 +1,9 @@
+<svg id="InputGroup_Base_Helper_Middle_Large" data-name="InputGroup/Base/Helper/Middle/Large" xmlns="http://www.w3.org/2000/svg" width="156" height="48" viewBox="0 0 156 48">
+  <g id="InputGroup_Middle_Placeholder_Large" data-name="InputGroup/Middle/Placeholder/Large">
+    <g id="InputGroup_Middle_Placeholder_Large-2" data-name="InputGroup/Middle/Placeholder/Large" fill="#e9ecef" stroke="#ced4da" stroke-width="1">
+      <rect width="156" height="48" stroke="none"/>
+      <rect x="0.5" y="0.5" width="155" height="47" fill="none"/>
+    </g>
+  </g>
+  <text id="Large_Button" data-name="Large Button" transform="translate(20 31)" fill="#343a40" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Large Button</tspan></text>
+</svg>

@@ -1,0 +1,13 @@
+<svg id="InputGroup_Select_Right_Large" data-name="InputGroup/Select/Right/Large" xmlns="http://www.w3.org/2000/svg" width="190" height="48" viewBox="0 0 190 48">
+  <g id="InputGroup_Middle_Placeholder_Large" data-name="InputGroup/Middle/Placeholder/Large">
+    <g id="InputGroup_Middle_Placeholder_Large-2" data-name="InputGroup/Middle/Placeholder/Large" fill="#fff" stroke="#ced4da" stroke-width="1">
+      <rect width="190" height="48" stroke="none"/>
+      <rect x="0.5" y="0.5" width="189" height="47" fill="none"/>
+    </g>
+  </g>
+  <text id="Choose_" data-name="Choose…" transform="translate(10 31)" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Choose…</tspan></text>
+  <g id="icon_double_caret" data-name="icon/double caret" transform="translate(165 16)">
+    <rect id="base" width="17" height="17" fill="none"/>
+    <path id="select" d="M3886.877,524.493l4.389,4.371,4.223-4.371" transform="translate(-3883.877 -519.493)" fill="none" stroke="#343a40" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

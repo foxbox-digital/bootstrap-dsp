@@ -1,0 +1,23 @@
+<svg id="Card_Image_Caps_Horizontal" data-name="Card/Image Caps/Horizontal" xmlns="http://www.w3.org/2000/svg" width="570" height="269" viewBox="0 0 570 269">
+  <g id="padding" transform="translate(0 3)">
+    <g id="image_background" data-name="image + background" transform="translate(0 20)">
+      <g id="card_background_simple" data-name="card background/simple" transform="translate(0 -23)" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+        <rect width="570" height="268.5" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="569" height="267.5" rx="4.5" fill="none"/>
+      </g>
+      <g id="Image_placeholder_small" data-name="Image placeholder / small" transform="translate(1 -22.5)">
+        <rect id="shape" width="190" height="266.996" fill="#777"/>
+        <g id="icon_image" data-name="icon/image" transform="translate(68.59 110.85)">
+          <path id="Path_580" data-name="Path 580" d="M46.377,4.357H6.627A3.335,3.335,0,0,0,3.314,7.714V41.286a3.335,3.335,0,0,0,3.312,3.357h39.75a3.335,3.335,0,0,0,3.313-3.357V7.714A3.335,3.335,0,0,0,46.377,4.357ZM6.627,1A6.67,6.67,0,0,0,0,7.714V41.286A6.67,6.67,0,0,0,6.627,48h39.75A6.67,6.67,0,0,0,53,41.286V7.714A6.67,6.67,0,0,0,46.377,1H6.627Z" transform="translate(-0.002 -1)" fill="#f8f9fa" fill-rule="evenodd"/>
+          <path id="Path_581" data-name="Path 581" d="M35.313,8.026a1.761,1.761,0,0,1,2.052-.335L50.8,14.71V30.932H1v-7.21l9.412-8.486a1.761,1.761,0,0,1,2.241-.224L22.116,21.4,35.313,8.03Z" transform="translate(0.599 13.516)" fill="#f8f9fa"/>
+          <path id="Path_582" data-name="Path 582" d="M7.971,14.071A5.036,5.036,0,1,0,3,9.036a5,5,0,0,0,4.969,5.036Z" transform="translate(6.935 6.071)" fill="#f8f9fa" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+    <g id="content">
+      <text id="Last_updated_3_mins_ago" data-name="Last updated 3 mins ago" transform="translate(211 203)" fill="#6c757d" font-size="13" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Last updated 3 mins ago</tspan></text>
+      <text id="This_is_a_wider_card_with_supporting_text_below_as_a_natural_lead-in_to_additional_content._This_content_is_a_little_bit_longer._This_is_a_wider_card_with_supporting_text_below_as_a_natural_lead-in_to_additional_content._This_content_is_a_little_bit_longer" data-name="This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer" transform="translate(211 55)" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="15">This is a wider card with supporting text </tspan><tspan x="0" y="39">below as a natural lead-in to additional </tspan><tspan x="0" y="63">content. This content is a little bit longer. </tspan><tspan x="0" y="87">This is a wider card with supporting text </tspan></text>
+      <text id="Card_title" data-name="Card title" transform="translate(211 40)" font-size="20" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">Card title</tspan></text>
+    </g>
+  </g>
+</svg>

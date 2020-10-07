@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="161" height="38" viewBox="0 0 161 38">
+  <g id="Badge_Badges_as_part_of_button" data-name="Badge/Badges as part of button" transform="translate(11)">
+    <rect id="Primary_007BFF" data-name="Primary / #007BFF" width="161" height="38" rx="5" transform="translate(-11)" fill="#007bff"/>
+    <g id="Badge_h6_Extra_Small" data-name="Badge/h6 Extra Small" transform="translate(96 9)">
+      <rect id="Color" width="38" height="20" rx="2" fill="#f8f9fa"/>
+      <text id="Label" transform="translate(19 14)" fill="#343a40" font-size="12" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="-14.442" y="0">Light</tspan></text>
+    </g>
+    <text id="Notification" transform="translate(5 24)" fill="#fff" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Notification</tspan></text>
+  </g>
+</svg>

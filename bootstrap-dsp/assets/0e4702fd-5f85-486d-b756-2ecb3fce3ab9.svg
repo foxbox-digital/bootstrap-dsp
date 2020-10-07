@@ -1,0 +1,13 @@
+<svg id="Form_Form_Group_Helper_Default" data-name="Form/Form Group/Helper/Default" xmlns="http://www.w3.org/2000/svg" width="272" height="88" viewBox="0 0 272 88">
+  <text id="Helper_Text" data-name="Helper Text" transform="translate(0 72)" fill="#868e96" font-size="12" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="11">We’ll never share your email with anyone else</tspan></text>
+  <g id="Form_Input_Text_Default" data-name="Form/Input/Text/Default" transform="translate(1 30.693)">
+    <g id="Input_Base" data-name="Input/Base">
+      <g id="Input_Base-2" data-name="Input/Base" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+        <rect width="270" height="38" rx="5" stroke="none"/>
+        <rect x="-0.5" y="-0.5" width="271" height="39" rx="5.5" fill="none"/>
+      </g>
+    </g>
+    <text id="Text_State" data-name="Text State" transform="translate(12.5 23.5)" fill="#868d96" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Default input</tspan></text>
+  </g>
+  <text id="Group_Label" data-name="Group Label" transform="translate(0.5)" fill="#212529" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="15">Email</tspan></text>
+</svg>

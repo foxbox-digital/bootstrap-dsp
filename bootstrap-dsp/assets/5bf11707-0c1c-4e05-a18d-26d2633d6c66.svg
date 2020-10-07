@@ -1,0 +1,7 @@
+<svg id="ButtonGroup_Single_toggle_button_Success" data-name="ButtonGroup/Single toggle button/Success" xmlns="http://www.w3.org/2000/svg" width="200" height="38" viewBox="0 0 200 38">
+  <g id="Success_28A745" data-name="Success / #28A745" fill="none" stroke="#28a745" stroke-width="1">
+    <path d="M5,0H200a0,0,0,0,1,0,0V38a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" stroke="none"/>
+    <path d="M5,.5H199a.5.5,0,0,1,.5.5V37a.5.5,0,0,1-.5.5H5A4.5,4.5,0,0,1,.5,33V5A4.5,4.5,0,0,1,5,.5Z" fill="none"/>
+  </g>
+  <text id="Checked_success_radio" data-name="Checked success radio" transform="translate(16 24)" fill="#28a745" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Checked success radio</tspan></text>
+</svg>

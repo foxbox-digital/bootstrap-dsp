@@ -1,0 +1,6 @@
+<svg id="Radio" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="Oval" fill="#fff" stroke="#b6b6b6" stroke-miterlimit="10" stroke-width="1">
+    <circle cx="8" cy="8" r="8" stroke="none"/>
+    <circle cx="8" cy="8" r="7.5" fill="none"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg id="InputGroup_Base_Helper_Left_Small" data-name="InputGroup/Base/Helper/Left/Small" xmlns="http://www.w3.org/2000/svg" width="113" height="31" viewBox="0 0 113 31">
+  <g id="base" fill="#fff" stroke="#6c757d" stroke-width="1">
+    <path d="M0,0H108a5,5,0,0,1,5,5V26a5,5,0,0,1-5,5H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+    <path d="M1,.5H108A4.5,4.5,0,0,1,112.5,5V26a4.5,4.5,0,0,1-4.5,4.5H1A.5.5,0,0,1,.5,30V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+  </g>
+  <text id="Small_Button" data-name="Small Button" transform="translate(16 20)" fill="#6c757d" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Small Button</tspan></text>
+</svg>

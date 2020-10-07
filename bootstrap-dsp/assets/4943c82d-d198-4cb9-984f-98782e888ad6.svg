@@ -1,0 +1,21 @@
+<svg id="Grid_Ω_15px_Gutter" data-name="Grid/Ω/15px Gutter" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <rect id="Left_Gutter" data-name="Left Gutter" width="16" height="60" fill="rgba(255,191,191,0.35)"/>
+  <rect id="Right_Gutter" data-name="Right Gutter" width="16" height="60" transform="translate(44)" fill="rgba(255,191,191,0.24)"/>
+  <g id="Grid_Ω_Label" data-name="Grid/Ω/Label">
+    <path id="width" d="M0-13H60v-4H0Z" transform="translate(0 30)" fill="#ffbebe"/>
+    <g id="Right_Marker" data-name="Right Marker" transform="translate(56)">
+      <path id="Path_3207" data-name="Path 3207" d="M281,0h4V-30h-4Z" transform="translate(-281 30)" fill="#ffbebe"/>
+      <path id="Path_3209" data-name="Path 3209" d="M284,0h1V-30h-1Z" transform="translate(-281 30)" fill="#f99"/>
+    </g>
+    <g id="Left_Marker" data-name="Left Marker">
+      <path id="Path_3217" data-name="Path 3217" d="M285,0h-4V-30h4Z" transform="translate(-281 30)" fill="#ffbebe"/>
+      <path id="Path_3216" data-name="Path 3216" d="M285,0h-1V-30h1Z" transform="translate(-284 30)" fill="#ff7373"/>
+    </g>
+    <path id="col-1" d="M121-6h44V-24H121Z" transform="translate(-112.967 30)" fill="#ffbebe"/>
+    <text id="c_o_l_-_1" data-name="c
+o
+l
+-
+1" transform="translate(25.368 8)" fill="#fff" font-size="12" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="1.293" y="12">c</tspan></text>
+  </g>
+</svg>

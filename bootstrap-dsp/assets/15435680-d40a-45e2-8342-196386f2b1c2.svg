@@ -1,0 +1,13 @@
+<svg id="Grid_Ω_Label" data-name="Grid/Ω/Label" xmlns="http://www.w3.org/2000/svg" width="285" height="30" viewBox="0 0 285 30">
+  <path id="width" d="M0-13H285v-4H0Z" transform="translate(0 30)" fill="#ffbebe"/>
+  <g id="Right_Marker" data-name="Right Marker" transform="translate(-1148 5381)">
+    <path id="Path_3207" data-name="Path 3207" d="M281,0h4V-30h-4Z" transform="translate(1148 -5351)" fill="#ffbebe"/>
+    <path id="Path_3209" data-name="Path 3209" d="M284,0h1V-30h-1Z" transform="translate(1148 -5351)" fill="#f99"/>
+  </g>
+  <g id="Left_Marker" data-name="Left Marker">
+    <path id="Path_3217" data-name="Path 3217" d="M285,0h-4V-30h4Z" transform="translate(-281 30)" fill="#ffbebe"/>
+    <path id="Path_3216" data-name="Path 3216" d="M285,0h-1V-30h1Z" transform="translate(-284 30)" fill="#ff7373"/>
+  </g>
+  <path id="col-1" d="M121-6h44V-24H121Z" transform="translate(0 30)" fill="#ffbebe"/>
+  <text id="col-1-2" data-name="col-1" transform="translate(120.5 8)" fill="#fff" font-size="12" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="8.064" y="12">col-1</tspan></text>
+</svg>

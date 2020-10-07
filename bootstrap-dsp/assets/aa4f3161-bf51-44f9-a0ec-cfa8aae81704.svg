@@ -1,0 +1,20 @@
+<svg id="Dropdown_Menu_headers" data-name="Dropdown/Menu headers" xmlns="http://www.w3.org/2000/svg" width="200" height="112" viewBox="0 0 200 112">
+  <g id="Card_Background" data-name="Card/Background">
+    <g id="card_background_simple" data-name="card background/simple" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+      <rect width="200" height="112" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="199" height="111" rx="4.5" fill="none"/>
+    </g>
+  </g>
+  <g id="Dropdown_item" data-name="Dropdown/item" transform="translate(0 40)">
+    <rect id="Rectangle" width="200" height="32" fill="none"/>
+    <text id="Label" transform="translate(24 22)" fill="#212529" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Action</tspan></text>
+  </g>
+  <g id="Dropdown_item-2" data-name="Dropdown/item" transform="translate(0 72)">
+    <rect id="Rectangle-2" data-name="Rectangle" width="200" height="32" fill="none"/>
+    <text id="Label-2" data-name="Label" transform="translate(24 22)" fill="#212529" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Another action</tspan></text>
+  </g>
+  <g id="Dropdown_header_item" data-name="Dropdown/header item" transform="translate(0 8)">
+    <rect id="Rectangle-3" data-name="Rectangle" width="198" height="32" fill="none"/>
+    <text id="Label-3" data-name="Label" transform="translate(24 21)" fill="#868e96" font-size="14" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">Dropdown header</tspan></text>
+  </g>
+</svg>

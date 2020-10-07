@@ -1,0 +1,657 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "",
+  "last_updated": "2020-10-07T21:11:34.145Z",
+  "entities": [
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "6249dbfc-dc8b-46d1-be0c-be12783ee2ff",
+      "name": "H6/White/Helvetica Neue/16pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "id": "6249dbfc-dc8b-46d1-be0c-be12783ee2ff",
+        "last_sync": "2020-10-07T21:11:34.138Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "6249dbfc-dc8b-46d1-be0c-be12783ee2ff",
+          "type": "custom",
+          "value": "HelveticaNeue-Medium",
+          "key": "family"
+        },
+        {
+          "id": "6249dbfc-dc8b-46d1-be0c-be12783ee2ff",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "6249dbfc-dc8b-46d1-be0c-be12783ee2ff",
+          "type": "size",
+          "value": "16",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "94b71029-92bb-4463-be73-49b531e8d9ce",
+      "name": "H5/White/Helvetica Neue/20pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "id": "94b71029-92bb-4463-be73-49b531e8d9ce",
+        "last_sync": "2020-10-07T21:11:34.138Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "94b71029-92bb-4463-be73-49b531e8d9ce",
+          "type": "custom",
+          "value": "HelveticaNeue-Medium",
+          "key": "family"
+        },
+        {
+          "id": "94b71029-92bb-4463-be73-49b531e8d9ce",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "94b71029-92bb-4463-be73-49b531e8d9ce",
+          "type": "size",
+          "value": "20",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "e33dc4b2-30bc-49ca-8d8a-75de7de3ddaa",
+      "name": "H4/White/Helvetica Neue/24pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "id": "e33dc4b2-30bc-49ca-8d8a-75de7de3ddaa",
+        "last_sync": "2020-10-07T21:11:34.138Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "e33dc4b2-30bc-49ca-8d8a-75de7de3ddaa",
+          "type": "custom",
+          "value": "HelveticaNeue-Medium",
+          "key": "family"
+        },
+        {
+          "id": "e33dc4b2-30bc-49ca-8d8a-75de7de3ddaa",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "e33dc4b2-30bc-49ca-8d8a-75de7de3ddaa",
+          "type": "size",
+          "value": "24",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "05075730-3812-4c79-a51c-323bcd2a6624",
+      "name": "H3/White/Helvetica Neue/28pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "id": "05075730-3812-4c79-a51c-323bcd2a6624",
+        "last_sync": "2020-10-07T21:11:34.138Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "05075730-3812-4c79-a51c-323bcd2a6624",
+          "type": "custom",
+          "value": "HelveticaNeue-Medium",
+          "key": "family"
+        },
+        {
+          "id": "05075730-3812-4c79-a51c-323bcd2a6624",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "05075730-3812-4c79-a51c-323bcd2a6624",
+          "type": "size",
+          "value": "28",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "fea9292a-d53f-4594-bcc9-7b0094d5725e",
+      "name": "H1/White/Helvetica Neue/40pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "id": "fea9292a-d53f-4594-bcc9-7b0094d5725e",
+        "last_sync": "2020-10-07T21:11:34.138Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "fea9292a-d53f-4594-bcc9-7b0094d5725e",
+          "type": "custom",
+          "value": "HelveticaNeue-Medium",
+          "key": "family"
+        },
+        {
+          "id": "fea9292a-d53f-4594-bcc9-7b0094d5725e",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "fea9292a-d53f-4594-bcc9-7b0094d5725e",
+          "type": "size",
+          "value": "40",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "1e551f00-83f9-4d52-9b2a-225f6b6e0338",
+      "name": "Display4/White/Helvetica Neue/56pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "id": "1e551f00-83f9-4d52-9b2a-225f6b6e0338",
+        "last_sync": "2020-10-07T21:11:34.138Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "1e551f00-83f9-4d52-9b2a-225f6b6e0338",
+          "type": "custom",
+          "value": "HelveticaNeue-Light",
+          "key": "family"
+        },
+        {
+          "id": "1e551f00-83f9-4d52-9b2a-225f6b6e0338",
+          "type": "custom",
+          "value": "Light",
+          "key": "weight"
+        },
+        {
+          "id": "1e551f00-83f9-4d52-9b2a-225f6b6e0338",
+          "type": "size",
+          "value": "56",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "d0f97e53-8d97-4122-bd8a-212f4265c7ac",
+      "name": "H2/White/Helvetica Neue/32pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "id": "d0f97e53-8d97-4122-bd8a-212f4265c7ac",
+        "last_sync": "2020-10-07T21:11:34.138Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "d0f97e53-8d97-4122-bd8a-212f4265c7ac",
+          "type": "custom",
+          "value": "HelveticaNeue-Medium",
+          "key": "family"
+        },
+        {
+          "id": "d0f97e53-8d97-4122-bd8a-212f4265c7ac",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "d0f97e53-8d97-4122-bd8a-212f4265c7ac",
+          "type": "size",
+          "value": "32",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "c8d4adf5-84ef-43d4-9742-b30a58ba7cf2",
+      "name": "Display2/White/Helvetica Neue/88pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "id": "c8d4adf5-84ef-43d4-9742-b30a58ba7cf2",
+        "last_sync": "2020-10-07T21:11:34.138Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "c8d4adf5-84ef-43d4-9742-b30a58ba7cf2",
+          "type": "custom",
+          "value": "HelveticaNeue-Light",
+          "key": "family"
+        },
+        {
+          "id": "c8d4adf5-84ef-43d4-9742-b30a58ba7cf2",
+          "type": "custom",
+          "value": "Light",
+          "key": "weight"
+        },
+        {
+          "id": "c8d4adf5-84ef-43d4-9742-b30a58ba7cf2",
+          "type": "size",
+          "value": "88",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "60392a7b-5557-456b-a178-cd204b7a6b6e",
+      "name": "Display3/White/Helvetica Neue/72pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "id": "60392a7b-5557-456b-a178-cd204b7a6b6e",
+        "last_sync": "2020-10-07T21:11:34.138Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "60392a7b-5557-456b-a178-cd204b7a6b6e",
+          "type": "custom",
+          "value": "HelveticaNeue-Light",
+          "key": "family"
+        },
+        {
+          "id": "60392a7b-5557-456b-a178-cd204b7a6b6e",
+          "type": "custom",
+          "value": "Light",
+          "key": "weight"
+        },
+        {
+          "id": "60392a7b-5557-456b-a178-cd204b7a6b6e",
+          "type": "size",
+          "value": "72",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "c6f8bead-cee0-4b11-b88f-ca40cf7b42b6",
+      "name": "H6/Helvetica Neue/16pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "id": "c6f8bead-cee0-4b11-b88f-ca40cf7b42b6",
+        "last_sync": "2020-10-07T21:11:34.138Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "c6f8bead-cee0-4b11-b88f-ca40cf7b42b6",
+          "type": "custom",
+          "value": "HelveticaNeue-Medium",
+          "key": "family"
+        },
+        {
+          "id": "c6f8bead-cee0-4b11-b88f-ca40cf7b42b6",
+          "type": "custom",
+          "key": "weight"
+        },
+        {
+          "id": "c6f8bead-cee0-4b11-b88f-ca40cf7b42b6",
+          "type": "size",
+          "value": "16",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "447bd9e0-fdc7-49ff-b73e-2744ebbdba4e",
+      "name": "Display1/White/Helvetica Neue/96pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "id": "447bd9e0-fdc7-49ff-b73e-2744ebbdba4e",
+        "last_sync": "2020-10-07T21:11:34.138Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "447bd9e0-fdc7-49ff-b73e-2744ebbdba4e",
+          "type": "custom",
+          "value": "HelveticaNeue-Light",
+          "key": "family"
+        },
+        {
+          "id": "447bd9e0-fdc7-49ff-b73e-2744ebbdba4e",
+          "type": "custom",
+          "value": "Light",
+          "key": "weight"
+        },
+        {
+          "id": "447bd9e0-fdc7-49ff-b73e-2744ebbdba4e",
+          "type": "size",
+          "value": "96",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "ca3d6e4a-96cc-4043-98ae-db652f309031",
+      "name": "H5/Helvetica Neue/20pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "id": "ca3d6e4a-96cc-4043-98ae-db652f309031",
+        "last_sync": "2020-10-07T21:11:34.138Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "ca3d6e4a-96cc-4043-98ae-db652f309031",
+          "type": "custom",
+          "value": "HelveticaNeue-Medium",
+          "key": "family"
+        },
+        {
+          "id": "ca3d6e4a-96cc-4043-98ae-db652f309031",
+          "type": "custom",
+          "key": "weight"
+        },
+        {
+          "id": "ca3d6e4a-96cc-4043-98ae-db652f309031",
+          "type": "size",
+          "value": "20",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "053cbb7b-18a0-4000-8dc2-825dbee32382",
+      "name": "H4/Helvetica Neue/24pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "id": "053cbb7b-18a0-4000-8dc2-825dbee32382",
+        "last_sync": "2020-10-07T21:11:34.138Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "053cbb7b-18a0-4000-8dc2-825dbee32382",
+          "type": "custom",
+          "value": "HelveticaNeue-Medium",
+          "key": "family"
+        },
+        {
+          "id": "053cbb7b-18a0-4000-8dc2-825dbee32382",
+          "type": "custom",
+          "key": "weight"
+        },
+        {
+          "id": "053cbb7b-18a0-4000-8dc2-825dbee32382",
+          "type": "size",
+          "value": "24",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "4470f847-d46f-4a20-8872-626323220852",
+      "name": "H1/Helvetica Neue/40pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "id": "4470f847-d46f-4a20-8872-626323220852",
+        "last_sync": "2020-10-07T21:11:34.138Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "4470f847-d46f-4a20-8872-626323220852",
+          "type": "custom",
+          "value": "HelveticaNeue-Medium",
+          "key": "family"
+        },
+        {
+          "id": "4470f847-d46f-4a20-8872-626323220852",
+          "type": "custom",
+          "key": "weight"
+        },
+        {
+          "id": "4470f847-d46f-4a20-8872-626323220852",
+          "type": "size",
+          "value": "40",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "99ef9c10-ced4-4ebe-9e07-0f6138bf9f43",
+      "name": "H3/Helvetica Neue/28pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "id": "99ef9c10-ced4-4ebe-9e07-0f6138bf9f43",
+        "last_sync": "2020-10-07T21:11:34.138Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "99ef9c10-ced4-4ebe-9e07-0f6138bf9f43",
+          "type": "custom",
+          "value": "HelveticaNeue-Medium",
+          "key": "family"
+        },
+        {
+          "id": "99ef9c10-ced4-4ebe-9e07-0f6138bf9f43",
+          "type": "custom",
+          "key": "weight"
+        },
+        {
+          "id": "99ef9c10-ced4-4ebe-9e07-0f6138bf9f43",
+          "type": "size",
+          "value": "28",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "1002eb11-a247-4989-8a33-195d257b1046",
+      "name": "H2/Helvetica Neue/32pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "id": "1002eb11-a247-4989-8a33-195d257b1046",
+        "last_sync": "2020-10-07T21:11:34.138Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "1002eb11-a247-4989-8a33-195d257b1046",
+          "type": "custom",
+          "value": "HelveticaNeue-Medium",
+          "key": "family"
+        },
+        {
+          "id": "1002eb11-a247-4989-8a33-195d257b1046",
+          "type": "custom",
+          "key": "weight"
+        },
+        {
+          "id": "1002eb11-a247-4989-8a33-195d257b1046",
+          "type": "size",
+          "value": "32",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "ebe3c96d-6de8-45f7-ad2e-a5ece7dafd68",
+      "name": "Display3/Helvetica Neue/72pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "id": "ebe3c96d-6de8-45f7-ad2e-a5ece7dafd68",
+        "last_sync": "2020-10-07T21:11:34.138Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "ebe3c96d-6de8-45f7-ad2e-a5ece7dafd68",
+          "type": "custom",
+          "value": "HelveticaNeue-Light",
+          "key": "family"
+        },
+        {
+          "id": "ebe3c96d-6de8-45f7-ad2e-a5ece7dafd68",
+          "type": "custom",
+          "key": "weight"
+        },
+        {
+          "id": "ebe3c96d-6de8-45f7-ad2e-a5ece7dafd68",
+          "type": "size",
+          "value": "72",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "35685f71-2880-4017-9f21-354ad4565c37",
+      "name": "Display4/Helvetica Neue/56pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "id": "35685f71-2880-4017-9f21-354ad4565c37",
+        "last_sync": "2020-10-07T21:11:34.138Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "35685f71-2880-4017-9f21-354ad4565c37",
+          "type": "custom",
+          "value": "HelveticaNeue-Light",
+          "key": "family"
+        },
+        {
+          "id": "35685f71-2880-4017-9f21-354ad4565c37",
+          "type": "custom",
+          "key": "weight"
+        },
+        {
+          "id": "35685f71-2880-4017-9f21-354ad4565c37",
+          "type": "size",
+          "value": "56",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "b9456c17-72cd-4058-b13f-4fd71b617b02",
+      "name": "Display1/Helvetica Neue/96pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "id": "b9456c17-72cd-4058-b13f-4fd71b617b02",
+        "last_sync": "2020-10-07T21:11:34.138Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "b9456c17-72cd-4058-b13f-4fd71b617b02",
+          "type": "custom",
+          "value": "HelveticaNeue-Light",
+          "key": "family"
+        },
+        {
+          "id": "b9456c17-72cd-4058-b13f-4fd71b617b02",
+          "type": "custom",
+          "key": "weight"
+        },
+        {
+          "id": "b9456c17-72cd-4058-b13f-4fd71b617b02",
+          "type": "size",
+          "value": "96",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "ac3a535e-7e9c-4659-a87b-96d34eba24ad",
+      "name": "Display2/Helvetica Neue/88pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "id": "ac3a535e-7e9c-4659-a87b-96d34eba24ad",
+        "last_sync": "2020-10-07T21:11:34.138Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "ac3a535e-7e9c-4659-a87b-96d34eba24ad",
+          "type": "custom",
+          "value": "HelveticaNeue-Light",
+          "key": "family"
+        },
+        {
+          "id": "ac3a535e-7e9c-4659-a87b-96d34eba24ad",
+          "type": "custom",
+          "key": "weight"
+        },
+        {
+          "id": "ac3a535e-7e9c-4659-a87b-96d34eba24ad",
+          "type": "size",
+          "value": "88",
+          "key": "size"
+        }
+      ]
+    }
+  ]
+}

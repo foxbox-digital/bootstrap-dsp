@@ -1,0 +1,34 @@
+<svg id="Grid_Uneven_No_Gutter" data-name="Grid/Uneven/No Gutter" xmlns="http://www.w3.org/2000/svg" width="1140" height="60" viewBox="0 0 1140 60">
+  <g id="Grid_Ω_15px_Gutter" data-name="Grid/Ω/15px Gutter">
+    <rect id="base" width="95" height="60" fill="rgba(255,191,191,0.1)"/>
+    <g id="Grid_Ω_Label" data-name="Grid/Ω/Label">
+      <path id="width" d="M0-13H95v-4H0Z" transform="translate(0 30)" fill="#ffbebe"/>
+      <g id="Right_Marker" data-name="Right Marker" transform="translate(91)">
+        <path id="Path_3207" data-name="Path 3207" d="M281,0h4V-30h-4Z" transform="translate(-281 30)" fill="#ffbebe"/>
+        <path id="Path_3209" data-name="Path 3209" d="M284,0h1V-30h-1Z" transform="translate(-281 30)" fill="#f99"/>
+      </g>
+      <g id="Left_Marker" data-name="Left Marker">
+        <path id="Path_3217" data-name="Path 3217" d="M285,0h-4V-30h4Z" transform="translate(-281 30)" fill="#ffbebe"/>
+        <path id="Path_3216" data-name="Path 3216" d="M285,0h-1V-30h1Z" transform="translate(-284 30)" fill="#ff7373"/>
+      </g>
+      <path id="col-1" d="M121-6h44V-24H121Z" transform="translate(-95.394 30)" fill="#ffbebe"/>
+      <text id="col-1-2" data-name="col-1" transform="translate(13 6)" fill="#fff" font-size="12" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="20.397" y="12">col-1</tspan></text>
+    </g>
+  </g>
+  <g id="Grid_Ω_15px_Gutter-2" data-name="Grid/Ω/15px Gutter" transform="translate(95)">
+    <rect id="base-2" data-name="base" width="1045" height="60" fill="rgba(255,191,191,0.25)"/>
+    <g id="Grid_Ω_Label-2" data-name="Grid/Ω/Label">
+      <path id="width-2" data-name="width" d="M0-13H1045v-4H0Z" transform="translate(0 30)" fill="#ffbebe"/>
+      <g id="Right_Marker-2" data-name="Right Marker" transform="translate(1041)">
+        <path id="Path_3207-2" data-name="Path 3207" d="M281,0h4V-30h-4Z" transform="translate(-281 30)" fill="#ffbebe"/>
+        <path id="Path_3209-2" data-name="Path 3209" d="M284,0h1V-30h-1Z" transform="translate(-281 30)" fill="#f99"/>
+      </g>
+      <g id="Left_Marker-2" data-name="Left Marker">
+        <path id="Path_3217-2" data-name="Path 3217" d="M285,0h-4V-30h4Z" transform="translate(-281 30)" fill="#ffbebe"/>
+        <path id="Path_3216-2" data-name="Path 3216" d="M285,0h-1V-30h1Z" transform="translate(-284 30)" fill="#ff7373"/>
+      </g>
+      <path id="col-1-3" data-name="col-1" d="M121-6h44V-24H121Z" transform="translate(381.577 30)" fill="#ffbebe"/>
+      <text id="col-1-4" data-name="col-1" transform="translate(148.586 6)" fill="#fff" font-size="12" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="360.022" y="12">col-1</tspan></text>
+    </g>
+  </g>
+</svg>

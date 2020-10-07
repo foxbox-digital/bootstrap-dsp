@@ -1,0 +1,7 @@
+<svg id="ButtonGroup_Single_toggle_button_Danger" data-name="ButtonGroup/Single toggle button/Danger" xmlns="http://www.w3.org/2000/svg" width="122" height="38" viewBox="0 0 122 38">
+  <g id="Danger_DC3545" data-name="Danger / #DC3545" fill="none" stroke="#dc3545" stroke-width="1">
+    <path d="M0,0H117a5,5,0,0,1,5,5V33a5,5,0,0,1-5,5H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+    <path d="M1,.5H117A4.5,4.5,0,0,1,121.5,5V33a4.5,4.5,0,0,1-4.5,4.5H1A.5.5,0,0,1,.5,37V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+  </g>
+  <text id="Danger_radio" data-name="Danger radio" transform="translate(16 24)" fill="#dc3545" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Danger radio</tspan></text>
+</svg>

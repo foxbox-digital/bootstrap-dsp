@@ -1,0 +1,4 @@
+<svg id="icon_check" data-name="icon/check" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <path id="check" d="M13.076,5.039a.979.979,0,1,1,1.4,1.371L9.261,12.926a.979.979,0,0,1-1.41.026L4.4,9.5A.979.979,0,1,1,5.781,8.113l2.734,2.733,4.535-5.778a.308.308,0,0,1,.026-.029Z" transform="translate(-2.085 -1.745)" fill-rule="evenodd"/>
+  <rect id="base" width="15" height="15" fill="none"/>
+</svg>

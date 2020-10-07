@@ -1,0 +1,8 @@
+<svg id="Dropdown_Button_Success" data-name="Dropdown/Button/Success" xmlns="http://www.w3.org/2000/svg" width="115" height="38" viewBox="0 0 115 38">
+  <rect id="Shape" width="115" height="38" rx="5" fill="#28a745"/>
+  <g id="icon_dropdown_arrow_default" data-name="icon/dropdown arrow/default" transform="translate(85 12)">
+    <rect id="Dropdown_Button_Ω_Carot_Down_background" data-name="Dropdown/Button/Ω/Carot/Down background" width="14" height="14" fill="none"/>
+    <path id="icon_dropdown_arrow" data-name="icon/dropdown arrow" d="M.023-6h12L6,0Z" transform="translate(0.977 10)" fill="#fff"/>
+  </g>
+  <text id="Success" transform="translate(16 24)" fill="#fff" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Success</tspan></text>
+</svg>

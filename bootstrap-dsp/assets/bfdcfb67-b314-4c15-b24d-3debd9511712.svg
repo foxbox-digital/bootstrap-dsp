@@ -1,0 +1,5 @@
+<svg id="List_Group_Flush" data-name="List Group/Flush" xmlns="http://www.w3.org/2000/svg" width="400" height="49" viewBox="0 0 400 49">
+  <rect id="State" width="400" height="49" fill="#fff"/>
+  <rect id="Bottom_Border" data-name="Bottom Border" width="400" height="1" transform="translate(0 48)" fill="rgba(0,0,0,0.12)"/>
+  <text id="Label" transform="translate(21 16)" fill="#212529" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="15">List Item</tspan></text>
+</svg>

@@ -1,0 +1,22 @@
+<svg id="Card_Image_Overlay" data-name="Card/Image Overlay" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480" height="368" viewBox="0 0 480 368">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_59" data-name="Rectangle 59" width="480" height="368" rx="5" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="image" clip-path="url(#clip-path)">
+    <g id="Image_placeholder_big" data-name="Image placeholder / big">
+      <rect id="shape" width="480" height="393" fill="#777"/>
+      <g id="image-2" data-name="image" transform="translate(182.665 113.639)">
+        <path id="Path_580" data-name="Path 580" d="M84.484,7.034H12.071a6.034,6.034,0,0,0-6.034,6.034V73.413a6.034,6.034,0,0,0,6.034,6.034H84.484a6.034,6.034,0,0,0,6.034-6.034V13.069A6.034,6.034,0,0,0,84.484,7.034ZM12.071,1A12.069,12.069,0,0,0,0,13.069V73.413A12.069,12.069,0,0,0,12.071,85.482H84.484A12.069,12.069,0,0,0,96.553,73.413V13.069A12.069,12.069,0,0,0,84.484,1H12.071Z" transform="translate(-0.002 -1)" fill="#f8f9fa" fill-rule="evenodd"/>
+        <path id="Path_581" data-name="Path 581" d="M63.507,8.446a3.24,3.24,0,0,1,3.739-.6L91.72,20.46V49.619H1V36.659L18.148,21.406A3.24,3.24,0,0,1,22.23,21L39.466,32.493l24.04-24.04Z" transform="translate(1.914 30.276)" fill="#f8f9fa"/>
+        <path id="Path_582" data-name="Path 582" d="M12.054,22.1A9.052,9.052,0,1,0,3,13.052,9.052,9.052,0,0,0,12.054,22.1Z" transform="translate(15.101 14.103)" fill="#f8f9fa" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+  <g id="content">
+    <text id="Card_title" data-name="Card title" transform="translate(20 40)" fill="#f8f9fa" font-size="20" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">Card title</tspan></text>
+    <text id="This_is_a_wider_card_with_supporting_text_below_as_a_natural_lead-in_to_additional_content._This_content_is_a_little_bit_longer." data-name="This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer." transform="translate(20 55)" fill="#f8f9fa" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="15">This is a wider card with supporting text below as a </tspan><tspan x="0" y="39">natural lead-in to additional content. This content is </tspan><tspan x="0" y="63">a little bit longer.</tspan></text>
+    <text id="Last_updated_3_mins_ago" data-name="Last updated 3 mins ago" transform="translate(20 164)" fill="#f8f9fa" font-size="13" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Last updated 3 mins ago</tspan></text>
+  </g>
+</svg>

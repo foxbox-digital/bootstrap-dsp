@@ -1,0 +1,11 @@
+<svg id="Dropdown_Button_Split_Button_Info_Small" data-name="Dropdown/Button/Split Button/Info/Small" xmlns="http://www.w3.org/2000/svg" width="80" height="31" viewBox="0 0 80 31">
+  <g id="Dropdown_Selector" data-name="Dropdown Selector" transform="translate(84.262 -0.5)">
+    <rect id="Style" width="80" height="31" rx="4" transform="translate(-84.262 0.5)" fill="#17a2b8"/>
+    <path id="Style-2" data-name="Style" d="M0,0H26a4,4,0,0,1,4,4V27a4,4,0,0,1-4,4H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(-34.262 0.5)" fill="#17a2b8"/>
+    <g id="icon_dropdown_arrow_small" data-name="icon/dropdown arrow/small" transform="translate(-24.262 11.5)">
+      <rect id="Dropdown_Button_Ω_Carot_Down_background" data-name="Dropdown/Button/Ω/Carot/Down background" width="10" height="10" fill="none"/>
+      <path id="Mask" d="M0,0H10L5,5Z" transform="translate(0 2.5)" fill="#fff"/>
+    </g>
+  </g>
+  <text id="Label" transform="translate(13 20)" fill="#fff" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Info</tspan></text>
+</svg>

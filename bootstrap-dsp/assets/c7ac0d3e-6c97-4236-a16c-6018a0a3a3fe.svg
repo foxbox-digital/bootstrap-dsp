@@ -1,0 +1,19 @@
+<svg id="Card_Optional_Header" data-name="Card/Optional Header" xmlns="http://www.w3.org/2000/svg" width="530" height="233" viewBox="0 0 530 233">
+  <g id="Content">
+    <g id="card_background_simple" data-name="card background/simple" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+      <rect width="529" height="233" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="528" height="232" rx="4.5" fill="none"/>
+    </g>
+    <g id="Button_Default_Primary" data-name="Button/Default/Primary" transform="translate(22 172)">
+      <rect id="Primary_007BFF" data-name="Primary / #007BFF" width="87" height="38" rx="5" fill="#007bff"/>
+      <text id="Primary" transform="translate(16 24)" fill="#fff" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Primary</tspan></text>
+    </g>
+    <text id="With_supporting_text_below_as_a_natural_lead-in_to_additional_content." data-name="With supporting text below as a natural lead-in to additional content." transform="translate(22 109)" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="15">With supporting text below as a natural lead-in to additional </tspan><tspan x="0" y="39">content.</tspan></text>
+    <text id="Special_title_treatment" data-name="Special title treatment" transform="translate(22 88)" font-size="20" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">Special title treatment</tspan></text>
+  </g>
+  <g id="Header">
+    <path id="line" d="M5410,6364.916h530" transform="translate(-5410 -6316.916)" fill="none" stroke="#e0e0e0" stroke-width="1"/>
+    <path id="background" d="M5,0H525a5,5,0,0,1,5,5V48a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" fill="rgba(0,0,0,0.03)"/>
+    <text id="Header-2" data-name="Header" transform="translate(22 30)" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Header</tspan></text>
+  </g>
+</svg>

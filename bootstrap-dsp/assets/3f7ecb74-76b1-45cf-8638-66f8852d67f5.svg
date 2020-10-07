@@ -1,0 +1,6 @@
+<svg id="InputGroup_Left_Placeholder_Large" data-name="InputGroup/Left/Placeholder/Large" xmlns="http://www.w3.org/2000/svg" width="70" height="48" viewBox="0 0 70 48">
+  <g id="InputGroup_Left_Placeholder_Large-2" data-name="InputGroup/Left/Placeholder/Large" fill="#fff" stroke="#ced4da" stroke-width="1">
+    <path d="M4,0H70a0,0,0,0,1,0,0V48a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" stroke="none"/>
+    <path d="M4,.5H69a.5.5,0,0,1,.5.5V47a.5.5,0,0,1-.5.5H4A3.5,3.5,0,0,1,.5,44V4A3.5,3.5,0,0,1,4,.5Z" fill="none"/>
+  </g>
+</svg>

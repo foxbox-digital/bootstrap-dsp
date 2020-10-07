@@ -1,0 +1,9 @@
+<svg id="InputGroup_Base_Text_Middle_Small" data-name="InputGroup/Base/Text/Middle/Small" xmlns="http://www.w3.org/2000/svg" width="113" height="31" viewBox="0 0 113 31">
+  <g id="InputGroup_Middle_Placeholder_Small" data-name="InputGroup/Middle/Placeholder/Small">
+    <g id="InputGroup_Middle_Placeholder_Small-2" data-name="InputGroup/Middle/Placeholder/Small" fill="#fff" stroke="#ced4da" stroke-width="1">
+      <rect width="113" height="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="112" height="30" fill="none"/>
+    </g>
+  </g>
+  <text id="Small_Button" data-name="Small Button" transform="translate(16 20)" fill="#868e96" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Small Button</tspan></text>
+</svg>

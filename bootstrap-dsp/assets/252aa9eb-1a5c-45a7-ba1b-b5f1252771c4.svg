@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="372" height="122.5" viewBox="0 0 372 122.5">
+  <g id="Form_Textarea_Default" data-name="Form/Textarea/Default" transform="translate(1)">
+    <text id="Group_Label" data-name="Group Label" fill="#212529" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="15">Example Textarea</tspan></text>
+    <g id="Input_Base" data-name="Input/Base" transform="translate(0 29.5)">
+      <g id="Input_Base-2" data-name="Input/Base" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+        <rect width="370" height="92" rx="5" stroke="none"/>
+        <rect x="-0.5" y="-0.5" width="371" height="93" rx="5.5" fill="none"/>
+      </g>
+    </g>
+    <g id="icon_resize" data-name="icon/resize" transform="translate(361.5 112.5)">
+      <path id="Line" d="M6.5.5l-6,6" transform="translate(-0.5 -0.5)" fill="none" stroke="#666" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Line-2" data-name="Line" d="M2.5.5l-2,2" transform="translate(3.5 3.5)" fill="none" stroke="#666" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

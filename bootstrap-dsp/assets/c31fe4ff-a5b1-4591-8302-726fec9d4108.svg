@@ -1,0 +1,7 @@
+<svg id="Table_Head_Cell_Small" data-name="Table/Head Cell/Small" xmlns="http://www.w3.org/2000/svg" width="160" height="33.5" viewBox="0 0 160 33.5">
+  <rect id="base" width="160" height="32" fill="#fff"/>
+  <g id="Table_Borders_Head_White_Default" data-name="Table/Borders/Head/White/Default" transform="translate(0 33)">
+    <line id="Line_2" data-name="Line 2" x2="160" fill="none" stroke="#343a40" stroke-width="1"/>
+  </g>
+  <text id="Head" transform="translate(10 23)" font-size="16" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">Head</tspan></text>
+</svg>

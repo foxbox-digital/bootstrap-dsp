@@ -1,0 +1,26 @@
+<svg id="Dropdown_Menu_Select" data-name="Dropdown/Menu/Select" xmlns="http://www.w3.org/2000/svg" width="200" height="144" viewBox="0 0 200 144">
+  <g id="dropdown_menu" data-name="dropdown menu">
+    <g id="card_background_simple" data-name="card background/simple" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+      <rect width="200" height="144" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="199" height="143" rx="4.5" fill="none"/>
+    </g>
+    <g id="Content" transform="translate(-76 -892)">
+      <g id="Dropdown_item" data-name="Dropdown/item" transform="translate(76 996)">
+        <rect id="Rectangle" width="200" height="32" fill="none"/>
+        <text id="Label" transform="translate(24 22)" fill="#212529" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Something else here</tspan></text>
+      </g>
+      <g id="Dropdown_item-2" data-name="Dropdown/item" transform="translate(76 964)">
+        <rect id="Rectangle-2" data-name="Rectangle" width="200" height="32" fill="none"/>
+        <text id="Label-2" data-name="Label" transform="translate(24 22)" fill="#212529" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Something else here</tspan></text>
+      </g>
+      <g id="Dropdown_item-3" data-name="Dropdown/item" transform="translate(76 932)">
+        <rect id="Rectangle-3" data-name="Rectangle" width="200" height="32" fill="none"/>
+        <text id="Label-3" data-name="Label" transform="translate(24 22)" fill="#212529" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Another action</tspan></text>
+      </g>
+      <g id="Dropdown_item-4" data-name="Dropdown/item" transform="translate(76 900)">
+        <rect id="Rectangle-4" data-name="Rectangle" width="200" height="32" fill="none"/>
+        <text id="Label-4" data-name="Label" transform="translate(24 22)" fill="#212529" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Action</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
