@@ -1,0 +1,10 @@
+.button {
+  width: auto;
+  border: 0;
+  border-radius: 5px;
+  padding: 0.5rem 0.75rem;
+}
+.button.primary {
+  background: var(--primary-007-bff);
+  color: var(--universal-white-ffffff);
+}
