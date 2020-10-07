@@ -6,9 +6,7 @@ This will allow to demo the power of the Adobe XD VSCode Extension
 
 ## DSP Setup
 
-- Change directory to `resources`
-- Unzip `xd-0.1.5.vsix.zip` file
-- Install the extension from the `.vsix` file
+- Install the extension
 - Hit `Cmd+Opt+X` to load the Adobe XD Extension UI
 - Load the `bootstrap-dsp` folder
 - Hit the `Start Editing` button
