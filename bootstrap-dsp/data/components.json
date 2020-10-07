@@ -324,10 +324,10 @@
         "H6/White/Helvetica Neue/16pt"
       ],
       "snippets": {
-        "trigger": "",
+        "trigger": "button_default_primary",
         "languages": {
-          "html": "<button class=\"btn btn-primary\">Default Primary</button>",
-          "javascriptreact": "<Button variant=\"primary\">Default Primary</Button>"
+          "html": "<button class=\"btn btn-primary\">Primary Primary</button>",
+          "javascriptreact": "<Button variant=\"primary\">Primary Button</Button>"
         }
       },
       "name": "Button/Default/Primary",

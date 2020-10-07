@@ -6,16 +6,6 @@ const StyleDictionary = require('style-dictionary').extend({
     "properties/sizes.json"
   ],
   "platforms": {
-    "css": {
-      "files": [
-        {
-          "destination": "variables.css",
-          "format": "css/variables"
-        }
-      ],
-      "transformGroup": "css",
-      "buildPath": "css/"
-    },
     "js": {
       "files": [
         {
@@ -25,16 +15,6 @@ const StyleDictionary = require('style-dictionary').extend({
       ],
       "transformGroup": "js",
       "buildPath": "js/"
-    },
-    "scss": {
-      "files": [
-        {
-          "destination": "variables.scss",
-          "format": "scss/variables"
-        }
-      ],
-      "transformGroup": "scss",
-      "buildPath": "scss/"
     }
   }
 });

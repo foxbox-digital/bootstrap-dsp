@@ -6,7 +6,7 @@
     "name": "bootstrap-dsp",
     "package_version": "0.0.1",
     "build_tool": "StyleDictionary",
-    "snippet_trigger_prefix": "xd_",
+    "snippet_trigger_prefix": "xd_bs_",
     "build_status_label": "dev",
     "build_params": "./config.js",
     "languages": [
@@ -30,7 +30,7 @@
       },
       {
         "label": "CSS",
-        "export_tokens": true,
+        "export_tokens": false,
         "snippet_id": "css",
         "syntax": "text/css",
         "ext-com_adobe_xd-styledictionary_id": "css"
@@ -149,7 +149,7 @@
       },
       {
         "label": "SCSS",
-        "export_tokens": true,
+        "export_tokens": false,
         "snippet_id": "scss",
         "syntax": "text/x-sass",
         "ext-com_adobe_xd-styledictionary_id": "scss"
