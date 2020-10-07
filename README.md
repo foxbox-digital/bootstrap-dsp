@@ -4,7 +4,7 @@
 
 This will allow to demo the power of the Adobe XD VSCode Extension
 
-## DSP Setup
+## DSP Setup
 
 - Unzip `resources/xd-0.1.5.vsix.zip` file
 - Install the extension from the `.vsix` file
@@ -17,7 +17,7 @@ With that a new build will be triggered and the `dist` folder will be updated
 
 ## Environment Setup
 
-### HTML Webpage
+### HTML Webpage
 
 - Open the `index.html` file in a browser
 
