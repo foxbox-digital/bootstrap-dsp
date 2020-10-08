@@ -30,6 +30,22 @@ With that a new build will be triggered and the `dist` folder will be updated
 - Run `npm run dev`
 - Open [http://localhost:3000](http://localhost:3000) on the browser
 
+### Usage
+
+For you to use the code snippets correctly, you have to install [react-bootstrap](https://react-bootstrap.github.io/) and import the corresponding component
+
+#### Example
+
+```js
+import { Button } from 'react-bootstrap';
+
+function HomePage() {
+  return <Button variant="primary">Primary Button</Button>;
+}
+
+export default HomePage;
+```
+
 ## Resources
 
 - Bootstrap 5 UI Kit assets: [https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4](https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4)
