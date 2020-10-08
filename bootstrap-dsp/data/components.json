@@ -98,10 +98,17 @@
       "type": "page",
       "tags": [],
       "id": "74d89dbf-a743-438f-af8a-5e671c7667e6",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Primary / #007BFF",
+        "Universal / White / #FFFFFF",
+        "H6/White/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "badge_medium",
+        "languages": {
+          "html": "<h4>Example heading <span class=\"badge badge-secondary\">New</span></h4>",
+          "javascriptreact": "<h4>Example heading <Badge variant=\"secondary\">New</Badge></h4>"
+        }
       },
       "name": "Badge/Badge/h4 Medium",
       "ext-com_adobe-cclib": {
@@ -109,7 +116,8 @@
         "id": "74d89dbf-a743-438f-af8a-5e671c7667e6",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
+      },
+      "description": "## Badge h4 Medium\n\nThis is the documentation for the `Badge h4 Medium` component from Bootstrap UI Kit"
     },
     {
       "class": "component",
@@ -1622,10 +1630,17 @@
       "type": "page",
       "tags": [],
       "id": "9448fcd1-5d1d-488c-9f37-26d24978be7a",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Primary / #007BFF",
+        "H6/White/Helvetica Neue/16pt",
+        "Universal / Black / #000000"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "card_simple",
+        "languages": {
+          "javascriptreact": "<Card style={{ width: '18rem' }}>\n  <Card.Img variant=\"top\" src=\"holder.js/100px180\" />\n  <Card.Body>\n    <Card.Title>Card Title</Card.Title>\n    <Card.Text>\n      Some quick example text to build on the card title and make up the bulk of\n      the card's content.\n    </Card.Text>\n    <Button variant=\"primary\">Go somewhere</Button>\n  </Card.Body>\n</Card>",
+          "html": "<div class=\"card\" style=\"width: 18rem;\">\n  <img src=\"...\" class=\"card-img-top\" alt=\"...\">\n  <div class=\"card-body\">\n    <h5 class=\"card-title\">Card title</h5>\n    <p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's content.</p>\n    <a href=\"#\" class=\"btn btn-primary\">Go somewhere</a>\n  </div>\n</div>"
+        }
       },
       "name": "Card/Simple",
       "ext-com_adobe-cclib": {
@@ -1633,7 +1648,8 @@
         "id": "9448fcd1-5d1d-488c-9f37-26d24978be7a",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
-      }
+      },
+      "description": "## Card Simple\n\nThis is the documentation for the `Card Simple` component from Bootstrap UI Kit\n\n### Options\n\n- Image\n- Card Title\n- Card Body"
     },
     {
       "class": "component",
