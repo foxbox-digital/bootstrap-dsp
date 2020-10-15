@@ -10,14 +10,6 @@
       "name": "Introduction",
       "description": "# Bootstrap DSP\n![Bootstrap](https://pbs.twimg.com/profile_banners/372475592/1592361111/1500x500)\n\nAccelerate your development with Bootstrap DSP and Adobe XD for Visual Studio Code!\n\nIt's built from the [XD-Bootstrap-v.5-UI-Kit](https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4) CC Library.\n\n## Languages\nBootstrap DSP supports code snippets for:\n- HTML\n- React\n\nWant more? Please open an issue in our [Github repo](https://github.com/foxbox-digital/bootstrap-dsp).\n\n\n---\n\nBuilt by the team at [Foxbox Digital](https://foxbox.com)\n\n![Foxbox Digital](https://foxbox.nyc3.cdn.digitaloceanspaces.com/logo/logo+wordmark/Logo+WordmarkWhite@1x.png)",
       "tags": []
-    },
-    {
-      "class": "doc",
-      "type": "page",
-      "id": "c05d84c5-e040-475b-9d17-f10c3452f01d",
-      "name": "Principles",
-      "description": "Edit this with the pencil icon. \n\n[Markdown](https://commonmark.org/help/) is supported to help you create great documentation for your design system.",
-      "tags": []
     }
   ]
 }

@@ -1,8 +1,0 @@
-<svg id="Image_placeholder_small" data-name="Image placeholder / small" xmlns="http://www.w3.org/2000/svg" width="286" height="180" viewBox="0 0 286 180">
-  <rect id="Rectangle_52" data-name="Rectangle 52" width="286" height="180" fill="#777"/>
-  <g id="icon_image" data-name="icon/image" transform="translate(116 66.658)">
-    <path id="Path_580" data-name="Path 580" d="M46.743,4.339H6.679A3.339,3.339,0,0,0,3.341,7.677V41.064A3.339,3.339,0,0,0,6.679,44.4H46.743a3.339,3.339,0,0,0,3.339-3.339V7.677A3.339,3.339,0,0,0,46.743,4.339ZM6.679,1A6.677,6.677,0,0,0,0,7.677V41.064a6.677,6.677,0,0,0,6.677,6.677H46.743a6.677,6.677,0,0,0,6.677-6.677V7.677A6.677,6.677,0,0,0,46.743,1H6.679Z" transform="translate(-0.002 -1)" fill="#f8f9fa" fill-rule="evenodd"/>
-    <path id="Path_581" data-name="Path 581" d="M34.837,8.012a1.754,1.754,0,0,1,2.024-.326L50.11,14.515V30.3H1V23.285l9.281-8.257a1.754,1.754,0,0,1,2.21-.217l9.33,6.219L34.837,8.016Z" transform="translate(1.153 13.652)" fill="#f8f9fa"/>
-    <path id="Path_582" data-name="Path 582" d="M8.01,14.016A5.008,5.008,0,1,0,3,9.008,5.008,5.008,0,0,0,8.01,14.016Z" transform="translate(7.014 6.016)" fill="#f8f9fa" fill-rule="evenodd"/>
-  </g>
-</svg>
