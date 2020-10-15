@@ -2332,12 +2332,108 @@
     {
       "class": "component",
       "type": "page",
-      "tags": [],
-      "id": "e62fb415-a948-47f2-8f63-6e005e7428dd",
-      "related_entity_ids": [],
+      "tags": [
+        "input-group",
+        "addon",
+        "button"
+      ],
+      "id": "11a029e3-5d06-40f5-ab8e-3c63500aa8be",
+      "related_entity_ids": [
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "input_group_addon_button",
+        "languages": {
+          "html": "<div class=\"input-group mb-3\">\n  <div class=\"input-group-prepend\">\n    <button class=\"btn btn-outline-secondary\" type=\"button\" id=\"button-addon1\">Button</button>\n  </div>\n  <input type=\"text\" class=\"form-control\" placeholder=\"\" aria-label=\"Example text with button addon\" aria-describedby=\"button-addon1\">\n</div>",
+          "javascriptreact": "  <InputGroup className=\"mb-3\">\n    <InputGroup.Prepend>\n      <Button variant=\"outline-secondary\">Button</Button>\n    </InputGroup.Prepend>\n    <FormControl aria-describedby=\"basic-addon1\" />\n  </InputGroup>"
+        }
+      },
+      "name": "InputGroup/Addon/Button Addon",
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "id": "11a029e3-5d06-40f5-ab8e-3c63500aa8be",
+        "last_sync": "2020-10-07T21:11:34.137Z",
+        "sync": true
+      },
+      "description": "# Input group\nEasily extend form controls by adding text, buttons, or button groups on either side of textual inputs, custom selects, and custom file inputs.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/input-group/)\n- [React](https://react-bootstrap.github.io/components/input-group/)"
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [
+        "input-group",
+        "addon",
+        "dropdown"
+      ],
+      "id": "a32783da-9803-4d3e-91b9-224c38c20e6e",
+      "related_entity_ids": [
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
+      "snippets": {
+        "trigger": "input_group_addon_dropdown",
+        "languages": {
+          "javascriptreact": "  <InputGroup className=\"mb-3\">\n    <DropdownButton\n      as={InputGroup.Prepend}\n      variant=\"outline-secondary\"\n      title=\"Dropdown\"\n      id=\"input-group-dropdown-1\"\n    >\n      <Dropdown.Item href=\"#\">Action</Dropdown.Item>\n      <Dropdown.Item href=\"#\">Another action</Dropdown.Item>\n      <Dropdown.Item href=\"#\">Something else here</Dropdown.Item>\n      <Dropdown.Divider />\n      <Dropdown.Item href=\"#\">Separated link</Dropdown.Item>\n    </DropdownButton>\n    <FormControl aria-describedby=\"basic-addon1\" />\n  </InputGroup>",
+          "html": "<div class=\"input-group mb-3\">\n  <div class=\"input-group-prepend\">\n    <button class=\"btn btn-outline-secondary dropdown-toggle\" type=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">Dropdown</button>\n    <div class=\"dropdown-menu\">\n      <a class=\"dropdown-item\" href=\"#\">Action</a>\n      <a class=\"dropdown-item\" href=\"#\">Another action</a>\n      <a class=\"dropdown-item\" href=\"#\">Something else here</a>\n      <div role=\"separator\" class=\"dropdown-divider\"></div>\n      <a class=\"dropdown-item\" href=\"#\">Separated link</a>\n    </div>\n  </div>\n  <input type=\"text\" class=\"form-control\" aria-label=\"Text input with dropdown button\">\n</div>"
+        }
+      },
+      "name": "InputGroup/Addon/Button Dropdown",
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "id": "a32783da-9803-4d3e-91b9-224c38c20e6e",
+        "last_sync": "2020-10-07T21:11:34.137Z",
+        "sync": true
+      },
+      "description": "# Input group\nEasily extend form controls by adding text, buttons, or button groups on either side of textual inputs, custom selects, and custom file inputs.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/input-group/)\n- [React](https://react-bootstrap.github.io/components/input-group/)"
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [
+        "input-group",
+        "addon",
+        "split"
+      ],
+      "id": "21627682-5710-40d2-989d-f89c0385c5cf",
+      "related_entity_ids": [
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
+      "snippets": {
+        "trigger": "input_group_addon_split",
+        "languages": {
+          "html": "<div class=\"input-group mb-3\">\n  <div class=\"input-group-prepend\">\n    <button type=\"button\" class=\"btn btn-outline-secondary\">Action</button>\n    <button type=\"button\" class=\"btn btn-outline-secondary dropdown-toggle dropdown-toggle-split\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\n      <span class=\"sr-only\">Toggle Dropdown</span>\n    </button>\n    <div class=\"dropdown-menu\">\n      <a class=\"dropdown-item\" href=\"#\">Action</a>\n      <a class=\"dropdown-item\" href=\"#\">Another action</a>\n      <a class=\"dropdown-item\" href=\"#\">Something else here</a>\n      <div role=\"separator\" class=\"dropdown-divider\"></div>\n      <a class=\"dropdown-item\" href=\"#\">Separated link</a>\n    </div>\n  </div>\n  <input type=\"text\" class=\"form-control\" aria-label=\"Text input with segmented dropdown button\">\n</div>"
+        }
+      },
+      "name": "InputGroup/Addon/Spited dropdown button",
+      "ext-com_adobe-cclib": {
+        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "id": "21627682-5710-40d2-989d-f89c0385c5cf",
+        "last_sync": "2020-10-07T21:11:34.137Z",
+        "sync": true
+      },
+      "description": "# Input group\nEasily extend form controls by adding text, buttons, or button groups on either side of textual inputs, custom selects, and custom file inputs.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/input-group/)\n- [React](https://react-bootstrap.github.io/components/input-group/)"
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [
+        "input-group",
+        "buttons",
+        "left"
+      ],
+      "id": "e62fb415-a948-47f2-8f63-6e005e7428dd",
+      "related_entity_ids": [
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
+      "snippets": {
+        "trigger": "input_group_buttons_left",
+        "languages": {
+          "html": "<div class=\"input-group mb-3\">\n  <div class=\"input-group-prepend\" id=\"button-addon3\">\n    <button class=\"btn btn-outline-secondary\" type=\"button\">Button</button>\n    <button class=\"btn btn-outline-secondary\" type=\"button\">Button</button>\n  </div>\n  <input type=\"text\" class=\"form-control\" placeholder=\"\" aria-label=\"Example text with two button addons\" aria-describedby=\"button-addon3\">\n</div>",
+          "javascriptreact": "  <InputGroup className=\"mb-3\">\n    <InputGroup.Prepend>\n      <Button variant=\"outline-secondary\">Button</Button>\n      <Button variant=\"outline-secondary\">Button</Button>\n    </InputGroup.Prepend>\n    <FormControl aria-describedby=\"basic-addon1\" />\n  </InputGroup>"
+        }
       },
       "name": "InputGroup/Button Addon/Left/Two Buttons",
       "ext-com_adobe-cclib": {
@@ -2345,17 +2441,28 @@
         "id": "e62fb415-a948-47f2-8f63-6e005e7428dd",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
+      },
+      "description": "# Input group\nEasily extend form controls by adding text, buttons, or button groups on either side of textual inputs, custom selects, and custom file inputs.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/input-group/)\n- [React](https://react-bootstrap.github.io/components/input-group/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "input-group",
+        "buttons",
+        "right"
+      ],
       "id": "b77da066-cd0e-4564-a5dd-e5f0f08029ec",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "input_group_buttons_right",
+        "languages": {
+          "html": "<div class=\"input-group\">\n  <input type=\"text\" class=\"form-control\" placeholder=\"Recipient's username\" aria-label=\"Recipient's username with two button addons\" aria-describedby=\"button-addon4\">\n  <div class=\"input-group-append\" id=\"button-addon4\">\n    <button class=\"btn btn-outline-secondary\" type=\"button\">Button</button>\n    <button class=\"btn btn-outline-secondary\" type=\"button\">Button</button>\n  </div>\n</div>",
+          "javascriptreact": "  <InputGroup>\n    <FormControl\n      placeholder=\"Recipient's username\"\n      aria-label=\"Recipient's username\"\n      aria-describedby=\"basic-addon2\"\n    />\n    <InputGroup.Append>\n      <Button variant=\"outline-secondary\">Button</Button>\n      <Button variant=\"outline-secondary\">Button</Button>\n    </InputGroup.Append>\n  </InputGroup>"
+        }
       },
       "name": "InputGroup/Button Addon/Right/Two Buttons",
       "ext-com_adobe-cclib": {
@@ -2363,35 +2470,26 @@
         "id": "b77da066-cd0e-4564-a5dd-e5f0f08029ec",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "437252fc-daf6-4dbb-9cae-0d09b8744fee",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
       },
-      "name": "InputGroup/Custom File Input/Middle",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "437252fc-daf6-4dbb-9cae-0d09b8744fee",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
+      "description": "# Input group\nEasily extend form controls by adding text, buttons, or button groups on either side of textual inputs, custom selects, and custom file inputs.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/input-group/)\n- [React](https://react-bootstrap.github.io/components/input-group/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "input-group",
+        "custom-input"
+      ],
       "id": "d7839d3c-17ef-4463-8352-8f7e1abc5810",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "input_group_custom_input",
+        "languages": {
+          "html": "<div class=\"input-group mb-3\">\n  <div class=\"custom-file\">\n    <input type=\"file\" class=\"custom-file-input\" id=\"inputGroupFile02\">\n    <label class=\"custom-file-label\" for=\"inputGroupFile02\" aria-describedby=\"inputGroupFileAddon02\">Choose file</label>\n  </div>\n  <div class=\"input-group-append\">\n    <span class=\"input-group-text\" id=\"inputGroupFileAddon02\">Upload</span>\n  </div>\n</div>"
+        }
       },
       "name": "InputGroup/Custom File Input/Right",
       "ext-com_adobe-cclib": {
@@ -2399,53 +2497,26 @@
         "id": "d7839d3c-17ef-4463-8352-8f7e1abc5810",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "43ae12b6-155d-4b21-9f97-df383b440b04",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
       },
-      "name": "InputGroup/Custom File Input/With button",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "43ae12b6-155d-4b21-9f97-df383b440b04",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
+      "description": "# Input group\nEasily extend form controls by adding text, buttons, or button groups on either side of textual inputs, custom selects, and custom file inputs.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/input-group/)\n- [React](https://react-bootstrap.github.io/components/input-group/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
-      "id": "acb3b5ed-20a9-40e5-a239-a9b9f68991a7",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "InputGroup/Custom Select/Button",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "acb3b5ed-20a9-40e5-a239-a9b9f68991a7",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
+      "tags": [
+        "input-group",
+        "custom-select"
+      ],
       "id": "1b8cc8ec-e9f0-4a00-a826-eb9887e02cdb",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "input_group_custom_select",
+        "languages": {
+          "html": "<div class=\"input-group mb-3\">\n  <div class=\"input-group-prepend\">\n    <button class=\"btn btn-outline-secondary\" type=\"button\">Button</button>\n  </div>\n  <select class=\"custom-select\" id=\"inputGroupSelect03\" aria-label=\"Example select with button addon\">\n    <option selected>Choose...</option>\n    <option value=\"1\">One</option>\n    <option value=\"2\">Two</option>\n    <option value=\"3\">Three</option>\n  </select>\n</div>"
+        }
       },
       "name": "InputGroup/Custom Select/Helper",
       "ext-com_adobe-cclib": {
@@ -2453,17 +2524,27 @@
         "id": "1b8cc8ec-e9f0-4a00-a826-eb9887e02cdb",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
+      },
+      "description": "# Input group\nEasily extend form controls by adding text, buttons, or button groups on either side of textual inputs, custom selects, and custom file inputs.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/input-group/)\n- [React](https://react-bootstrap.github.io/components/input-group/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "input-group",
+        "prepend"
+      ],
       "id": "620e8211-75b4-4404-8836-56112fc53982",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "input_group_prepend",
+        "languages": {
+          "html": "<div class=\"input-group mb-3\">\n  <input type=\"text\" class=\"form-control\" placeholder=\"Recipient's username\" aria-label=\"Recipient's username\" aria-describedby=\"basic-addon2\">\n  <div class=\"input-group-append\">\n    <span class=\"input-group-text\" id=\"basic-addon2\">@example.com</span>\n  </div>\n</div>",
+          "javascriptreact": "  <InputGroup className=\"mb-3\">\n    <FormControl\n      placeholder=\"Recipient's username\"\n      aria-label=\"Recipient's username\"\n      aria-describedby=\"basic-addon2\"\n    />\n    <InputGroup.Append>\n      <InputGroup.Text id=\"basic-addon2\">@example.com</InputGroup.Text>\n    </InputGroup.Append>\n  </InputGroup>"
+        }
       },
       "name": "InputGroup/Input Prepend",
       "ext-com_adobe-cclib": {
@@ -2471,71 +2552,27 @@
         "id": "620e8211-75b4-4404-8836-56112fc53982",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "11a029e3-5d06-40f5-ab8e-3c63500aa8be",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
       },
-      "name": "InputGroup/Left/Button Addon",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "11a029e3-5d06-40f5-ab8e-3c63500aa8be",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
+      "description": "# Input group\nEasily extend form controls by adding text, buttons, or button groups on either side of textual inputs, custom selects, and custom file inputs.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/input-group/)\n- [React](https://react-bootstrap.github.io/components/input-group/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
-      "id": "a32783da-9803-4d3e-91b9-224c38c20e6e",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "InputGroup/Left/Button Dropdown",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "a32783da-9803-4d3e-91b9-224c38c20e6e",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "21627682-5710-40d2-989d-f89c0385c5cf",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "InputGroup/Left/Spited dropdown button",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "21627682-5710-40d2-989d-f89c0385c5cf",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
+      "tags": [
+        "input-group",
+        "multiple-input"
+      ],
       "id": "21246e57-3acc-4e82-942e-4fbf504b2095",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "input_group_multiple_input",
+        "languages": {
+          "html": "<div class=\"input-group\">\n  <div class=\"input-group-prepend\">\n    <span class=\"input-group-text\">First and last name</span>\n  </div>\n  <input type=\"text\" aria-label=\"First name\" class=\"form-control\">\n  <input type=\"text\" aria-label=\"Last name\" class=\"form-control\">\n</div>",
+          "javascriptreact": "<InputGroup className=\"mb-3\">\n  <InputGroup.Prepend>\n    <InputGroup.Text>First and last name</InputGroup.Text>\n  </InputGroup.Prepend>\n  <FormControl />\n  <FormControl />\n</InputGroup>"
+        }
       },
       "name": "InputGroup/Multiple inputs",
       "ext-com_adobe-cclib": {
@@ -2543,17 +2580,27 @@
         "id": "21246e57-3acc-4e82-942e-4fbf504b2095",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
+      },
+      "description": "# Input group\nEasily extend form controls by adding text, buttons, or button groups on either side of textual inputs, custom selects, and custom file inputs.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/input-group/)\n- [React](https://react-bootstrap.github.io/components/input-group/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "input-group",
+        "multiple-addon"
+      ],
       "id": "6eb99aca-b594-4120-8634-96c99ad0aba4",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "input_group_multiple_addon",
+        "languages": {
+          "html": "<div class=\"input-group mb-3\">\n  <div class=\"input-group-prepend\">\n    <span class=\"input-group-text\">$</span>\n    <span class=\"input-group-text\">0.00</span>\n  </div>\n  <input type=\"text\" class=\"form-control\" aria-label=\"Dollar amount (with dot and two decimal places)\">\n</div>",
+          "javascriptreact": "  <InputGroup className=\"mb-3\">\n    <InputGroup.Prepend>\n      <InputGroup.Text>$</InputGroup.Text>\n      <InputGroup.Text>0.00</InputGroup.Text>\n    </InputGroup.Prepend>\n    <FormControl\n      placeholder=\"Recipient's username\"\n      aria-label=\"Amount (to the nearest dollar)\"\n    />\n  </InputGroup>"
+        }
       },
       "name": "InputGroup/Multiple inputs/2Helpers",
       "ext-com_adobe-cclib": {
@@ -2561,17 +2608,27 @@
         "id": "6eb99aca-b594-4120-8634-96c99ad0aba4",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
+      },
+      "description": "# Input group\nEasily extend form controls by adding text, buttons, or button groups on either side of textual inputs, custom selects, and custom file inputs.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/input-group/)\n- [React](https://react-bootstrap.github.io/components/input-group/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "input-group",
+        "prepend-addon"
+      ],
       "id": "cc1600ed-614f-411b-be06-08e90741f371",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "input_group_prepend_addon",
+        "languages": {
+          "html": "<div class=\"input-group mb-3\">\n  <div class=\"input-group-prepend\">\n    <span class=\"input-group-text\" id=\"inputGroup-sizing-default\">Default</span>\n  </div>\n  <input type=\"text\" class=\"form-control\" aria-label=\"Sizing example input\" aria-describedby=\"inputGroup-sizing-default\">\n</div>",
+          "javascriptreact": "  <InputGroup className=\"mb-3\">\n    <InputGroup.Prepend>\n      <InputGroup.Text id=\"inputGroup-sizing-default\">Default</InputGroup.Text>\n    </InputGroup.Prepend>\n    <FormControl\n      aria-label=\"Default\"\n      aria-describedby=\"inputGroup-sizing-default\"\n    />\n  </InputGroup>"
+        }
       },
       "name": "InputGroup/Prepend/Label",
       "ext-com_adobe-cclib": {
@@ -2579,71 +2636,27 @@
         "id": "cc1600ed-614f-411b-be06-08e90741f371",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "ac623a87-13ba-47bf-bb7c-6e25b694cdc1",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
       },
-      "name": "InputGroup/Right/Button Addon",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "ac623a87-13ba-47bf-bb7c-6e25b694cdc1",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
+      "description": "# Input group\nEasily extend form controls by adding text, buttons, or button groups on either side of textual inputs, custom selects, and custom file inputs.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/input-group/)\n- [React](https://react-bootstrap.github.io/components/input-group/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
-      "id": "5cc183ea-2cb7-43b5-b83f-a5c311823e7e",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "InputGroup/Right/Button Dropdown",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "5cc183ea-2cb7-43b5-b83f-a5c311823e7e",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "deb78a5e-bb47-4724-a424-1a088f423f6b",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "InputGroup/Right/Spited dropdown button",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "deb78a5e-bb47-4724-a424-1a088f423f6b",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
+      "tags": [
+        "input-group",
+        "checkbox"
+      ],
       "id": "df9e1453-a909-4c85-a518-978483ae5940",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "input_group_checkbox",
+        "languages": {
+          "javascriptreact": "  <InputGroup className=\"mb-3\">\n    <InputGroup.Prepend>\n      <InputGroup.Checkbox aria-label=\"Checkbox for following text input\" />\n    </InputGroup.Prepend>\n    <FormControl aria-label=\"Text input with checkbox\" />\n  </InputGroup>",
+          "html": "<div class=\"input-group mb-3\">\n  <div class=\"input-group-prepend\">\n    <div class=\"input-group-text\">\n      <input type=\"checkbox\" aria-label=\"Checkbox for following text input\">\n    </div>\n  </div>\n  <input type=\"text\" class=\"form-control\" aria-label=\"Text input with checkbox\">\n</div>"
+        }
       },
       "name": "InputGroup/With Checkbox",
       "ext-com_adobe-cclib": {
@@ -2651,17 +2664,27 @@
         "id": "df9e1453-a909-4c85-a518-978483ae5940",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
+      },
+      "description": "# Input group\nEasily extend form controls by adding text, buttons, or button groups on either side of textual inputs, custom selects, and custom file inputs.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/input-group/)\n- [React](https://react-bootstrap.github.io/components/input-group/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "input-group",
+        "radiobutton"
+      ],
       "id": "9ec151e6-646f-48cc-96c1-7981be2e7512",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "input_group_radiobutton",
+        "languages": {
+          "html": "<div class=\"input-group\">\n  <div class=\"input-group-prepend\">\n    <div class=\"input-group-text\">\n      <input type=\"radio\" aria-label=\"Radio button for following text input\">\n    </div>\n  </div>\n  <input type=\"text\" class=\"form-control\" aria-label=\"Text input with radio button\">\n</div>",
+          "javascriptreact": "  <InputGroup>\n    <InputGroup.Prepend>\n      <InputGroup.Radio aria-label=\"Radio button for following text input\" />\n    </InputGroup.Prepend>\n    <FormControl aria-label=\"Text input with radio button\" />\n  </InputGroup>"
+        }
       },
       "name": "InputGroup/With Radio button",
       "ext-com_adobe-cclib": {
@@ -2669,197 +2692,57 @@
         "id": "9ec151e6-646f-48cc-96c1-7981be2e7512",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "2e8487ee-70aa-450e-a956-f5f47cb93a44",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
       },
-      "name": "Layout/Media Object/Left-aligned",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "2e8487ee-70aa-450e-a956-f5f47cb93a44",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
+      "description": "# Input group\nEasily extend form controls by adding text, buttons, or button groups on either side of textual inputs, custom selects, and custom file inputs.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/input-group/)\n- [React](https://react-bootstrap.github.io/components/input-group/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
-      "id": "6442f739-671f-4a30-b042-ff51c40da583",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Layout/Media Object/Right-aligned",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "6442f739-671f-4a30-b042-ff51c40da583",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "43131565-59ce-473d-91b7-b0b03a1a9890",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "List Group/Contextual/Danger",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "43131565-59ce-473d-91b7-b0b03a1a9890",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "1d170168-08a4-43e4-a285-c35d880e3bfd",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "List Group/Contextual/Info",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "1d170168-08a4-43e4-a285-c35d880e3bfd",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "eef56a7a-a535-4e16-9c76-9f024514f236",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "List Group/Contextual/Light",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "eef56a7a-a535-4e16-9c76-9f024514f236",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
+      "tags": [
+        "list-group",
+        "contextual"
+      ],
       "id": "57bde37d-cd6e-4fe4-8fae-a3be8dcac21c",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Primary / #007BFF",
+        "Universal / Black / #000000",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "list_group_contextual",
+        "languages": {
+          "html": "<ul class=\"list-group\">\n  <li class=\"list-group-item\">Dapibus ac facilisis in</li>\n\n  \n  <li class=\"list-group-item list-group-item-primary\">A simple primary list group item</li>\n  <li class=\"list-group-item list-group-item-secondary\">A simple secondary list group item</li>\n  <li class=\"list-group-item list-group-item-success\">A simple success list group item</li>\n  <li class=\"list-group-item list-group-item-danger\">A simple danger list group item</li>\n  <li class=\"list-group-item list-group-item-warning\">A simple warning list group item</li>\n  <li class=\"list-group-item list-group-item-info\">A simple info list group item</li>\n  <li class=\"list-group-item list-group-item-light\">A simple light list group item</li>\n  <li class=\"list-group-item list-group-item-dark\">A simple dark list group item</li>\n</ul>",
+          "javascriptreact": "<ListGroup>\n  <ListGroup.Item>No style</ListGroup.Item>\n  <ListGroup.Item variant=\"primary\">Primary</ListGroup.Item>\n  <ListGroup.Item variant=\"secondary\">Secondary</ListGroup.Item>\n  <ListGroup.Item variant=\"success\">Success</ListGroup.Item>\n  <ListGroup.Item variant=\"danger\">Danger</ListGroup.Item>\n  <ListGroup.Item variant=\"warning\">Warning</ListGroup.Item>\n  <ListGroup.Item variant=\"info\">Info</ListGroup.Item>\n  <ListGroup.Item variant=\"light\">Light</ListGroup.Item>\n  <ListGroup.Item variant=\"dark\">Dark</ListGroup.Item>\n</ListGroup>"
+        }
       },
-      "name": "List Group/Contextual/Primary",
+      "name": "List Group/Contextual",
       "ext-com_adobe-cclib": {
         "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
         "id": "57bde37d-cd6e-4fe4-8fae-a3be8dcac21c",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "08e85c44-4077-42ca-82eb-4c2f05bc92e7",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
       },
-      "name": "List Group/Contextual/Primary",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "08e85c44-4077-42ca-82eb-4c2f05bc92e7",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
+      "description": "# List group\nList groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/list-group/)\n- [React](https://react-bootstrap.github.io/components/list-group/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
-      "id": "8e3d90b4-af5e-4a84-badf-1aed478b7eca",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "List Group/Contextual/Secondary",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "8e3d90b4-af5e-4a84-badf-1aed478b7eca",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "4601bd05-6d70-4eb0-9b62-69d832bd12f1",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "List Group/Contextual/Success",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "4601bd05-6d70-4eb0-9b62-69d832bd12f1",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "f9f20ed2-2c39-424a-bc5a-31a69f4ceaa3",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "List Group/Contextual/Warning",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "f9f20ed2-2c39-424a-bc5a-31a69f4ceaa3",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
+      "tags": [
+        "list-group",
+        "flush"
+      ],
       "id": "bfdcfb67-b314-4c15-b24d-3debd9511712",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / White / #FFFFFF",
+        "Universal / Black / #000000",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "list_group_flush",
+        "languages": {
+          "html": "<ul class=\"list-group list-group-flush\">\n  <li class=\"list-group-item\">Cras justo odio</li>\n  <li class=\"list-group-item\">Dapibus ac facilisis in</li>\n  <li class=\"list-group-item\">Morbi leo risus</li>\n  <li class=\"list-group-item\">Porta ac consectetur ac</li>\n  <li class=\"list-group-item\">Vestibulum at eros</li>\n</ul>",
+          "javascriptreact": "<ListGroup variant=\"flush\">\n  <ListGroup.Item>Cras justo odio</ListGroup.Item>\n  <ListGroup.Item>Dapibus ac facilisis in</ListGroup.Item>\n  <ListGroup.Item>Morbi leo risus</ListGroup.Item>\n  <ListGroup.Item>Porta ac consectetur ac</ListGroup.Item>\n</ListGroup>"
+        }
       },
       "name": "List Group/Flush",
       "ext-com_adobe-cclib": {
@@ -2867,89 +2750,56 @@
         "id": "bfdcfb67-b314-4c15-b24d-3debd9511712",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "0aa363c7-2d89-49f6-9e51-40deb59dcdf2",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
       },
-      "name": "List Group/Horizontal/Left",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "0aa363c7-2d89-49f6-9e51-40deb59dcdf2",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
+      "description": "# List group\nList groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/list-group/)\n- [React](https://react-bootstrap.github.io/components/list-group/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "list-group",
+        "horizontal"
+      ],
       "id": "a696502d-a537-44fa-bf83-8a28f56029a8",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / Black / #000000",
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "list_group_horizontal",
+        "languages": {
+          "html": "<ul class=\"list-group list-group-horizontal\">\n  <li class=\"list-group-item\">Cras justo odio</li>\n  <li class=\"list-group-item\">Dapibus ac facilisis in</li>\n  <li class=\"list-group-item\">Morbi leo risus</li>\n</ul>",
+          "javascriptreact": "<ListGroup horizontal>\n  <ListGroup.Item>This</ListGroup.Item>\n  <ListGroup.Item>ListGroup</ListGroup.Item>\n  <ListGroup.Item>renders</ListGroup.Item>\n  <ListGroup.Item>horizontally!</ListGroup.Item>\n</ListGroup>"
+        }
       },
-      "name": "List Group/Horizontal/MiIdle",
+      "name": "List Group/Horizontal",
       "ext-com_adobe-cclib": {
         "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
         "id": "a696502d-a537-44fa-bf83-8a28f56029a8",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "1bbc8f92-e48f-4d96-8dbd-fdc231d08d4c",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
       },
-      "name": "List Group/Horizontal/Right",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "1bbc8f92-e48f-4d96-8dbd-fdc231d08d4c",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
+      "description": "# List group\nList groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/list-group/)\n- [React](https://react-bootstrap.github.io/components/list-group/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
-      "id": "18f3aca2-bf4d-47c3-b718-1e7ac0190b59",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "List Group/Item heading/Bottom",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "18f3aca2-bf4d-47c3-b718-1e7ac0190b59",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
+      "tags": [
+        "list-group",
+        "custom-content"
+      ],
       "id": "27af5e43-980d-4ee3-a22d-9631c9c78136",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / Black / #000000",
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "list_group_custom_content",
+        "languages": {
+          "html": "<div class=\"list-group\">\n  <a href=\"#\" class=\"list-group-item list-group-item-action active\">\n    <div class=\"d-flex w-100 justify-content-between\">\n      <h5 class=\"mb-1\">List group item heading</h5>\n      <small>3 days ago</small>\n    </div>\n    <p class=\"mb-1\">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>\n    <small>Donec id elit non mi porta.</small>\n  </a>\n  <a href=\"#\" class=\"list-group-item list-group-item-action\">\n    <div class=\"d-flex w-100 justify-content-between\">\n      <h5 class=\"mb-1\">List group item heading</h5>\n      <small class=\"text-muted\">3 days ago</small>\n    </div>\n    <p class=\"mb-1\">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>\n    <small class=\"text-muted\">Donec id elit non mi porta.</small>\n  </a>\n  <a href=\"#\" class=\"list-group-item list-group-item-action\">\n    <div class=\"d-flex w-100 justify-content-between\">\n      <h5 class=\"mb-1\">List group item heading</h5>\n      <small class=\"text-muted\">3 days ago</small>\n    </div>\n    <p class=\"mb-1\">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>\n    <small class=\"text-muted\">Donec id elit non mi porta.</small>\n  </a>\n</div>"
+        }
       },
       "name": "List Group/Item heading/Center",
       "ext-com_adobe-cclib": {
@@ -2957,89 +2807,28 @@
         "id": "27af5e43-980d-4ee3-a22d-9631c9c78136",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "7330e4dd-3457-496a-9f4c-53d8f9b9964e",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
       },
-      "name": "List Group/Item heading/Top",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "7330e4dd-3457-496a-9f4c-53d8f9b9964e",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
+      "description": "# List group\nList groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/list-group/)\n- [React](https://react-bootstrap.github.io/components/list-group/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
-      "id": "9a385527-db13-4779-8697-1fddaa074b71",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "List Group/Position Standard/Bottom",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "9a385527-db13-4779-8697-1fddaa074b71",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "8a9e340d-ce6a-417f-8458-bd10e5ffd89d",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "List Group/Position Standard/Checkbox/Top",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "8a9e340d-ce6a-417f-8458-bd10e5ffd89d",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "5ffc098d-f36c-4e7f-a3e9-1843a9c47068",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "List Group/Position Standard/Radio/Top",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "5ffc098d-f36c-4e7f-a3e9-1843a9c47068",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
+      "tags": [
+        "list-group",
+        "badge"
+      ],
       "id": "2c9f3df8-19b8-42aa-96f2-55397cdc33ad",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Primary / #007BFF",
+        "Universal / Black / #000000",
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "list_group_badge",
+        "languages": {
+          "html": "<ul class=\"list-group\">\n  <li class=\"list-group-item d-flex justify-content-between align-items-center\">\n    Cras justo odio\n    <span class=\"badge badge-primary badge-pill\">14</span>\n  </li>\n  <li class=\"list-group-item d-flex justify-content-between align-items-center\">\n    Dapibus ac facilisis in\n    <span class=\"badge badge-primary badge-pill\">2</span>\n  </li>\n  <li class=\"list-group-item d-flex justify-content-between align-items-center\">\n    Morbi leo risus\n    <span class=\"badge badge-primary badge-pill\">1</span>\n  </li>\n</ul>"
+        }
       },
       "name": "List Group/With badge",
       "ext-com_adobe-cclib": {
@@ -3047,89 +2836,27 @@
         "id": "2c9f3df8-19b8-42aa-96f2-55397cdc33ad",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "52cad85a-d0bb-4a9f-9b21-83688dd8d9b1",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
       },
-      "name": "List Group/With Checkboxes",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "52cad85a-d0bb-4a9f-9b21-83688dd8d9b1",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
+      "description": "# List group\nList groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/list-group/)\n- [React](https://react-bootstrap.github.io/components/list-group/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
-      "id": "35318986-cd95-4868-8a88-678bff145a9c",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "List Group/With Radios",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "35318986-cd95-4868-8a88-678bff145a9c",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "69eafb7d-b117-4f13-ba02-1613292c2014",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "List Group/Ω/Position Standard/Center",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "69eafb7d-b117-4f13-ba02-1613292c2014",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "fdee2e47-b874-4fb5-8977-81764a45eb66",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "List Group/Ω/Position Standard/Top",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "fdee2e47-b874-4fb5-8977-81764a45eb66",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
+      "tags": [
+        "modal"
+      ],
       "id": "eec56543-eac7-45c5-a419-a45466c57822",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / Black / #000000",
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "modal",
+        "languages": {
+          "javascriptreact": "<Modal.Dialog>\n  <Modal.Header closeButton>\n    <Modal.Title>Modal title</Modal.Title>\n  </Modal.Header>\n\n  <Modal.Body>\n    <p>Modal body text goes here.</p>\n  </Modal.Body>\n\n  <Modal.Footer>\n    <Button variant=\"secondary\">Close</Button>\n    <Button variant=\"primary\">Save changes</Button>\n  </Modal.Footer>\n</Modal.Dialog>",
+          "html": "<div class=\"modal\" tabindex=\"-1\">\n  <div class=\"modal-dialog\">\n    <div class=\"modal-content\">\n      <div class=\"modal-header\">\n        <h5 class=\"modal-title\">Modal title</h5>\n        <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\">\n          <span aria-hidden=\"true\">&times;</span>\n        </button>\n      </div>\n      <div class=\"modal-body\">\n        <p>Modal body text goes here.</p>\n      </div>\n      <div class=\"modal-footer\">\n        <button type=\"button\" class=\"btn btn-secondary\" data-dismiss=\"modal\">Close</button>\n        <button type=\"button\" class=\"btn btn-primary\">Save changes</button>\n      </div>\n    </div>\n  </div>\n</div>"
+        }
       },
       "name": "Modal",
       "ext-com_adobe-cclib": {
@@ -3137,17 +2864,27 @@
         "id": "eec56543-eac7-45c5-a419-a45466c57822",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
-      }
+      },
+      "description": "# Modal\nUse Bootstrap’s JavaScript modal plugin to add dialogs to your site for lightboxes, user notifications, or completely custom content.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/modal/)\n- [React](https://react-bootstrap.github.io/components/modal/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "navbar"
+      ],
       "id": "169c918d-8072-41eb-b42e-413c4410fcf5",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / Black / #000000",
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "navbar",
+        "languages": {
+          "javascriptreact": "<Navbar bg=\"light\" expand=\"lg\">\n  <Navbar.Brand href=\"#home\">React-Bootstrap</Navbar.Brand>\n  <Navbar.Toggle aria-controls=\"basic-navbar-nav\" />\n  <Navbar.Collapse id=\"basic-navbar-nav\">\n    <Nav className=\"mr-auto\">\n      <Nav.Link href=\"#home\">Home</Nav.Link>\n      <Nav.Link href=\"#link\">Link</Nav.Link>\n      <NavDropdown title=\"Dropdown\" id=\"basic-nav-dropdown\">\n        <NavDropdown.Item href=\"#action/3.1\">Action</NavDropdown.Item>\n        <NavDropdown.Item href=\"#action/3.2\">Another action</NavDropdown.Item>\n        <NavDropdown.Item href=\"#action/3.3\">Something</NavDropdown.Item>\n        <NavDropdown.Divider />\n        <NavDropdown.Item href=\"#action/3.4\">Separated link</NavDropdown.Item>\n      </NavDropdown>\n    </Nav>\n    <Form inline>\n      <FormControl type=\"text\" placeholder=\"Search\" className=\"mr-sm-2\" />\n      <Button variant=\"outline-success\">Search</Button>\n    </Form>\n  </Navbar.Collapse>\n</Navbar>",
+          "html": "<nav class=\"navbar navbar-expand-lg navbar-light bg-light\">\n  <a class=\"navbar-brand\" href=\"#\">Navbar</a>\n  <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n    <span class=\"navbar-toggler-icon\"></span>\n  </button>\n\n  <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n    <ul class=\"navbar-nav mr-auto\">\n      <li class=\"nav-item active\">\n        <a class=\"nav-link\" href=\"#\">Home <span class=\"sr-only\">(current)</span></a>\n      </li>\n      <li class=\"nav-item\">\n        <a class=\"nav-link\" href=\"#\">Link</a>\n      </li>\n      <li class=\"nav-item dropdown\">\n        <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\n          Dropdown\n        </a>\n        <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\n          <a class=\"dropdown-item\" href=\"#\">Action</a>\n          <a class=\"dropdown-item\" href=\"#\">Another action</a>\n          <div class=\"dropdown-divider\"></div>\n          <a class=\"dropdown-item\" href=\"#\">Something else here</a>\n        </div>\n      </li>\n      <li class=\"nav-item\">\n        <a class=\"nav-link disabled\" href=\"#\" tabindex=\"-1\" aria-disabled=\"true\">Disabled</a>\n      </li>\n    </ul>\n    <form class=\"form-inline my-2 my-lg-0\">\n      <input class=\"form-control mr-sm-2\" type=\"search\" placeholder=\"Search\" aria-label=\"Search\">\n      <button class=\"btn btn-outline-success my-2 my-sm-0\" type=\"submit\">Search</button>\n    </form>\n  </div>\n</nav>"
+        }
       },
       "name": "Navbar/Default",
       "ext-com_adobe-cclib": {
@@ -3155,287 +2892,28 @@
         "id": "169c918d-8072-41eb-b42e-413c4410fcf5",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "c84cc061-1a02-4224-880e-244150efe0cd",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
       },
-      "name": "Navbar/Dropdown",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "c84cc061-1a02-4224-880e-244150efe0cd",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
+      "description": "# Navbar\nDocumentation and examples for Bootstrap’s powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/navbar/)\n- [React](https://react-bootstrap.github.io/components/navbar/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
-      "id": "86092564-0de7-4e5c-a933-0cec988cbafc",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Navbar/Menu",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "86092564-0de7-4e5c-a933-0cec988cbafc",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "988d5e9c-101d-4a9a-9500-760c92ffb25f",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Navbar/Primary Color",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "988d5e9c-101d-4a9a-9500-760c92ffb25f",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "b591e17a-8a18-4436-8774-6c4ff3cf8d80",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Navs/Horizontal/Dropdown/Link",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "b591e17a-8a18-4436-8774-6c4ff3cf8d80",
-        "last_sync": "2020-10-07T21:11:34.136Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "18e9354d-4f4b-4a0a-b240-701ec323b8f5",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Navs/Nested nav",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "18e9354d-4f4b-4a0a-b240-701ec323b8f5",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "5c4c707d-3e7e-4672-a134-791f62c0a25c",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Navs/tab/active",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "5c4c707d-3e7e-4672-a134-791f62c0a25c",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "93b0910c-2cc6-45fe-8a1d-5e37fdd60db7",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Pagination/Center/Default",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "93b0910c-2cc6-45fe-8a1d-5e37fdd60db7",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "0c1050ee-5826-4f43-a0eb-087d830edd7f",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Pagination/Center/Large",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "0c1050ee-5826-4f43-a0eb-087d830edd7f",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "e0a38d87-caeb-4804-bb7d-e47e483d2ede",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Pagination/Center/Small",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "e0a38d87-caeb-4804-bb7d-e47e483d2ede",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "179e0ee8-b257-4bd1-9756-1e72c13229c3",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Pagination/Left/Default",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "179e0ee8-b257-4bd1-9756-1e72c13229c3",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "38601e8f-554f-4181-89b2-c62ac39675ca",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Pagination/Left/Large",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "38601e8f-554f-4181-89b2-c62ac39675ca",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "31219e4c-aeaa-4873-ad9c-bf6947ceb839",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Pagination/Left/Small",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "31219e4c-aeaa-4873-ad9c-bf6947ceb839",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "d06c6f2a-51e7-4d93-807c-2ab9332fbbb3",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Pagination/Right/Default",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "d06c6f2a-51e7-4d93-807c-2ab9332fbbb3",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "378222d0-b5a1-47ec-9272-4f353b2bdd44",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Pagination/Right/Large",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "378222d0-b5a1-47ec-9272-4f353b2bdd44",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "00a4d118-159b-4bd5-8929-c349a82b3848",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Pagination/Right/Small",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "00a4d118-159b-4bd5-8929-c349a82b3848",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
+      "tags": [
+        "popover",
+        "full"
+      ],
       "id": "fd89b9e3-ec3b-483a-b198-0c816843250f",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / Black / #000000",
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "popover_full",
+        "languages": {
+          "html": "<button type=\"button\" class=\"btn btn-lg btn-danger\" data-toggle=\"popover\" title=\"Popover title\" data-content=\"And here's some amazing content. It's very engaging. Right?\">Click to toggle popover</button>",
+          "javascriptreact": "const popover = (\n  <Popover id=\"popover-basic\">\n    <Popover.Title as=\"h3\">Popover right</Popover.Title>\n    <Popover.Content>\n      And here's some <strong>amazing</strong> content. It's very engaging.\n      right?\n    </Popover.Content>\n  </Popover>\n);\n\nconst Example = () => (\n  <OverlayTrigger trigger=\"click\" placement=\"right\" overlay={popover}>\n    <Button variant=\"success\">Click me to see</Button>\n  </OverlayTrigger>\n);\n\nrender(<Example />);"
+        }
       },
       "name": "Popover/Full",
       "ext-com_adobe-cclib": {
@@ -3443,17 +2921,27 @@
         "id": "fd89b9e3-ec3b-483a-b198-0c816843250f",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
+      },
+      "description": "# Popovers\nDocumentation and examples for adding Bootstrap popovers, like those found in iOS, to any element on your site.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/popovers/)\n- [React](https://react-bootstrap.github.io/components/popovers/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "popover",
+        "simple"
+      ],
       "id": "d8499f8d-6d37-467a-96cc-fdbcc6cb8a25",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / Black / #000000",
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "popover_simple",
+        "languages": {
+          "javascriptreact": "const UpdatingPopover = React.forwardRef(\n  ({ popper, children, show: _, ...props }, ref) => {\n    useEffect(() => {\n      console.log('updating!');\n      popper.scheduleUpdate();\n    }, [children, popper]);\n\n    return (\n      <Popover ref={ref} content {...props}>\n        {children}\n      </Popover>\n    );\n  },\n);\n\nconst longContent = `\n  Very long\n  Multiline content\n  that is engaging and what-not\n`;\nconst shortContent = 'Short and sweet!';\n\nfunction Example() {\n  const [content, setContent] = useState(shortContent);\n\n  useEffect(() => {\n    const timerId = setInterval(() => {\n      setContent(content === shortContent ? longContent : shortContent);\n    }, 3000);\n\n    return () => clearInterval(timerId);\n  });\n\n  return (\n    <OverlayTrigger\n      trigger=\"click\"\n      overlay={\n        <UpdatingPopover id=\"popover-contained\">{content}</UpdatingPopover>\n      }\n    >\n      <Button>Holy guacamole!</Button>\n    </OverlayTrigger>\n  );\n}\n\nrender(<Example />);"
+        }
       },
       "name": "Popover/Simple",
       "ext-com_adobe-cclib": {
@@ -3461,35 +2949,55 @@
         "id": "d8499f8d-6d37-467a-96cc-fdbcc6cb8a25",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
+      },
+      "description": "# Popovers\nDocumentation and examples for adding Bootstrap popovers, like those found in iOS, to any element on your site.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/popovers/)\n- [React](https://react-bootstrap.github.io/components/popovers/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
-      "id": "ff67f925-c65a-497e-a741-5ce8205e2f86",
-      "related_entity_ids": [],
+      "tags": [
+        "progress",
+        "simple"
+      ],
+      "id": "f18d04da-e2de-4b25-9d17-d6316e7ac123",
+      "related_entity_ids": [
+        "Universal / White / #FFFFFF",
+        "Universal / Black / #000000"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "progress_simple",
+        "languages": {
+          "html": "<div class=\"progress\">\n  <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 25%\" aria-valuenow=\"25\" aria-valuemin=\"0\" aria-valuemax=\"100\"></div>\n</div>",
+          "javascriptreact": "<ProgressBar now={60} />"
+        }
       },
-      "name": "Progress/Bar Partial/Base",
+      "name": "Progress/Bar Partial/Simple",
       "ext-com_adobe-cclib": {
         "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "ff67f925-c65a-497e-a741-5ce8205e2f86",
+        "id": "f18d04da-e2de-4b25-9d17-d6316e7ac123",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
+      },
+      "description": "# Progress\nDocumentation and examples for using Bootstrap custom progress bars featuring support for stacked bars, animated backgrounds, and text labels.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/progress/)\n- [React](https://react-bootstrap.github.io/components/progress/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "progress",
+        "stripped"
+      ],
       "id": "f1905b9a-4e58-4e98-bfdc-931dad2438d3",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / Black / #000000",
+        "Universal / White / #FFFFFF"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "progress_stripped",
+        "languages": {
+          "html": "<div class=\"progress\">\n  <div class=\"progress-bar progress-bar-striped\" role=\"progressbar\" style=\"width: 10%\" aria-valuenow=\"10\" aria-valuemin=\"0\" aria-valuemax=\"100\"></div>\n</div>",
+          "javascriptreact": "<ProgressBar striped variant=\"info\" now={20} />"
+        }
       },
       "name": "Progress/Bar Partial/Stripped",
       "ext-com_adobe-cclib": {
@@ -3497,71 +3005,26 @@
         "id": "f1905b9a-4e58-4e98-bfdc-931dad2438d3",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "a2de19ac-2d87-4da0-92bb-6ec569b6a251",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
       },
-      "name": "Progress/Bar Partial/Stripped",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "a2de19ac-2d87-4da0-92bb-6ec569b6a251",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
+      "description": "# Progress\nDocumentation and examples for using Bootstrap custom progress bars featuring support for stacked bars, animated backgrounds, and text labels.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/progress/)\n- [React](https://react-bootstrap.github.io/components/progress/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
-      "id": "0a72115a-4a26-4a7c-848b-52c4bac669e5",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Progress/Container",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "0a72115a-4a26-4a7c-848b-52c4bac669e5",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "f18d04da-e2de-4b25-9d17-d6316e7ac123",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Progress/Container/Bar Partial",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "f18d04da-e2de-4b25-9d17-d6316e7ac123",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
+      "tags": [
+        "radiobutton"
+      ],
       "id": "96ec45c8-5f5c-4504-84a0-03ce5a7c37e7",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "radiobutton",
+        "languages": {
+          "html": "<div class=\"custom-control custom-radio\">\n  <input type=\"radio\" id=\"customRadio1\" name=\"customRadio\" class=\"custom-control-input\">\n  <label class=\"custom-control-label\" for=\"customRadio1\">Toggle this custom radio</label>\n</div>",
+          "javascriptreact": "<Form.Check\n  custom\n  type='radiobutton'\n  id={`disabled-custom-radiobutton`}\n/>"
+        }
       },
       "name": "Radio",
       "ext-com_adobe-cclib": {
@@ -3569,17 +3032,26 @@
         "id": "96ec45c8-5f5c-4504-84a0-03ce5a7c37e7",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
+      },
+      "description": "# Forms\nExamples and usage guidelines for form control styles, layout options, and custom components for creating a wide variety of forms.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/forms/#radios)\n- [React](https://react-bootstrap.github.io/components/forms/#forms-custom-checkboxes-and-radios)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "spinners",
+        "default"
+      ],
       "id": "c043e949-1ad8-47e0-b0c2-c691588da3dd",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Primary / #007BFF"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "spinners_default",
+        "languages": {
+          "html": "<div class=\"spinner-border\" role=\"status\">\n  <span class=\"sr-only\">Loading...</span>\n</div>",
+          "javascriptreact": "<Spinner animation=\"border\" role=\"status\">\n  <span className=\"sr-only\">Loading...</span>\n</Spinner>"
+        }
       },
       "name": "Spinner/Border",
       "ext-com_adobe-cclib": {
@@ -3587,17 +3059,27 @@
         "id": "c043e949-1ad8-47e0-b0c2-c691588da3dd",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
+      },
+      "description": "# Spinners\nIndicate the loading state of a component or page with Bootstrap spinners, built entirely with HTML, CSS, and no JavaScript.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/spinners)\n- [React](https://react-bootstrap.github.io/components/spinners)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "spinners",
+        "button"
+      ],
       "id": "82b83d7d-b787-4878-a653-e196dd25c100",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / White / #FFFFFF",
+        "Primary / #007BFF"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "spinners_button",
+        "languages": {
+          "html": "<button class=\"btn btn-primary\" type=\"button\" disabled>\n  <span class=\"spinner-border spinner-border-sm\" role=\"status\" aria-hidden=\"true\"></span>\n  <span class=\"sr-only\">Loading...</span>\n</button>",
+          "javascriptreact": "<Button variant=\"primary\" disabled>\n  <Spinner\n           as=\"span\"\n           animation=\"border\"\n           size=\"sm\"\n           role=\"status\"\n           aria-hidden=\"true\"\n           />\n  <span className=\"sr-only\">Loading...</span>\n</Button>"
+        }
       },
       "name": "Spinner/Button",
       "ext-com_adobe-cclib": {
@@ -3605,17 +3087,29 @@
         "id": "82b83d7d-b787-4878-a653-e196dd25c100",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
-      }
+      },
+      "description": "# Spinners\nIndicate the loading state of a component or page with Bootstrap spinners, built entirely with HTML, CSS, and no JavaScript.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/spinners)\n- [React](https://react-bootstrap.github.io/components/spinners)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "spinners",
+        "button",
+        "text"
+      ],
       "id": "d9234297-0d87-4d0d-90a9-4372a92fb5ab",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt",
+        "Primary / #007BFF"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "spinners_button_text",
+        "languages": {
+          "html": "<button class=\"btn btn-primary\" type=\"button\" disabled>\n  <span class=\"spinner-border spinner-border-sm\" role=\"status\" aria-hidden=\"true\"></span>\n  Loading...\n</button>",
+          "javascriptreact": "  <Button variant=\"primary\" disabled>\n    <Spinner\n      as=\"span\"\n      animation=\"grow\"\n      size=\"sm\"\n      role=\"status\"\n      aria-hidden=\"true\"\n    />\n    Loading...\n  </Button>"
+        }
       },
       "name": "Spinner/Button text",
       "ext-com_adobe-cclib": {
@@ -3623,17 +3117,26 @@
         "id": "d9234297-0d87-4d0d-90a9-4372a92fb5ab",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
-      }
+      },
+      "description": "# Spinners\nIndicate the loading state of a component or page with Bootstrap spinners, built entirely with HTML, CSS, and no JavaScript.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/spinners)\n- [React](https://react-bootstrap.github.io/components/spinners)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "spinners",
+        "growing"
+      ],
       "id": "22cb9ac1-6dad-4c55-a20b-834514edeb9a",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Primary / #007BFF"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "spinners_growing",
+        "languages": {
+          "javascriptreact": "<Spinner animation=\"grow\" />",
+          "html": "<div class=\"spinner-grow\" role=\"status\">\n  <span class=\"sr-only\">Loading...</span>\n</div>"
+        }
       },
       "name": "Spinner/Growing",
       "ext-com_adobe-cclib": {
@@ -3641,560 +3144,141 @@
         "id": "22cb9ac1-6dad-4c55-a20b-834514edeb9a",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "bc6fab4e-bb91-4878-9216-9c1f29a10df3",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
       },
-      "name": "Table/Body Cell/Bordered/Dark",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "bc6fab4e-bb91-4878-9216-9c1f29a10df3",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
+      "description": "# Spinners\nIndicate the loading state of a component or page with Bootstrap spinners, built entirely with HTML, CSS, and no JavaScript.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/spinners)\n- [React](https://react-bootstrap.github.io/components/spinners)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
-      "id": "ff07a8e2-9d7e-4ae9-865e-2408ed4f4c17",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Table/Body Cell/Bordered/Dark/Small",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "ff07a8e2-9d7e-4ae9-865e-2408ed4f4c17",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "30fcacf6-06d2-43f2-a38a-695581acd4e7",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Table/Body Cell/Bordered/White",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "30fcacf6-06d2-43f2-a38a-695581acd4e7",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "5e07469b-e788-48c8-a77e-81006846eefc",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Table/Body Cell/Bordered/White/Small",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "5e07469b-e788-48c8-a77e-81006846eefc",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "e84088d8-43b8-46b0-80e0-5b48a072b5a8",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Table/Body Cell/Dark",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "e84088d8-43b8-46b0-80e0-5b48a072b5a8",
-        "last_sync": "2020-10-07T21:11:34.136Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "d0042b84-eca4-4958-8b06-85d91f433f0e",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Table/Body Cell/Dark Contextual",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "d0042b84-eca4-4958-8b06-85d91f433f0e",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "5b67c267-0c87-4da8-bf94-18f085abbc9a",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Table/Body Cell/Dark/Small",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "5b67c267-0c87-4da8-bf94-18f085abbc9a",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "625a4605-84d9-4bd7-bb79-734f538e56b1",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Table/Body Cell/Success",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "625a4605-84d9-4bd7-bb79-734f538e56b1",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "16ed1690-4d64-4e18-928d-41619931b5b5",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Table/Body Cell/White",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "16ed1690-4d64-4e18-928d-41619931b5b5",
-        "last_sync": "2020-10-07T21:11:34.136Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "9e3f279f-7c17-4cea-8dc2-2673c1be59f9",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Table/Body Cell/White Contextual",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "9e3f279f-7c17-4cea-8dc2-2673c1be59f9",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "9b61362e-75fa-4026-ad91-f6fe1e0e9ad7",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Table/Body Cell/White/Small",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "9b61362e-75fa-4026-ad91-f6fe1e0e9ad7",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "6542a333-e8bc-49e4-bbd3-566a0b87950b",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Table/Bordered/Dark Table/Small",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "6542a333-e8bc-49e4-bbd3-566a0b87950b",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "942efba0-012a-41f3-99ab-a1bf188909c0",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Table/Bordered/White Table/Small",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "942efba0-012a-41f3-99ab-a1bf188909c0",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "dc143e88-62bf-4bee-8cfa-b260e55fae7c",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Table/Borders",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "dc143e88-62bf-4bee-8cfa-b260e55fae7c",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "32d8f4d9-0177-4406-a39b-0c0ebd03f9d6",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Table/Dark Bordered Table",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "32d8f4d9-0177-4406-a39b-0c0ebd03f9d6",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "1fc917ee-55b2-4d53-8939-6939f66bc091",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Table/Dark Striped Table",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "1fc917ee-55b2-4d53-8939-6939f66bc091",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "74874575-70e8-4893-863f-6405bd16bcc8",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Table/Dark Table",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "74874575-70e8-4893-863f-6405bd16bcc8",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "49528842-b381-49bb-b6ef-3e2249c072bd",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Table/Dark Table/Row",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "49528842-b381-49bb-b6ef-3e2249c072bd",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "48e92f7b-faed-4556-a5c6-643f318558f1",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Table/Dark Table/Small",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "48e92f7b-faed-4556-a5c6-643f318558f1",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "e8dba979-6d1e-44d4-92bb-1524aea3da27",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Table/Head Cell",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "e8dba979-6d1e-44d4-92bb-1524aea3da27",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "152a9bab-4dad-45f4-af89-35c8d197aed4",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Table/Head Cell/Dark Contextual",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "152a9bab-4dad-45f4-af89-35c8d197aed4",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "c31fe4ff-a5b1-4591-8302-726fec9d4108",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Table/Head Cell/Small",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "c31fe4ff-a5b1-4591-8302-726fec9d4108",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "f505c216-9630-4f14-ac05-9fb43ddb7e3e",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Table/Head Cell/White Contextual",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "f505c216-9630-4f14-ac05-9fb43ddb7e3e",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
+      "tags": [
+        "table",
+        "bordered"
+      ],
       "id": "45fd0397-0182-43e6-b2b6-ea089f27a121",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / Black / #000000",
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "table_bordered",
+        "languages": {
+          "html": "<table class=\"table table-bordered\">\n  <thead>\n    <tr>\n      <th scope=\"col\">#</th>\n      <th scope=\"col\">First</th>\n      <th scope=\"col\">Last</th>\n      <th scope=\"col\">Handle</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">1</th>\n      <td>Mark</td>\n      <td>Otto</td>\n      <td>@mdo</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">2</th>\n      <td>Jacob</td>\n      <td>Thornton</td>\n      <td>@fat</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">3</th>\n      <td colspan=\"2\">Larry the Bird</td>\n      <td>@twitter</td>\n    </tr>\n  </tbody>\n</table>",
+          "javascriptreact": "<Table bordered>\n  <thead>\n    <tr>\n      <th>#</th>\n      <th>First Name</th>\n      <th>Last Name</th>\n      <th>Username</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>1</td>\n      <td>Mark</td>\n      <td>Otto</td>\n      <td>@mdo</td>\n    </tr>\n    <tr>\n      <td>2</td>\n      <td>Jacob</td>\n      <td>Thornton</td>\n      <td>@fat</td>\n    </tr>\n    <tr>\n      <td>3</td>\n      <td colSpan=\"2\">Larry the Bird</td>\n      <td>@twitter</td>\n    </tr>\n  </tbody>\n</Table>"
+        }
       },
-      "name": "Table/White Bordered Table",
+      "name": "Table/Bordered",
       "ext-com_adobe-cclib": {
         "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
         "id": "45fd0397-0182-43e6-b2b6-ea089f27a121",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "ef5ddf58-7196-4a3d-b8c5-57f952aaa9ed",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
       },
-      "name": "Table/White Striped Table",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "ef5ddf58-7196-4a3d-b8c5-57f952aaa9ed",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
+      "description": "# Tables\nDocumentation and examples for opt-in styling of tables (given their prevalent use in JavaScript plugins) with Bootstrap.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/content/tables/)\n- [React](https://react-bootstrap.github.io/components/table/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "table",
+        "default"
+      ],
       "id": "9158412b-9d12-4d74-ba3d-f782e724ef85",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / Black / #000000",
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "table_basic",
+        "trigger": "table_default",
         "languages": {
-          "javascriptreact": "<Table striped bordered hover>\n  <thead>\n    <tr>\n      <th>#</th>\n      <th>First Name</th>\n      <th>Last Name</th>\n      <th>Username</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>1</td>\n      <td>Mark</td>\n      <td>Otto</td>\n      <td>@mdo</td>\n    </tr>\n    <tr>\n      <td>2</td>\n      <td>Jacob</td>\n      <td>Thornton</td>\n      <td>@fat</td>\n    </tr>\n    <tr>\n      <td>3</td>\n      <td colSpan=\"2\">Larry the Bird</td>\n      <td>@twitter</td>\n    </tr>\n  </tbody>\n</Table>",
+          "javascriptreact": "<Table>\n  <thead>\n    <tr>\n      <th>#</th>\n      <th>First Name</th>\n      <th>Last Name</th>\n      <th>Username</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>1</td>\n      <td>Mark</td>\n      <td>Otto</td>\n      <td>@mdo</td>\n    </tr>\n    <tr>\n      <td>2</td>\n      <td>Jacob</td>\n      <td>Thornton</td>\n      <td>@fat</td>\n    </tr>\n    <tr>\n      <td>3</td>\n      <td colSpan=\"2\">Larry the Bird</td>\n      <td>@twitter</td>\n    </tr>\n  </tbody>\n</Table>",
           "html": "<table class=\"table\">\n  <thead>\n    <tr>\n      <th scope=\"col\">#</th>\n      <th scope=\"col\">First</th>\n      <th scope=\"col\">Last</th>\n      <th scope=\"col\">Handle</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">1</th>\n      <td>Mark</td>\n      <td>Otto</td>\n      <td>@mdo</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">2</th>\n      <td>Jacob</td>\n      <td>Thornton</td>\n      <td>@fat</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">3</th>\n      <td>Larry</td>\n      <td>the Bird</td>\n      <td>@twitter</td>\n    </tr>\n  </tbody>\n</table>"
         }
       },
-      "name": "Table/White Table",
+      "name": "Table/Default",
       "ext-com_adobe-cclib": {
         "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
         "id": "9158412b-9d12-4d74-ba3d-f782e724ef85",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
       },
-      "description": "## Table Simple\n\nThis is the documentation for the `Table Simple` component from Bootstrap UI Kit"
+      "description": "# Tables\nDocumentation and examples for opt-in styling of tables (given their prevalent use in JavaScript plugins) with Bootstrap.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/content/tables/)\n- [React](https://react-bootstrap.github.io/components/table/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
-      "id": "06d9b30d-1e9d-43ca-89dd-32634532ec8b",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Table/White Table/Row",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "06d9b30d-1e9d-43ca-89dd-32634532ec8b",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
+      "tags": [
+        "table",
+        "small"
+      ],
       "id": "c0ed4158-1622-4ff4-b1dd-bd74bf397a5f",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / Black / #000000",
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "table_small",
+        "languages": {
+          "html": "<table class=\"table table-sm\">\n  <thead>\n    <tr>\n      <th scope=\"col\">#</th>\n      <th scope=\"col\">First</th>\n      <th scope=\"col\">Last</th>\n      <th scope=\"col\">Handle</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">1</th>\n      <td>Mark</td>\n      <td>Otto</td>\n      <td>@mdo</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">2</th>\n      <td>Jacob</td>\n      <td>Thornton</td>\n      <td>@fat</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">3</th>\n      <td colspan=\"2\">Larry the Bird</td>\n      <td>@twitter</td>\n    </tr>\n  </tbody>\n</table>",
+          "javascriptreact": "<Table size=\"sm\">\n  <thead>\n    <tr>\n      <th>#</th>\n      <th>First Name</th>\n      <th>Last Name</th>\n      <th>Username</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>1</td>\n      <td>Mark</td>\n      <td>Otto</td>\n      <td>@mdo</td>\n    </tr>\n    <tr>\n      <td>2</td>\n      <td>Jacob</td>\n      <td>Thornton</td>\n      <td>@fat</td>\n    </tr>\n    <tr>\n      <td>3</td>\n      <td colSpan=\"2\">Larry the Bird</td>\n      <td>@twitter</td>\n    </tr>\n  </tbody>\n</Table>"
+        }
       },
-      "name": "Table/White Table/Small",
+      "name": "Table/Small",
       "ext-com_adobe-cclib": {
         "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
         "id": "c0ed4158-1622-4ff4-b1dd-bd74bf397a5f",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
+      },
+      "description": "# Tables\nDocumentation and examples for opt-in styling of tables (given their prevalent use in JavaScript plugins) with Bootstrap.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/content/tables/)\n- [React](https://react-bootstrap.github.io/components/table/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
-      "id": "b949f824-e70d-4203-925d-57ee328dc674",
-      "related_entity_ids": [],
+      "tags": [
+        "table",
+        "stripped"
+      ],
+      "id": "ef5ddf58-7196-4a3d-b8c5-57f952aaa9ed",
+      "related_entity_ids": [
+        "Universal / Black / #000000",
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "table_stripped",
+        "languages": {
+          "html": "<table class=\"table table-striped\">\n  <thead>\n    <tr>\n      <th scope=\"col\">#</th>\n      <th scope=\"col\">First</th>\n      <th scope=\"col\">Last</th>\n      <th scope=\"col\">Handle</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th scope=\"row\">1</th>\n      <td>Mark</td>\n      <td>Otto</td>\n      <td>@mdo</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">2</th>\n      <td>Jacob</td>\n      <td>Thornton</td>\n      <td>@fat</td>\n    </tr>\n    <tr>\n      <th scope=\"row\">3</th>\n      <td>Larry</td>\n      <td>the Bird</td>\n      <td>@twitter</td>\n    </tr>\n  </tbody>\n</table>",
+          "javascriptreact": "<Table striped>\n  <thead>\n    <tr>\n      <th>#</th>\n      <th>First Name</th>\n      <th>Last Name</th>\n      <th>Username</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>1</td>\n      <td>Mark</td>\n      <td>Otto</td>\n      <td>@mdo</td>\n    </tr>\n    <tr>\n      <td>2</td>\n      <td>Jacob</td>\n      <td>Thornton</td>\n      <td>@fat</td>\n    </tr>\n    <tr>\n      <td>3</td>\n      <td colSpan=\"2\">Larry the Bird</td>\n      <td>@twitter</td>\n    </tr>\n  </tbody>\n</Table>"
+        }
       },
-      "name": "Tables/Base/Contextual/Dark",
+      "name": "Table/Stripped",
       "ext-com_adobe-cclib": {
         "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "b949f824-e70d-4203-925d-57ee328dc674",
+        "id": "ef5ddf58-7196-4a3d-b8c5-57f952aaa9ed",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
-      "tags": [],
-      "id": "de766dfc-95e4-49e0-9098-2c343353f34d",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
       },
-      "name": "Tables/Base/Contextual/White",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "de766dfc-95e4-49e0-9098-2c343353f34d",
-        "last_sync": "2020-10-07T21:11:34.137Z",
-        "sync": true
-      }
+      "description": "# Tables\nDocumentation and examples for opt-in styling of tables (given their prevalent use in JavaScript plugins) with Bootstrap.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/content/tables/)\n- [React](https://react-bootstrap.github.io/components/table/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "toast",
+        "default"
+      ],
       "id": "8f264f34-de05-4ca0-9d59-6b1af296afc3",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / Black / #000000",
+        "Universal / White / #FFFFFF",
+        "Primary / #007BFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
+        "trigger": "toast_default",
         "languages": {}
       },
       "name": "Toasts/Basic",
@@ -4203,17 +3287,28 @@
         "id": "8f264f34-de05-4ca0-9d59-6b1af296afc3",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
-      }
+      },
+      "description": "# Toasts\nPush notifications to your visitors with a toast, a lightweight and easily customizable alert message.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/toasts/)\n- [React](https://react-bootstrap.github.io/components/toasts/)"
     },
     {
       "class": "component",
       "type": "page",
-      "tags": [],
+      "tags": [
+        "tooltip",
+        "default"
+      ],
       "id": "0f15b5e3-88d5-4e67-8f26-29e335568f9e",
-      "related_entity_ids": [],
+      "related_entity_ids": [
+        "Universal / Black / #000000",
+        "Universal / White / #FFFFFF",
+        "H6/Helvetica Neue/16pt"
+      ],
       "snippets": {
-        "trigger": "",
-        "languages": {}
+        "trigger": "tooltip_default",
+        "languages": {
+          "javascriptreact": "function Example() {\n  const [show, setShow] = useState(false);\n  const target = useRef(null);\n\n  return (\n    <>\n      <Button ref={target} onClick={() => setShow(!show)}>\n        Click me!\n      </Button>\n      <Overlay target={target.current} show={show} placement=\"right\">\n        {(props) => (\n          <Tooltip id=\"overlay-example\" {...props}>\n            My Tooltip\n          </Tooltip>\n        )}\n      </Overlay>\n    </>\n  );\n}\n\nrender(<Example />);",
+          "html": "<button type=\"button\" class=\"btn btn-secondary\" data-toggle=\"tooltip\" data-placement=\"top\" title=\"Tooltip on top\">\n  Tooltip on top\n</button>"
+        }
       },
       "name": "Tooltip",
       "ext-com_adobe-cclib": {
@@ -4221,7 +3316,8 @@
         "id": "0f15b5e3-88d5-4e67-8f26-29e335568f9e",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
-      }
+      },
+      "description": "# Tooltips\nDocumentation and examples for adding custom Bootstrap tooltips with CSS and JavaScript using CSS3 for animations and data-attributes for local title storage.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/tooltips/)\n- [React](https://react-bootstrap.github.io/components/overlays/#tooltips)"
     }
   ]
 }

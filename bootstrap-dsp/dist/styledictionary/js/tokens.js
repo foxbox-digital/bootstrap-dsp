@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 15 Oct 2020 04:44:51 GMT
+ * Generated on Thu, 15 Oct 2020 15:14:51 GMT
  */
 
 export const InfoDisable67C3D0 = "#67c3d0";
