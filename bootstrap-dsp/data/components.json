@@ -297,24 +297,6 @@
     {
       "class": "component",
       "type": "page",
-      "tags": [],
-      "id": "493588bc-0d25-468b-8d22-ac51f2ab2723",
-      "related_entity_ids": [],
-      "snippets": {
-        "trigger": "",
-        "languages": {}
-      },
-      "name": "Bootstrap / Header Label",
-      "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
-        "id": "493588bc-0d25-468b-8d22-ac51f2ab2723",
-        "last_sync": "2020-10-07T21:11:34.136Z",
-        "sync": true
-      }
-    },
-    {
-      "class": "component",
-      "type": "page",
       "tags": [
         "breadcrumbs"
       ],
