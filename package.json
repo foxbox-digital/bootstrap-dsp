@@ -1,5 +1,5 @@
 {
-  "name": "adobe-bootstrap-dsp",
+  "name": "@foxbox/adobe-bootstrap-dsp",
   "version": "1.0.0",
   "description": "Bootstrap DSP for Adobe XD VSCode Extension",
   "main": "index.js",
@@ -26,3 +26,4 @@
   },
   "homepage": "https://github.com/foxbox-digital/bootstrap-dsp#readme"
 }
+  
