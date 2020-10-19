@@ -1,0 +1,28 @@
+{
+  "name": "adobe-bootstrap-dsp",
+  "version": "1.0.0",
+  "description": "Bootstrap DSP for Adobe XD VSCode Extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foxbox-digital/bootstrap-dsp.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "vscode",
+    "adobe",
+    "nextjs",
+    "react",
+    "extension",
+    "html"
+  ],
+  "author": "Foxbox Digital",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foxbox-digital/bootstrap-dsp/issues"
+  },
+  "homepage": "https://github.com/foxbox-digital/bootstrap-dsp#readme"
+}
