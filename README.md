@@ -4,11 +4,14 @@
 
 This will allow to demo the power of the Adobe XD VSCode Extension
 
+## Installing
+To install Adobe Bootstrap DSP in your project, please run `npm install @foxbox/adobe-bootstrap-dsp`
+
 ## DSP Setup
 
-- Install the extension
-- Hit `Cmd+Opt+X` to load the Adobe XD Extension UI
-- Load the `bootstrap-dsp` folder
+- Install the [Adobe XD extension for VS Code](https://letsxd.com/vscode)
+- Open the Adobe XD extension for VS Code (`Cmd+Opt+X` for Mac users) and select `Load package`.
+- Navigate to your `node_modules` folder and load the `bootstrap-dsp` folder located inside `@foxbox/adobe-bootstrap-dsp` (DSPs contain a dsp.json file at the root level).
 - Hit the `Start Editing` button
 - Hit the `Finish Editing` button
 
