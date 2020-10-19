@@ -1,11 +1,13 @@
-# Bootstrap DSP for Adobe XD VSCode Extension
+# Bootstrap DSP for the Adobe XD Extension for Visual Studio Code
 
-## Introduction
-
-This will allow to demo the power of the Adobe XD VSCode Extension
+![Bootstrap DSP for the Adobe XD Extension for VS Code, created by Foxbox Digital](https://cdn.sanity.io/images/4j183ajh/production/b2a321602f9748dd3eab04236afc40c98e0a7891-960x419.jpg)
 
 ## Installing
-To install Adobe Bootstrap DSP in your project, please run `npm install @foxbox/adobe-bootstrap-dsp`
+To install Adobe Bootstrap DSP in your project, please run
+
+```
+npm install @foxbox/adobe-bootstrap-dsp
+```
 
 ## DSP Setup
 
