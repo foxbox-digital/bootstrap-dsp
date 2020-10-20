@@ -59,3 +59,6 @@ export default HomePage;
 
 - Bootstrap 5 UI Kit assets: [https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4](https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4)
 - Adobe XD VSCode Extension documentation: [https://github.com/AdobeXD/design-system-package-dsp](https://github.com/AdobeXD/design-system-package-dsp)
+
+## Created by Foxbox Digital
+[Foxbox Digital](https://foxbox.com) is an award-winning digital product agency, headquartered in Chicago. We partner with clients ranging from Fortune 50 companies to high-growth startups and everyone in between to design, develop, and deliver successful digital experiences.
