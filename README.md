@@ -1,6 +1,6 @@
 # Bootstrap DSP for the Adobe XD Extension for Visual Studio Code
 
-![Bootstrap DSP for the Adobe XD Extension for VS Code, created by Foxbox Digital](https://cdn.sanity.io/images/4j183ajh/production/b2a321602f9748dd3eab04236afc40c98e0a7891-960x419.jpg)
+![Bootstrap DSP for the Adobe XD Extension for VS Code, created by Foxbox Digital](https://cdn.sanity.io/images/4j183ajh/production/b0451c2ed326aa6662617b30a74b1f8d4af8d323-1920x838.png)
 
 Make developing with Bootstrap 5 even easier by using our free design system package (DSP) for Visual Studio Code. Gain direct access to Bootstrap code snippets and documentation with Intellisense right in the VS Code editor. This allows you to stay in flow and focus on development, instead of switching between your editor and the docs.
 
