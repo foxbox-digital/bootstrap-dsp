@@ -57,7 +57,7 @@ export default HomePage;
 
 ## Resources
 
-- Bootstrap 5 UI Kit assets: [https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4](https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4)
+- Bootstrap 5 UI Kit assets: [https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e](https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e)
 - Adobe XD VSCode Extension documentation: [https://github.com/AdobeXD/design-system-package-dsp](https://github.com/AdobeXD/design-system-package-dsp)
 
 ## Created by Foxbox Digital

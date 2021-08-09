@@ -25,7 +25,7 @@
       },
       "name": "Alerts/Large/primary",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "32902e9e-cfed-45f2-acc3-579aa9bcf53c",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -53,7 +53,7 @@
       },
       "name": "Alerts/Small/primary",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "5fa9020c-8a9a-445c-88e3-8dd4e7798e7b",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -82,7 +82,7 @@
       },
       "name": "Badge/Badge/h1 Extra Extra Large",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "82a2a586-0ab7-431b-bcb9-a0032bdf638d",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -111,7 +111,7 @@
       },
       "name": "Badge/Badge/h2 Extra Large",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "51b6adef-4ff5-4450-bff9-8b400f2d8697",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -140,7 +140,7 @@
       },
       "name": "Badge/Badge/h3 Large",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "1a5ce370-6a4e-457e-8913-f78aabd1b121",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -169,7 +169,7 @@
       },
       "name": "Badge/Badge/h4 Medium",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "74d89dbf-a743-438f-af8a-5e671c7667e6",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -198,7 +198,7 @@
       },
       "name": "Badge/Badge/h5 Small",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "297ef691-2d53-4ba6-a315-9de6d900a02c",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -229,7 +229,7 @@
       },
       "name": "Badge/Badges as part of button",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "f348cc15-546b-4351-9cdf-098aaf0c548c",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -258,7 +258,7 @@
       },
       "name": "Badge/h6 Extra Small",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "27c7c778-06db-4e03-a500-7429a7fcca79",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -287,7 +287,7 @@
       },
       "name": "Badge/Pill/h6 Extra Small",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "4ab4f21c-f756-4088-9948-bc98c397c5f1",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -315,7 +315,7 @@
       },
       "name": "Breadcrumbs",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "263855f3-4c8f-4620-a2db-aa0220a356b2",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -345,7 +345,7 @@
       },
       "name": "Button/Default/Danger",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "d129018d-06fe-4b74-bcfa-dd877f19da4c",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -375,7 +375,7 @@
       },
       "name": "Button/Default/Dark",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "40096565-5718-411c-a4d4-494b7f4eef68",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -405,7 +405,7 @@
       },
       "name": "Button/Default/Info",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "c004542f-15d1-423e-8520-3e33f7f87976",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -435,7 +435,7 @@
       },
       "name": "Button/Default/Light",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "1ed66d7f-5f93-4607-bd90-66067646923a",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -464,7 +464,7 @@
       },
       "name": "Button/Default/Link",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "7ee6b6e7-8ad8-434b-aa22-76d9dcb4a7fc",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -494,7 +494,7 @@
       },
       "name": "Button/Default/Primary",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "f5bbbaeb-92eb-4946-b2bf-8d34d7084219",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -524,7 +524,7 @@
       },
       "name": "Button/Default/Secondary",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "01aae70d-2717-42c8-8246-e6c407c1388f",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -554,7 +554,7 @@
       },
       "name": "Button/Default/Success",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "07714920-1a59-40d8-a3ed-886964e99103",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -584,7 +584,7 @@
       },
       "name": "Button/Default/Warning",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "061efea8-b407-4cce-bcf1-0998d0b1bfbe",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -614,7 +614,7 @@
       },
       "name": "Button/Large/Danger",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "38b413bf-b336-4673-b55c-c1b62084d2d5",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -644,7 +644,7 @@
       },
       "name": "Button/Large/Dark",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "b6eb54be-a53c-4637-9d7e-13a7b050f3c8",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -674,7 +674,7 @@
       },
       "name": "Button/Large/Info",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "68a474fc-b0b1-4336-9b26-4e87b459966b",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -704,7 +704,7 @@
       },
       "name": "Button/Large/Light",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "13888cc4-f47d-437d-9ebe-13d6f39f5152",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -734,7 +734,7 @@
       },
       "name": "Button/Large/Primary",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "0c9b01f9-98a5-47a8-8e38-451664a7060c",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -764,7 +764,7 @@
       },
       "name": "Button/Large/Secondary",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "ee22932b-a70a-4f87-9a8d-8b61bfd95b39",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -794,7 +794,7 @@
       },
       "name": "Button/Large/Success",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "7db71cdc-54c9-4df4-9b6b-3fa5adfa2a07",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -824,7 +824,7 @@
       },
       "name": "Button/Large/Warning",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "3aa5a085-626c-4f09-8ed2-98abdbf05fcf",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -854,7 +854,7 @@
       },
       "name": "Button/Small/Danger",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "8809d5f2-851e-441d-bfd2-5a90cbecc4e8",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -884,7 +884,7 @@
       },
       "name": "Button/Small/Dark",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "c67bc839-762a-48d2-8ee0-8ccc8b8b7edb",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -914,7 +914,7 @@
       },
       "name": "Button/Small/Info",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "c02eb4c9-3ef8-43bb-91cb-2ddaf65d619a",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -944,7 +944,7 @@
       },
       "name": "Button/Small/Light",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "690e6b56-1258-47d1-bde3-01598d9e76ce",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -974,7 +974,7 @@
       },
       "name": "Button/Small/Primary",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "f269697b-6dcf-4e23-bf5b-68875b887e89",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1004,7 +1004,7 @@
       },
       "name": "Button/Small/Secondary",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "f8d2a45e-383c-4162-8249-1ffda2aa91ce",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1034,7 +1034,7 @@
       },
       "name": "Button/Small/Success",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "d1273b36-aaa9-4899-ad43-ca193e2ded1f",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1064,7 +1064,7 @@
       },
       "name": "Button/Small/Warning",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "88a35709-1e70-4f76-8eed-ed981f7687e1",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1094,7 +1094,7 @@
       },
       "name": "ButtonGroup/Basic",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "cc46c612-6804-44fc-bfa9-317182af254c",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1124,7 +1124,7 @@
       },
       "name": "ButtonGroup/Basic/Large",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "ff1f299e-7f0c-4703-8640-81bef17cf9c5",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1150,7 +1150,7 @@
       },
       "name": "ButtonGroup/Basic/Small",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "bd392230-ee61-4779-ab2a-c47ce4229877",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1179,7 +1179,7 @@
       },
       "name": "ButtonGroup/Basic/Vertical",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "b632c3c2-57a8-4a9e-8913-5fb8450fbf84",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1209,7 +1209,7 @@
       },
       "name": "ButtonGroup/Dropdown",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "3b3c4acc-e63a-4fe7-9b4f-5be6c9010ee5",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -1239,7 +1239,7 @@
       },
       "name": "ButtonGroup/Dropdown/Large",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "e0670f3f-4441-47da-bee9-3a5ab5d9fb5a",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1269,7 +1269,7 @@
       },
       "name": "ButtonGroup/Dropdown/Small",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "077e26e8-0168-467f-a3ad-6b26f96724a5",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1299,7 +1299,7 @@
       },
       "name": "ButtonGroup/Dropdown/Vertical",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "f9d7b7a6-ba5c-497b-9823-3211594700c6",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -1328,7 +1328,7 @@
       },
       "name": "Card/Body",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "018d281f-b16e-441c-aa4e-f03653cd9c83",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -1357,7 +1357,7 @@
       },
       "name": "Card/Card Styles/Outline",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "3c901be2-2412-4f2b-8dc4-958f59662588",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1387,7 +1387,7 @@
       },
       "name": "Card/Card Styles/Outline/Footer",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "906902bc-e1db-430d-8a04-cdb455efad13",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1416,7 +1416,7 @@
       },
       "name": "Card/Color Styles",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "4307f810-2398-43ba-938d-2743c18edc99",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1445,7 +1445,7 @@
       },
       "name": "Card/Image Caps",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "295fc13e-d401-444d-b411-53e9e0e9a454",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -1474,7 +1474,7 @@
       },
       "name": "Card/Image Caps/Horizontal",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "21ee9388-0905-4d00-8750-5bab995bbc67",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1503,7 +1503,7 @@
       },
       "name": "Card/Image Overlay",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "e5a8501a-c831-43a0-8a9d-5d7fd3dfde36",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -1532,7 +1532,7 @@
       },
       "name": "Card/Kitchen sink",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "10236696-c0b4-4e89-ab50-ca4a543e82e9",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -1562,7 +1562,7 @@
       },
       "name": "Card/Navigation",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "34b5584e-b748-4b84-a5b7-843853684395",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1592,7 +1592,7 @@
       },
       "name": "Card/Optional Header",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "c7ac0d3e-6c97-4236-a16c-6018a0a3a3fe",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -1622,7 +1622,7 @@
       },
       "name": "Card/Simple",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "9448fcd1-5d1d-488c-9f37-26d24978be7a",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -1651,7 +1651,7 @@
       },
       "name": "Card/Text Alignment",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "cd274921-5d88-48a4-866c-27a6503906aa",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1681,7 +1681,7 @@
       },
       "name": "Card/Titles, text, and links",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "01b12eb5-8e46-4287-840e-5f70b92ff12b",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -1712,7 +1712,7 @@
       },
       "name": "Card/with images",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "ecb0ccf6-9732-429b-9b80-ad2062ce488a",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -1734,7 +1734,7 @@
       },
       "name": "Checkbox",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "f22b30bf-df53-4a1d-af75-e7158bff40cd",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1762,7 +1762,7 @@
       },
       "name": "Collapse/Button collapse",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "f88f9088-1884-488f-9a87-0fea7de6465b",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1790,7 +1790,7 @@
       },
       "name": "Collapse/Default",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "f6788c52-1acd-4ced-8ed1-be1884a38437",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1816,7 +1816,7 @@
       },
       "name": "Divider",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "49d5517d-a1c8-4007-bc23-dde4be0b293c",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1845,7 +1845,7 @@
       },
       "name": "Dropdown/Button/Default/Large",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "d505f186-67d5-445d-8243-da7ad1011dcf",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1874,7 +1874,7 @@
       },
       "name": "Dropdown/Button/Default/Small",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "cc28390f-2a9f-45d3-857c-a9fe3fec2632",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1903,7 +1903,7 @@
       },
       "name": "Dropdown/Button/Split Button/Default",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "9e3e907b-25f0-4d1a-b48f-67bb8eebd966",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -1932,7 +1932,7 @@
       },
       "name": "Dropdown/Menu forms/with footer",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "6ed609cd-a5d6-4296-911a-da1397794a4e",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1960,7 +1960,7 @@
       },
       "name": "Dropdown/Menu headers",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "aa4f3161-bf51-44f9-a0ec-cfa8aae81704",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -1989,7 +1989,7 @@
       },
       "name": "Form/Form Group/Basic/Default",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "7323e7aa-8bdc-4458-9d0d-7f7cd1e29a4c",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -2018,7 +2018,7 @@
       },
       "name": "Form/Form Group/Basic/Default",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "7c9eb829-fe40-45b4-a9fa-49a9273d858e",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -2047,7 +2047,7 @@
       },
       "name": "Form/Form Group/Helper/Default",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "0e4702fd-5f85-486d-b756-2ecb3fce3ab9",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -2075,7 +2075,7 @@
       },
       "name": "Form/Input/Checkbox Group/Default",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "a88ca8e4-93f3-44f7-8b64-785602824ea0",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -2103,7 +2103,7 @@
       },
       "name": "Form/Input/Radio Group/Default",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "62e41138-e8b5-4764-85c7-afbeaf29190d",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -2132,7 +2132,7 @@
       },
       "name": "Form/Input/Text/Default",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "f83ce229-1610-4cd7-9c54-80b0c55b6e85",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -2162,7 +2162,7 @@
       },
       "name": "Form/Input/Text/Large",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "39b54e74-92fa-471c-8f48-344fc097ebb3",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -2192,7 +2192,7 @@
       },
       "name": "Form/Input/Text/Small",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "9ff0ee94-4c14-4162-9f40-90b944d14479",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -2219,7 +2219,7 @@
       },
       "name": "Form/Range",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "e50ec100-b5f7-4f10-b033-50c82d7f7f4e",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2247,7 +2247,7 @@
       },
       "name": "Form/Select/Default",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "eccb0321-19bf-4523-a683-9c91424d6a13",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -2275,7 +2275,7 @@
       },
       "name": "Form/Switches",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "492f80e5-10f3-4e7b-af7b-f949a8e67966",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2304,7 +2304,7 @@
       },
       "name": "Form/Textarea/Default",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "252aa9eb-1a5c-45a7-ba1b-b5f1252771c4",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -2333,7 +2333,7 @@
       },
       "name": "InputGroup/Addon/Button Addon",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "11a029e3-5d06-40f5-ab8e-3c63500aa8be",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2362,7 +2362,7 @@
       },
       "name": "InputGroup/Addon/Button Dropdown",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "a32783da-9803-4d3e-91b9-224c38c20e6e",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2390,7 +2390,7 @@
       },
       "name": "InputGroup/Addon/Spited dropdown button",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "21627682-5710-40d2-989d-f89c0385c5cf",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2419,7 +2419,7 @@
       },
       "name": "InputGroup/Button Addon/Left/Two Buttons",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "e62fb415-a948-47f2-8f63-6e005e7428dd",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2448,7 +2448,7 @@
       },
       "name": "InputGroup/Button Addon/Right/Two Buttons",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "b77da066-cd0e-4564-a5dd-e5f0f08029ec",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2475,7 +2475,7 @@
       },
       "name": "InputGroup/Custom File Input/Right",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "d7839d3c-17ef-4463-8352-8f7e1abc5810",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2502,7 +2502,7 @@
       },
       "name": "InputGroup/Custom Select/Helper",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "1b8cc8ec-e9f0-4a00-a826-eb9887e02cdb",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2530,7 +2530,7 @@
       },
       "name": "InputGroup/Input Prepend",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "620e8211-75b4-4404-8836-56112fc53982",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2558,7 +2558,7 @@
       },
       "name": "InputGroup/Multiple inputs",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "21246e57-3acc-4e82-942e-4fbf504b2095",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2586,7 +2586,7 @@
       },
       "name": "InputGroup/Multiple inputs/2Helpers",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "6eb99aca-b594-4120-8634-96c99ad0aba4",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2614,7 +2614,7 @@
       },
       "name": "InputGroup/Prepend/Label",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "cc1600ed-614f-411b-be06-08e90741f371",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2642,7 +2642,7 @@
       },
       "name": "InputGroup/With Checkbox",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "df9e1453-a909-4c85-a518-978483ae5940",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2670,7 +2670,7 @@
       },
       "name": "InputGroup/With Radio button",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "9ec151e6-646f-48cc-96c1-7981be2e7512",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2699,7 +2699,7 @@
       },
       "name": "List Group/Contextual",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "57bde37d-cd6e-4fe4-8fae-a3be8dcac21c",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2728,7 +2728,7 @@
       },
       "name": "List Group/Flush",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "bfdcfb67-b314-4c15-b24d-3debd9511712",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2757,7 +2757,7 @@
       },
       "name": "List Group/Horizontal",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "a696502d-a537-44fa-bf83-8a28f56029a8",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2785,7 +2785,7 @@
       },
       "name": "List Group/Item heading/Center",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "27af5e43-980d-4ee3-a22d-9631c9c78136",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2814,7 +2814,7 @@
       },
       "name": "List Group/With badge",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "2c9f3df8-19b8-42aa-96f2-55397cdc33ad",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2842,7 +2842,7 @@
       },
       "name": "Modal",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "eec56543-eac7-45c5-a419-a45466c57822",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -2870,7 +2870,7 @@
       },
       "name": "Navbar/Default",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "169c918d-8072-41eb-b42e-413c4410fcf5",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2899,7 +2899,7 @@
       },
       "name": "Popover/Full",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "fd89b9e3-ec3b-483a-b198-0c816843250f",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2927,7 +2927,7 @@
       },
       "name": "Popover/Simple",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "d8499f8d-6d37-467a-96cc-fdbcc6cb8a25",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2955,7 +2955,7 @@
       },
       "name": "Progress/Bar Partial/Simple",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "f18d04da-e2de-4b25-9d17-d6316e7ac123",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -2983,7 +2983,7 @@
       },
       "name": "Progress/Bar Partial/Stripped",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "f1905b9a-4e58-4e98-bfdc-931dad2438d3",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -3010,7 +3010,7 @@
       },
       "name": "Radio",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "96ec45c8-5f5c-4504-84a0-03ce5a7c37e7",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -3037,7 +3037,7 @@
       },
       "name": "Spinner/Border",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "c043e949-1ad8-47e0-b0c2-c691588da3dd",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -3065,7 +3065,7 @@
       },
       "name": "Spinner/Button",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "82b83d7d-b787-4878-a653-e196dd25c100",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -3095,7 +3095,7 @@
       },
       "name": "Spinner/Button text",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "d9234297-0d87-4d0d-90a9-4372a92fb5ab",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -3122,7 +3122,7 @@
       },
       "name": "Spinner/Growing",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "22cb9ac1-6dad-4c55-a20b-834514edeb9a",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -3151,7 +3151,7 @@
       },
       "name": "Table/Bordered",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "45fd0397-0182-43e6-b2b6-ea089f27a121",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -3180,7 +3180,7 @@
       },
       "name": "Table/Default",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "9158412b-9d12-4d74-ba3d-f782e724ef85",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -3209,7 +3209,7 @@
       },
       "name": "Table/Small",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "c0ed4158-1622-4ff4-b1dd-bd74bf397a5f",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -3238,7 +3238,7 @@
       },
       "name": "Table/Stripped",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "ef5ddf58-7196-4a3d-b8c5-57f952aaa9ed",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
@@ -3265,7 +3265,7 @@
       },
       "name": "Toasts/Basic",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "8f264f34-de05-4ca0-9d59-6b1af296afc3",
         "last_sync": "2020-10-07T21:11:34.136Z",
         "sync": true
@@ -3294,7 +3294,7 @@
       },
       "name": "Tooltip",
       "ext-com_adobe-cclib": {
-        "source": "https://assets.adobe.com/public/12e45de1-ef2f-4ec8-6b99-28b1012038a4",
+        "source": "https://assets.adobe.com/public/4ed7617e-4c25-4294-6cc0-d240c39f8a7e",
         "id": "0f15b5e3-88d5-4e67-8f26-29e335568f9e",
         "last_sync": "2020-10-07T21:11:34.137Z",
         "sync": true
